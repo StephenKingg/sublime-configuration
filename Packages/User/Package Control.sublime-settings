@@ -1,0 +1,38 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AutoFileName",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ConvertToUTF8",
+		"CSS3",
+		"CSScomb",
+		"DocBlockr",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"Http Requester",
+		"JavaScript & NodeJS Snippets",
+		"JavaScriptNext - ES6 Syntax",
+		"jQuery",
+		"JsFormat",
+		"Markdown Extended",
+		"Markdown Preview",
+		"Monokai Extended",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"Terminal",
+		"View In Browser"
+	]
+}
