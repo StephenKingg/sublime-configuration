@@ -1551,26 +1551,18 @@
 					}
 				},
 				{
-					"file": "/D/_GitHub/griver-mobile/webpack.config.js",
+					"file": "/D/_GitHub/griver-mobile/client/videos/index.js",
 					"settings":
 					{
-						"buffer_size": 3043,
+						"buffer_size": 257,
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/D/OneDrive/_Notes/Git使用指南.md",
+					"file": "/D/_GitHub/griver-mobile/client/index.js",
 					"settings":
 					{
-						"buffer_size": 22,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/_GitHub/blog/source/_posts/How-to-integrate-Sublime-Text-3-with-Git-and-GitHub.md",
-					"settings":
-					{
-						"buffer_size": 2841,
+						"buffer_size": 985,
 						"line_ending": "Windows"
 					}
 				}
@@ -1687,12 +1679,15 @@
 			},
 			"expanded_folders":
 			[
+				"/D/_GitHub/griver-mobile",
 				"/D/_GitHub/griver-mobile/client",
 				"/D/_GitHub/griver-mobile/client/videos",
 				"/D/OneDrive/_Notes"
 			],
 			"file_history":
 			[
+				"/D/_GitHub/griver-mobile/.eslintrc",
+				"/D/OneDrive/_Notes/Git使用指南.md",
 				"/D/_GitHub/blog/source/_posts/How-to-integrate-Sublime-Text-3-with-Git-and-GitHub.md",
 				"/D/_GitHub/griver-mobile/webpack.config.js",
 				"/D/_GitHub/griver-mobile/.gitignore",
@@ -1818,9 +1813,7 @@
 				"/D/test/css/79.css",
 				"/D/test/79.html",
 				"/D/test/77.html",
-				"/D/test/78.html",
-				"/D/test/76.html",
-				"/D/OneDrive/_Notes/front-end.txt"
+				"/D/test/78.html"
 			],
 			"find":
 			{
@@ -2169,7 +2162,7 @@
 								"translation.y": 62215.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 5,
+							"stack_index": 4,
 							"type": "text"
 						},
 						{
@@ -2272,7 +2265,7 @@
 								"translation.y": 1092.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 4,
+							"stack_index": 3,
 							"type": "text"
 						},
 						{
@@ -2436,24 +2429,24 @@
 								"translation.y": 345.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 3,
+							"stack_index": 2,
 							"type": "text"
 						},
 						{
 							"buffer": 3,
-							"file": "/D/_GitHub/griver-mobile/webpack.config.js",
-							"semi_transient": true,
+							"file": "/D/_GitHub/griver-mobile/client/videos/index.js",
+							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 3043,
+								"buffer_size": 257,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										475,
-										475
+										0,
+										0
 									]
 								],
 								"settings":
@@ -2463,17 +2456,121 @@
 									{
 										"close":
 										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/D/_GitHub/griver-mobile/client/index.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 985,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										382,
+										382
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
 											"1":
 											[
-												530,
-												531
+												381,
+												382
 											]
 										},
 										"icon":
 										{
 											"1":
 											[
-												"Packages/BracketHighlighter/icons/square_bracket.png",
+												"Packages/BracketHighlighter/icons/single_quote.png",
 												"brackethighlighter.default"
 											]
 										},
@@ -2481,8 +2578,8 @@
 										{
 											"1":
 											[
-												434,
-												435
+												364,
+												365
 											]
 										},
 										"unmatched":
@@ -2552,217 +2649,11 @@
 									"tab_size": 2,
 									"translate_tabs_to_spaces": true
 								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/D/OneDrive/_Notes/Git使用指南.md",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 22,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										22,
-										22
-									]
-								],
-								"settings":
-								{
-									"auto_complete": false,
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content"
-									],
-									"open_with_edit": true,
-									"syntax": "Packages/Markdown Extended/Syntaxes/Markdown Extended.sublime-syntax"
-								},
-								"translation.x": 0.0,
+								"translation.x": -0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/D/_GitHub/blog/source/_posts/How-to-integrate-Sublime-Text-3-with-Git-and-GitHub.md",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 2841,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										382,
-										382
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content"
-									],
-									"syntax": "Packages/Markdown Extended/Syntaxes/Markdown Extended.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
 							"type": "text"
 						}
 					]
@@ -2808,7 +2699,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,739,5,284,1375",
+			"position": "0,2,2,-32000,-32000,-1,-1,739,5,284,1375",
 			"project": "",
 			"replace":
 			{
