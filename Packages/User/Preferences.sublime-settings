@@ -2,7 +2,7 @@
 	"color_scheme": "Packages/User/SublimeLinter/Monokai Extended Bright (SL).tmTheme",
 	"draw_white_space": "all",
 	"font_face": "Source_Code_Pro-YaHei Hybrid",
-	"font_size": 13,
+	"font_size": 12,
 	"ignored_packages":
 	[
 		"Vintage"

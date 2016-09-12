@@ -1,18 +1,25 @@
 {
 	"folder_history":
 	[
+		"/D/griver-mobile/client/www/isso",
+		"/D/OneDrive/_Notes",
+		"/D/_Projects/test",
+		"/D/griver-mobile",
+		"/C/xampp/htdocs/danmaku",
+		"/D/_Projects/test-comment",
+		"/D/_Projects/DotaVideo",
+		"/D/_Projects/vitual-list",
 		"/D/_GitHub/griver-mobile",
 		"/D/_GitHub/react-redux-form",
 		"/D/myAPP",
 		"/D/_GitHub/beginning-react",
 		"/D/test",
-		"/D/OneDrive/_Notes",
 		"/D/[金少]/[learning]/notes",
 		"/D/BattleShip",
 		"/D/meiBuy"
 	],
 	"last_version": 3114,
-	"last_window_id": 17,
+	"last_window_id": 45,
 	"log_indexing": false,
 	"settings":
 	{
@@ -24,12 +31,356 @@
 				"selected_items":
 				[
 					[
-						"cla",
-						"classString〔variable〕"
+						"repla",
+						"replaySrc〔variable〕"
+					],
+					[
+						"play_",
+						"play_hls_url〔variable〕"
+					],
+					[
+						"adsc",
+						"adsContent4"
+					],
+					[
+						"adsC",
+						"adsContent3"
+					],
+					[
+						"stalled",
+						"stalledEvent〔variable〕"
+					],
+					[
+						"replay_",
+						"replay_text〔variable〕"
+					],
+					[
+						"vid",
+						"videoType〔variable〕"
+					],
+					[
+						"sour",
+						"sourcelist〔variable〕"
+					],
+					[
+						"des",
+						"description〔variable〕"
+					],
+					[
+						"str",
+						"stream_status〔variable〕"
+					],
+					[
+						"get",
+						"getDay〔function〕"
+					],
+					[
+						"getE",
+						"getDate〔function〕"
+					],
+					[
+						"slidd",
+						"sliderDiv"
+					],
+					[
+						"jq",
+						"jquery-3.1.0.min.js"
+					],
+					[
+						"js",
+						"slick.min.js"
+					],
+					[
+						"css",
+						"slick-theme.css"
+					],
+					[
+						"jqu",
+						"jquery-3.1.0.min.js"
+					],
+					[
+						"141",
+						"141.js"
+					],
+					[
+						"_sl",
+						"_slidePrev"
+					],
+					[
+						"pre",
+						"previousButton"
+					],
+					[
+						"desc",
+						"description"
+					],
+					[
+						"re",
+						"renderPlaylist"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"rando",
+						"randomNum"
+					],
+					[
+						"email",
+						"emailTag"
+					],
+					[
+						"ema",
+						"emailTag"
+					],
+					[
+						"live",
+						"live_name"
+					],
+					[
+						"font",
+						"font-family"
+					],
+					[
+						"c",
+						"css/"
+					],
+					[
+						"min",
+						"video.min.js"
+					],
+					[
+						"contr",
+						"videojs-contrib-hls.min.js"
+					],
+					[
+						"www",
+						"www/"
+					],
+					[
+						"v",
+						"video.min.js"
+					],
+					[
+						"vp",
+						"vplayer"
+					],
+					[
+						"vide",
+						"videoButtonStatus"
+					],
+					[
+						"render",
+						"renderPlaylists〔function〕"
+					],
+					[
+						"sli",
+						"slick.min.js"
+					],
+					[
+						"slic",
+						"slick-theme.css"
+					],
+					[
+						"slci",
+						"slick.css"
+					],
+					[
+						"per",
+						"perfect-scrollbar.css"
+					],
+					[
+						"pl",
+						"videojs-playlist.js"
+					],
+					[
+						"ab",
+						"videojs_ABdm.js"
+					],
+					[
+						"vjs",
+						"vjs-big-play-centered"
+					],
+					[
+						"time",
+						"timeoutID"
+					],
+					[
+						"timeou",
+						"timeoutID〔variable〕"
+					],
+					[
+						"overtime",
+						"overtimeButton〔variable〕"
+					],
+					[
+						"comment",
+						"commentScript〔variable〕"
+					],
+					[
+						"over",
+						"overtimeButton〔variable〕"
+					],
+					[
+						"query",
+						"querySelector"
+					],
+					[
+						"down",
+						"download_form"
+					],
+					[
+						"do",
+						"download"
+					],
+					[
+						"downloa",
+						"download_btn"
+					],
+					[
+						"replay",
+						"replayText"
+					],
+					[
+						"rep",
+						"replay_btn〔variable〕"
+					],
+					[
+						"repa",
+						"replay_btn"
+					],
+					[
+						"ads",
+						"adsImage〔variable〕"
+					],
+					[
+						"que",
+						"querySelector"
+					],
+					[
+						"current",
+						"currentTime"
+					],
+					[
+						"hls",
+						"videojs5-hlsjs-source-handler.js"
+					],
+					[
+						"text-de",
+						"text-decoration-line"
+					],
+					[
+						"padding",
+						"padding-right"
+					],
+					[
+						"ob",
+						"object-fit"
 					],
 					[
 						"class",
-						"classString"
+						"className〔variable〕"
+					],
+					[
+						"直播",
+						"直播技术支持："
+					],
+					[
+						"inlin",
+						"inline-block"
+					],
+					[
+						"su",
+						"videojs.suggestedVideoEndcap.js"
+					],
+					[
+						"ad",
+						"videojs.ads.js"
+					],
+					[
+						"a",
+						"amazeui.min.css"
+					],
+					[
+						"136",
+						"136.css"
+					],
+					[
+						"style",
+						"stylesheet"
+					],
+					[
+						"lib",
+						"libs/"
+					],
+					[
+						"s",
+						"videojs-resolution-switcher.css"
+					],
+					[
+						"135",
+						"135.css"
+					],
+					[
+						"img",
+						"img/"
+					],
+					[
+						"132",
+						"132.js"
+					],
+					[
+						"131",
+						"131.js"
+					],
+					[
+						"unlink",
+						"fs.unlink(path, callback);"
+					],
+					[
+						"readFile",
+						"fs.readFile(path, options, callback_);"
+					],
+					[
+						"requ",
+						"require〔function〕"
+					],
+					[
+						"index",
+						"index.js"
+					],
+					[
+						"Nav",
+						"Navreq"
+					],
+					[
+						"obj",
+						"objSub〔variable〕"
+					],
+					[
+						"show",
+						"showName"
+					],
+					[
+						"123",
+						"123.js"
+					],
+					[
+						"_",
+						"_theme.scss"
+					],
+					[
+						"eve",
+						"eventEmitter〔variable〕"
+					],
+					[
+						"cla",
+						"classString〔variable〕"
 					],
 					[
 						"handleP",
@@ -84,20 +435,12 @@
 						"test1.js"
 					],
 					[
-						"min",
-						"react.min.js"
-					],
-					[
 						"test",
 						"test2.jsx"
 					],
 					[
 						"getD",
 						"getDay〔function〕"
-					],
-					[
-						"get",
-						"getTime〔function〕"
 					],
 					[
 						"create",
@@ -136,32 +479,12 @@
 						"border-top"
 					],
 					[
-						"text-de",
-						"text-decoration-style"
-					],
-					[
-						"over",
-						"overline"
-					],
-					[
 						"line-",
 						"line-through"
 					],
 					[
-						"re",
-						"relative"
-					],
-					[
-						"text",
-						"text-align"
-					],
-					[
 						"text-a",
 						"text-align"
-					],
-					[
-						"font",
-						"font-size"
 					],
 					[
 						"im",
@@ -174,14 +497,6 @@
 					[
 						"border-c",
 						"border-collapse"
-					],
-					[
-						"do",
-						"download.png	w:256 h:256"
-					],
-					[
-						"img",
-						"img/"
 					],
 					[
 						"image",
@@ -226,314 +541,6 @@
 					[
 						"ch",
 						"checkbox"
-					],
-					[
-						"addC",
-						"addClass〔function〕"
-					],
-					[
-						"65",
-						"65-addClass.js"
-					],
-					[
-						"str",
-						"stripeTables〔function〕"
-					],
-					[
-						"bgc",
-						"background-color"
-					],
-					[
-						"a_",
-						"a_keys"
-					],
-					[
-						"dis",
-						"displayAccesskeys〔function〕"
-					],
-					[
-						"item",
-						"item_ul〔variable〕"
-					],
-					[
-						"append",
-						"appendChild"
-					],
-					[
-						"quote",
-						"quoteChildren〔variable〕"
-					],
-					[
-						"super",
-						"superscript〔variable〕"
-					],
-					[
-						"last",
-						"lastChild"
-					],
-					[
-						"64",
-						"64-displayCitations.js"
-					],
-					[
-						"di",
-						"displayAbbreviations"
-					],
-					[
-						"add",
-						"addLoadEvent〔function〕"
-					],
-					[
-						"6",
-						"63-addLoadEvent.js"
-					],
-					[
-						"app",
-						"appendChild"
-					],
-					[
-						"abb",
-						"abbr_header_text〔variable〕"
-					],
-					[
-						"abbr",
-						"abbr_header"
-					],
-					[
-						"td",
-						"text-decoration"
-					],
-					[
-						"63",
-						"63-getNewContent.js"
-					],
-					[
-						"desc",
-						"description〔variable〕"
-					],
-					[
-						"des",
-						"desciption〔variable〕"
-					],
-					[
-						"Google",
-						"Google大发好"
-					],
-					[
-						"k",
-						"kbd	Tag"
-					],
-					[
-						"git",
-						"git@github.com:username"
-					],
-					[
-						"crea",
-						"createElement〔function〕"
-					],
-					[
-						"place",
-						"placeholder"
-					],
-					[
-						"getE",
-						"getElementById	(前端学习笔记.txt)"
-					],
-					[
-						"current",
-						"currentColor"
-					],
-					[
-						"bac",
-						"backgroundcolor	(前端学习笔记.txt)"
-					],
-					[
-						"54",
-						"54_worker1.js"
-					],
-					[
-						"getS",
-						"getStoreArray〔function〕"
-					],
-					[
-						"stickiesA",
-						"stickiesArray〔variable〕"
-					],
-					[
-						"abs",
-						"absolute"
-					],
-					[
-						"push",
-						"pushUnpushButtons"
-					],
-					[
-						"t",
-						"twitter.png	w:256 h:256"
-					],
-					[
-						"css",
-						"44.css"
-					],
-					[
-						"clearW",
-						"clearWatchButton"
-					],
-					[
-						"destL",
-						"destLongRads"
-					],
-					[
-						"startL",
-						"startLongRads"
-					],
-					[
-						"errorMessage",
-						"errorMessage〔variable〕"
-					],
-					[
-						"myM",
-						"myMovie1"
-					],
-					[
-						"showtimes",
-						"showtimes"
-					],
-					[
-						"setM",
-						"setMinutes〔function〕"
-					],
-					[
-						"texti",
-						"text-indent"
-					],
-					[
-						"onkey",
-						"onkeypress〔function〕"
-					],
-					[
-						"gets",
-						"getStoreArray"
-					],
-					[
-						"link",
-						"link	Tag"
-					],
-					[
-						"set",
-						"setTimeout〔function〕"
-					],
-					[
-						"getm",
-						"getMinutes〔function〕"
-					],
-					[
-						"inne",
-						"innerWidth〔variable〕"
-					],
-					[
-						"js",
-						"jsLib/"
-					],
-					[
-						"pro",
-						"prototype"
-					],
-					[
-						"setI",
-						"setInterval〔function〕"
-					],
-					[
-						"ge",
-						"generateShipLocations〔function〕"
-					],
-					[
-						"ship",
-						"shipLength〔variable〕"
-					],
-					[
-						"ships",
-						"shipsSunk"
-					],
-					[
-						"tans",
-						"transform"
-					],
-					[
-						"frame",
-						"frameset	Tag"
-					],
-					[
-						"lowes",
-						"lowestCost"
-					],
-					[
-						"lowe",
-						"lowestCost〔argument〕"
-					],
-					[
-						"low",
-						"lowestCost"
-					],
-					[
-						"prin",
-						"printHighest"
-					],
-					[
-						"em",
-						"emptyArr"
-					],
-					[
-						"is",
-						"isSunk"
-					],
-					[
-						"onmou",
-						"onmouseover	Attr"
-					],
-					[
-						"ws",
-						"word-spacing"
-					],
-					[
-						"bloc",
-						"blockquote	(前端学习笔记.txt)"
-					],
-					[
-						"ww",
-						"word-wrap"
-					],
-					[
-						"gra",
-						"gradient3"
-					],
-					[
-						"fun",
-						"function"
-					],
-					[
-						"submi",
-						"submitButton"
-					],
-					[
-						"wt",
-						"-webkit-transform: 〔property〕"
-					],
-					[
-						"moz",
-						"-moz-transition: 〔property〕"
-					],
-					[
-						"webt",
-						"-webkit-transition: 〔property〕"
-					],
-					[
-						"webkitt",
-						"-webkit-transition: 〔property〕"
-					],
-					[
-						"ve",
-						"vertical-align"
 					]
 				]
 			},
@@ -571,17 +578,25 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 289.0,
-				"last_filter": "pis",
+				"height": 392.0,
+				"last_filter": "",
 				"selected_items":
 				[
 					[
-						"pis",
-						"Package Control: Install Package"
+						"aut",
+						"Autoprefix CSS"
 					],
 					[
 						"prp",
 						"Package Control: Remove Package"
+					],
+					[
+						"html",
+						"HTMLBeautify"
+					],
+					[
+						"pis",
+						"Package Control: Install Package"
 					],
 					[
 						"auto",
@@ -628,7 +643,7 @@
 						"Toggle Comment"
 					]
 				],
-				"width": 528.0
+				"width": 464.0
 			},
 			"console":
 			{
@@ -648,144 +663,146 @@
 			},
 			"file_history":
 			[
-				"/D/myAPP/.gitignore",
-				"/D/myAPP/package.json",
-				"/C/Users/King/Desktop/hosts",
-				"/D/test/css/96.css",
-				"/D/test/96.html",
-				"/D/_GitHub/react-redux-form/app/components/index.js",
-				"/D/_GitHub/react-redux-form/app/components/contact-form.js",
-				"/D/_GitHub/react-redux-form/build/index.html",
-				"/D/_GitHub/react-redux-form/app/components/user-form.jsx",
-				"/D/_GitHub/react-redux-form/app/index.jsx",
-				"/D/_GitHub/react-redux-form/app/store.jsx",
-				"/D/_GitHub/react-redux-form/webpack.config.js",
-				"/D/_GitHub/react-form-with-antd/src/entries/index.html",
-				"/D/_GitHub/react-form-with-antd/src/entries/index.js",
-				"/D/_GitHub/react-form-with-antd/webpack.config.js",
-				"/D/_Learning/111.txt",
-				"/D/_GitHub/beginning-react/app/index.jsx",
-				"/D/_GitHub/beginning-react/app/main.css",
-				"/D/_GitHub/beginning-react/app/components/MyForm.jsx",
-				"/D/_GitHub/beginning-react/build/index.html",
-				"/D/_GitHub/beginning-react/app/actions.jsx",
-				"/D/_GitHub/react-redux-form/package.json",
-				"/D/_GitHub/validation/lib/validation.jsx",
-				"/D/_GitHub/validation/lib/Validate.jsx",
-				"/D/_GitHub/validation/example1/App.jsx",
-				"/D/_GitHub/validation/example1/main-client.jsx",
-				"/D/_GitHub/validation/html/index.html",
-				"/D/_GitHub/validation/.eslintrc",
-				"/D/_GitHub/validation/gulpfile.babel.js",
-				"/D/_GitHub/react-redux-form/app/components/App.jsx",
-				"/D/_GitHub/react-redux-form/app/components/forms/login-form.jsx",
-				"/D/_GitHub/react-redux-form/app/main.css",
-				"/D/_GitHub/beginning-react/app/components/forms/login-form.jsx",
-				"/D/_GitHub/beginning-react/webpack.config.js",
-				"/D/_GitHub/beginning-react/package.json",
-				"/D/_GitHub/react-redux-form/.babelrc",
-				"/D/_GitHub/beginning-react/.babelrc",
-				"/D/_GitHub/react-redux-form/.gitignore",
-				"/D/_GitHub/beginning-react/.gitignore",
+				"/D/griver-mobile/client/videos/components/vhigh/index.js",
+				"/D/griver-mobile/client/containers/App/style.scss",
+				"/D/OneDrive/_Notes/notes1.txt",
+				"/D/griver-mobile/client/videos/components/vod/index.js",
+				"/D/griver-mobile/client/videos/components/live/index.js",
+				"/D/griver-mobile/client/videos/components/universal/index.js",
+				"/D/griver-mobile/client/videos/components/rosemega/style.scss",
+				"/D/griver-mobile/client/containers/App/index.js",
+				"/D/griver-mobile/client/videos/components/universal/style.scss",
+				"/D/griver-mobile/client/videos/components/test/style.scss",
+				"/D/_Projects/isso/isso/js/app/api.js",
+				"/D/griver-mobile/client/videos/components/test/index.js",
+				"/D/griver-mobile/client/videos/components/index.js",
+				"/D/griver-mobile/client/videos/components/tibohui/style.scss",
+				"/D/griver-mobile/client/videos/components/vod/style.scss",
+				"/D/griver-mobile/client/index.js",
+				"/D/griver-mobile/client/videos/components/vnormal/style.scss",
+				"/D/griver-mobile/client/videos/components/tibohui/index.js",
+				"/D/embed.min.js",
+				"/D/_Projects/isso/isso/js/app/dom.js",
+				"/D/_Projects/isso/isso/js/app/isso.js",
+				"/D/griver-mobile/client/www/isso/js/app/isso.js",
+				"/D/_Projects/isso/isso/js/app/globals.js",
+				"/D/_Projects/isso/isso/js/app/count.js",
+				"/D/_Projects/isso/isso/js/app/config.js",
+				"/D/_Projects/isso/isso/js/app/text/postbox.jade",
+				"/D/griver-mobile/client/www/scripts/js/videojs.ads.js",
+				"/D/griver-mobile/client/www/isso/js/app/api.js",
+				"/D/griver-mobile/client/www/isso/css/isso.css",
+				"/D/griver-mobile/client/videos/components/play/index.js",
+				"/D/griver-mobile/client/videos/components/navr/index.js",
+				"/D/griver-mobile/client/videos/components/hbn/style.scss",
+				"/D/griver-mobile/client/www/scripts/js/video-js.css",
+				"/D/_Projects/test/140.css",
+				"/D/_Projects/test/140.js",
+				"/C/xampp/htdocs/test-hls/140.html",
+				"/D/_Projects/test/139.html",
+				"/D/_Projects/test/140.html",
+				"/D/griver-mobile/static/www/isso/js/embed.min.js",
+				"/D/Iconsmind-Outline-Smile.ico",
+				"/D/emoticon-34-512.gif",
+				"/D/08nq.jpg",
+				"/D/21-512.png",
+				"/D/_Learning/embed.min.js",
+				"/D/_Projects/isso/isso/js/app/jade.js",
+				"/D/_Projects/isso/isso/js/app/lib.js",
+				"/D/_Projects/isso/isso/js/app/utils.js",
+				"/D/griver-mobile/client/www/isso/js/embed.min.js",
+				"/D/_Projects/isso/isso/js/embed.js",
+				"/D/_Projects/isso/isso/js/count.js",
+				"/D/_Projects/isso/isso/js/config.js",
+				"/D/griver-mobile/.gitignore",
+				"/C/xampp/htdocs/test-hls/111.html",
+				"/D/griver-mobile/client/videos/components/rosemega/index.js",
+				"/D/griver-mobile/client/index.html",
+				"/D/griver-mobile/client/videos/components/nav/index.js",
+				"/D/griver-mobile/client/videos/components/tibohui",
 				"/D/OneDrive/_Notes/英语笔记.txt",
-				"/D/_GitHub/beginning-react/app/constants.jsx",
-				"/D/_GitHub/thinkry.github.io/style.css",
-				"/D/_GitHub/beginning-react/app/components/myForm.jsx",
-				"/D/_GitHub/beginning-react/app/components/Note.jsx",
-				"/D/_GitHub/beginning-react/build/bundle.js",
-				"/D/myAPP/webpack.config.js",
-				"/D/_GitHub/beginning-react/components/App.jsx",
-				"/D/_GitHub/beginning-react/app/app/components/App.jsx",
-				"/D/_GitHub/beginning-react/app/component.js",
-				"/D/myAPP/app/main.css",
-				"/D/myAPP/app/index.js",
-				"/D/myAPP/.babelrc",
-				"/D/myAPP/app/components/Note.jsx",
-				"/D/myAPP/app/components/App.jsx",
-				"/D/myAPP/app/index.jsx",
-				"/D/myAPP/build/index.html",
-				"/D/_GitHub/beginning-react/README.md",
-				"/D/myAPP/app/component.js",
-				"/D/myAPP/app/components/app/components/Note.jsx",
-				"/F/imoocDownloader/README.md",
-				"/F/imoocDownloader/config.js",
-				"/D/myAPP/index.html",
-				"/D/myAPP/src/helloworld.js",
-				"/D/_GitHub/blog/.gitignore",
-				"/C/Users/King/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-				"/D/test/js/test1.js",
-				"/D/reactAPP/package.json",
-				"/D/reactAPP/index.html",
-				"/D/reactAPP/App.jsx",
-				"/D/test/js/95.js",
-				"/D/reactAPP/main.js",
-				"/D/test/95.html",
-				"/D/test/94.html",
-				"/D/test/93.html",
-				"/D/reactAPP/webpack.config.js",
-				"/D/test/js/test2.jsx",
-				"/C/Users/King/Desktop/test.c",
-				"/D/_GitHub/resume-jiang/index.html",
-				"/D/_GitHub/resume/stylesheets/stylesheet.css",
-				"/D/_GitHub/resume/index.html",
-				"/D/_GitHub/resume/README.md",
-				"/D/_GitHub/resume/css/main.css",
-				"/D/_GitHub/resume/dist/main.css",
-				"/D/test/css/92.css",
-				"/D/test/css/92-media.css",
-				"/D/test/92.html",
-				"/D/test/css/90.css",
-				"/D/test/90.html",
-				"/D/test/css/91.css",
-				"/D/test/91.html",
-				"/D/test/css/89.css",
-				"/D/test/89.html",
-				"/D/test/css/87.css",
-				"/D/test/87.html",
-				"/D/test/88.html",
-				"/D/test/css/88.css",
-				"/D/test/css/86.css",
-				"/D/test/86.html",
-				"/D/test/css/85.css",
-				"/D/test/85.html",
-				"/C/Users/King/AppData/Local/Temp/Temp1_crimson.zip/SIL Open Font License.txt",
-				"/D/test/84.html",
-				"/D/test/css/84.css",
-				"/D/test/c/1.c",
-				"/C/Users/King/AppData/Roaming/Sublime Text 3/Packages/User/C.sublime-settings",
-				"/C/Users/King/AppData/Roaming/Sublime Text 3/Packages/User/C Improved.sublime-settings",
-				"/C/Users/King/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
-				"/C/Users/King/AppData/Roaming/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
-				"/C/Users/King/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
-				"/D/test/83.html",
-				"/D/test/css/83.css",
-				"/D/test/82.html",
-				"/D/test/css/82.css",
-				"/D/test/81.html",
-				"/D/test/css/81.css",
-				"/D/test/80.html",
-				"/F/_Downloads/Game.of.Thrones.S06E08.720p.HDTV.x264-AVS.txt",
-				"/D/test/css/79.css",
-				"/D/test/79.html",
-				"/D/test/77.html",
-				"/D/test/78.html",
-				"/D/test/76.html",
+				"/C/Users/stephen/Desktop/hosts",
+				"/D/OneDrive/_Notes/前端学习笔记.txt",
+				"/D/griver-mobile/client/www/scripts/js/video.js",
+				"/D/griver-mobile/client/videos/components/wedding/index.js",
+				"/D/test/index.html",
+				"/D/griver-mobile/node_modules/owl.carousel/dist/owl.carousel.js",
+				"/D/griver-mobile/client/www/scripts/slick/responsive.js",
+				"/D/griver-mobile/client/www/scripts/slick/slick.js",
+				"/D/griver-mobile/client/www/scripts/slick/slick.css",
+				"/D/griver-mobile/client/www/scripts/slick/slick-theme.css",
+				"/D/griver-mobile/client/videos/components/hbn/index.js",
+				"/D/griver-mobile/node_modules/style-loader/addStyles.js",
+				"/D/_Projects/test/libs/video-js.css",
+				"/D/OneDrive/_Notes/GStarCloud.txt",
+				"/D/griver-mobile/client/www/isso/js/app/globals.js",
+				"/D/griver-mobile/m/www/isso/js/app/globals.js",
+				"/D/griver-mobile/m/www/isso/js/app/isso.js",
+				"/D/griver-mobile/m/www/isso/js/app/dom.js",
+				"/D/griver-mobile/m/www/isso/js/app/count.js",
+				"/D/griver-mobile/client/www/isso/js/app/count.js",
+				"/D/mylib/2-embed.min.js",
+				"/D/_绿星云/账户.txt",
+				"/D/griver-mobile/client/www/isso/js/app/text/postbox.jade",
+				"/D/griver-mobile/client/www/isso/js/embed.js",
+				"/D/_Projects/isso/isso/js/embed.min.js",
+				"/D/griver-mobile/client/www/isso/js/deleteEmailWebsite.js",
+				"/D/_Projects/isso/isso/js/app/text/comment.jade",
+				"/D/_Projects/isso/isso/js/app/text/comment-loader.jade",
+				"/D/_Projects/isso/isso/js/app/i18n.js",
+				"/D/_Projects/isso/isso/js/lib/requirejs-jade/jade.js",
+				"/D/_Projects/isso/isso/js/app/lib/editor.js",
+				"/D/_Projects/isso/isso/js/app/lib/identicons.js",
+				"/D/_Projects/isso/isso/js/app/lib/promise.js",
+				"/D/_Projects/isso/isso/js/app/lib/ready.js",
+				"/D/_Projects/isso/isso/js/build.embed.js",
+				"/D/_Projects/isso/isso/js/build.count.js",
+				"/D/_Projects/isso/isso/js/app/text/svg.js",
+				"/D/griver-mobile/webpack.config.js",
+				"/D/griver-mobile/package.json",
+				"/D/griver-mobile/client/videos/components/live",
+				"/D/griver-mobile/client/containers/App/_config.scss",
+				"/D/griver-mobile/client/www/isso/js/app/i18n/zh_CN.js",
+				"/D/griver-mobile/client/www/isso/js/app/config.js",
+				"/D/griver-mobile/client/www/isso/js/config.js",
+				"/D/griver-mobile/client/www/isso/js/build.count.js",
+				"/D/griver-mobile/client/www/isso/js/build.embed.js",
+				"/D/griver-mobile/client/www/isso/js/count.js",
+				"/D/_Projects/isso/isso/css/isso.css",
+				"/D/griver-mobile/client/videos/components/boxing/index.js",
+				"/C/xampp/htdocs/danmaku-demo/comment.xml",
+				"/D/griver-mobile/client/www/scripts/js/videojs_ABdm.css",
+				"/D/_Projects/videojsABdm/videojs_ABdm.js",
+				"/C/Users/stephen/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/D/_Projects/videojsABdm/demo/index.html",
+				"/C/xampp/htdocs/danmaku-demo/videojs_ABdm.js",
+				"/C/xampp/htdocs/danmaku-demo/index.html",
+				"/C/xampp/htdocs/test-hls/index.html",
+				"/D/griver-mobile/m/index.html",
+				"/D/griver-mobile/node_modules/react-videojs/src/index.js",
+				"/D/griver-mobile/node_modules/react-videojs/dist/index.js",
+				"/D/_Projects/test/141.html",
+				"/C/xampp/htdocs/danmaku-demo/jixian.html",
+				"/D/_Projects/videojsABdm/demo/comment.xml",
+				"/D/griver-mobile/m-18/app.154d1b8b5241d1e3ee7d.js",
+				"/D/griver-mobile/m-19/app.ab738b2a6f4a58bc1298.js",
+				"/D/griver-mobile/m-19/vendor.ab738b2a6f4a58bc1298.js",
 				"/D/OneDrive/_Notes/front-end.txt",
-				"/D/OneDrive/_Notes/听力材料积累.txt",
-				"/D/_GitHub/blog/source/_posts/Hexo配置测试用例.md",
-				"/F/_Softwares/_Collections/Adobe/Adobe Photoshop CC 2015 FULL Portable/_Readme.txt",
-				"/F/_Softwares/_Collections/Adobe/Adobe Photoshop CC 2015 v16.1.2 Preactivated Portable-64bit/ReadMe!.txt",
-				"/C/Users/King/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap"
+				"/D/_Projects/isso/isso/demo/index.html",
+				"/D/index.html",
+				"/D/_Projects/test/138.html"
 			],
 			"find":
 			{
-				"height": 39.0
+				"height": 38.0
 			},
 			"find_in_files":
 			{
 				"height": 102.0,
 				"where_history":
 				[
+					"<project>",
+					"D:\\griver-mobile\\client\\www\\isso\\js",
 					""
 				]
 			},
@@ -794,134 +811,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"error",
-					"this.state.style",
-					"handleBirthDate",
-					"handleVerifyPassword",
-					"handlePassword",
-					"handleUserName",
-					"handleEmail",
-					"handleEmailFocus",
-					"confirm",
-					"birth_date",
-					"confirm",
-					"email",
-					"password",
-					"email",
-					"user_name",
-					"store",
-					"Submit",
-					"Email",
-					"phoneNumber",
-					"11位数字",
-					"text",
-					"'",
-					"MyApp",
-					"MyForm",
-					"app",
-					"myForm",
-					"Trr",
-					"App",
-					"myForm",
-					"App",
-					"Learn",
-					"Hello",
-					"lime",
-					"Helve",
-					"|",
-					"喜欢",
-					"前端面试",
-					"makeCount()",
-					"counter",
-					"strict",
-					"apply",
-					"myFunc",
-					"Math",
-					"fahrenheit",
-					"new Date().",
-					"h1",
-					"img",
-					"me",
-					"font",
-					"dist",
-					"clip",
-					"webkit",
-					"内核",
-					"ie",
-					"ie8",
-					"If",
-					"64",
-					"img",
-					"article img",
-					"before",
-					"maroon",
-					"#f58c21",
-					"after",
-					"img",
-					"left",
-					"f58c21",
-					"100px",
-					"10px",
-					"200px",
-					"0px",
-					"200ms",
-					"2s",
-					"cursor",
-					"伪元素",
-					"fieldset",
-					"h3",
-					"value",
-					"right",
-					"position",
-					"Shoes",
-					"Dresses",
-					"Pants",
-					"article",
-					"26px",
-					"22px",
-					"18px",
-					"24px",
-					"lin",
-					"-;",
-					"through",
-					"45deg",
-					"left",
-					"linear",
-					"position",
-					"left",
-					"颜色",
-					"优先级",
-					"target",
-					"pseudo",
-					"伪类",
-					"serif",
-					"ecma",
-					"aside",
-					"h2",
-					"h1",
-					"h2",
-					"h1",
-					"h2",
-					"h3",
-					"h2",
-					"清除浮动",
+					"centered",
+					"li",
+					"QGwNkR5NdgjnKeWM7Qov_rS1iiAsClP1Bzs9UcWHQrI",
+					"defaultPosterSrc",
+					"stream_status",
+					"status",
+					"block",
 					"span",
-					"closestCenter",
-					"2010",
-					"td",
-					"tilte",
-					"text",
-					"730px",
-					"BFC",
-					"purple",
-					"000000",
-					"p",
-					"@media",
-					"</span>",
-					"<span>",
-					"h2",
-					"pseudo",
-					"font-face"
+					"GwNkR5NdgjnKeWM7Qov_rS1iiAsClP1Bzs9UcWHQrI",
+					"QGwNkR5NdgjnKeWM7Qov_rS1iiAsClP1Bzs9UcWHQrI",
+					"vod",
+					"Vod",
+					"loading",
+					"addEventListener",
+					"stalledEvent",
+					"Q",
+					"1",
+					"GwNkR5NdgjnKeWM7Qov_rS1iiAsClP1Bzs9UcWHQrI",
+					"QGwNkR5NdgjnKeWM7Qov_rS1iiAsClP1Bzs9UcWHQrI",
+					"GwNkR5NdgjnKeWM7Qov_rS1iiAsClP1Bzs9UcWHQrI",
+					"loading",
+					"note",
+					"height",
+					"const",
+					"GwNkR5NdgjnKeWM7Qov_rS1iiAsClP1Bzs9UcWHQrI",
+					"k7GVQW5_MH8V38Ft4coYprS1iiAsClP1Bzs9UcWHQrI",
+					"data",
+					"status",
+					"stream_status",
+					"args",
+					"scrollIntoView",
+					"isso-root",
+					"insert",
+					"isso-root",
+					"insert",
+					"age",
+					"Person",
+					"isso-root",
+					"insert",
+					"submit",
+					"isso-root",
+					"el",
+					"isso-root",
+					"insert_loader",
+					"isso-root",
+					"append",
+					"10",
+					"rem",
+					"closeButton",
+					"Vod",
+					"rosemega",
+					"Rosemega",
+					"jpg",
+					"Person",
+					"clutter",
+					"50",
+					"inherit",
+					"45",
+					"player",
+					"F2F0F0",
+					"D3D1D1",
+					"background",
+					"\"",
+					"class",
+					"background",
+					"stalledEvent",
+					"child",
+					"techor",
+					"html5",
+					"play_rtmp_url",
+					"videoType",
+					"splice",
+					"substr",
+					"call",
+					"age",
+					"name",
+					"renderJSONData",
+					"flash",
+					"html5",
+					"h3",
+					"name",
+					"width",
+					"description",
+					"Name",
+					"name",
+					"console.log",
+					"stream_status",
+					"$",
+					"`",
+					"link",
+					"renderPlaylist",
+					"content",
+					"'",
+					"sliderContainer",
+					"\"",
+					"prevButton",
+					"64px",
+					"&",
+					"span",
+					"4",
+					"renderPlaylist",
+					"renderLives",
+					"live_name",
+					"note",
+					"stream_status",
+					"`",
+					"2rem",
+					"4",
+					"#10181B",
+					"rgb(4, 150, 136)",
+					"#10181B",
+					"black",
+					"orange",
+					"04",
+					"+",
+					"Left",
+					"support",
+					"`",
+					"aaa",
+					"insert",
+					"append",
+					"entrypoint",
+					"isso-comment",
+					"append",
+					"Person",
+					"time",
+					"eslint",
+					"z-index"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -939,7 +956,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 31.0
+				"height": 30.0
 			},
 			"input":
 			{
@@ -957,7 +974,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 72.0
+				"height": 56.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -966,6 +983,58 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"141.c",
+						"test\\141.css"
+					],
+					[
+						"note",
+						"_Notes\\notes1.txt"
+					],
+					[
+						"embe",
+						"D:\\_Learning\\embed.min.js"
+					],
+					[
+						"英语",
+						"_Notes\\英语笔记.txt"
+					],
+					[
+						"141",
+						"test\\141.js"
+					],
+					[
+						"前端",
+						"_Notes\\前端学习笔记.txt"
+					],
+					[
+						"video",
+						"test\\libs\\video-js.css"
+					],
+					[
+						"embed",
+						"griver-mobile\\client\\www\\isso\\js\\embed.js"
+					],
+					[
+						"isso.css",
+						"griver-mobile\\client\\www\\isso\\css\\isso.css"
+					],
+					[
+						"140",
+						"C:\\xampp\\htdocs\\test-hls\\140.html"
+					],
+					[
+						"139",
+						"test\\139.html"
+					],
+					[
+						"140.html",
+						"test\\140.html"
+					],
+					[
+						"138",
+						"test\\138.html"
+					],
 					[
 						"65",
 						"test\\65.html"
@@ -995,13 +1064,13 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 150.0,
+			"side_bar_width": 283.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 1354.0
+		"new_window_width": 1908.0
 	},
 	"windows":
 	[
@@ -1011,12 +1080,372 @@
 				"selected_items":
 				[
 					[
-						"cla",
-						"classString〔variable〕"
+						"wor",
+						"word-spacing"
+					],
+					[
+						"this",
+						"this_video〔variable〕"
+					],
+					[
+						"border",
+						"border-color"
+					],
+					[
+						"data_",
+						"data_vxsearch〔variable〕"
+					],
+					[
+						"repla",
+						"replaySrc〔variable〕"
+					],
+					[
+						"play_",
+						"play_hls_url〔variable〕"
+					],
+					[
+						"adsc",
+						"adsContent4"
+					],
+					[
+						"adsC",
+						"adsContent3"
+					],
+					[
+						"stalled",
+						"stalledEvent〔variable〕"
+					],
+					[
+						"replay_",
+						"replay_text〔variable〕"
+					],
+					[
+						"vid",
+						"videoType〔variable〕"
+					],
+					[
+						"sour",
+						"sourcelist〔variable〕"
+					],
+					[
+						"des",
+						"description〔variable〕"
+					],
+					[
+						"str",
+						"stream_status〔variable〕"
+					],
+					[
+						"get",
+						"getDay〔function〕"
+					],
+					[
+						"getE",
+						"getDate〔function〕"
+					],
+					[
+						"slidd",
+						"sliderDiv"
+					],
+					[
+						"jq",
+						"jquery-3.1.0.min.js"
+					],
+					[
+						"js",
+						"slick.min.js"
+					],
+					[
+						"css",
+						"slick-theme.css"
+					],
+					[
+						"jqu",
+						"jquery-3.1.0.min.js"
+					],
+					[
+						"141",
+						"141.js"
+					],
+					[
+						"_sl",
+						"_slidePrev"
+					],
+					[
+						"pre",
+						"previousButton"
+					],
+					[
+						"desc",
+						"description"
+					],
+					[
+						"re",
+						"renderPlaylist"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"rando",
+						"randomNum"
+					],
+					[
+						"email",
+						"emailTag"
+					],
+					[
+						"ema",
+						"emailTag"
+					],
+					[
+						"live",
+						"live_name"
+					],
+					[
+						"font",
+						"font-family"
+					],
+					[
+						"c",
+						"css/"
+					],
+					[
+						"min",
+						"video.min.js"
+					],
+					[
+						"contr",
+						"videojs-contrib-hls.min.js"
+					],
+					[
+						"www",
+						"www/"
+					],
+					[
+						"v",
+						"video.min.js"
+					],
+					[
+						"vp",
+						"vplayer"
+					],
+					[
+						"vide",
+						"videoButtonStatus"
+					],
+					[
+						"render",
+						"renderPlaylists〔function〕"
+					],
+					[
+						"sli",
+						"slick.min.js"
+					],
+					[
+						"slic",
+						"slick-theme.css"
+					],
+					[
+						"slci",
+						"slick.css"
+					],
+					[
+						"per",
+						"perfect-scrollbar.css"
+					],
+					[
+						"pl",
+						"videojs-playlist.js"
+					],
+					[
+						"ab",
+						"videojs_ABdm.js"
+					],
+					[
+						"vjs",
+						"vjs-big-play-centered"
+					],
+					[
+						"time",
+						"timeoutID"
+					],
+					[
+						"timeou",
+						"timeoutID〔variable〕"
+					],
+					[
+						"overtime",
+						"overtimeButton〔variable〕"
+					],
+					[
+						"comment",
+						"commentScript〔variable〕"
+					],
+					[
+						"over",
+						"overtimeButton〔variable〕"
+					],
+					[
+						"query",
+						"querySelector"
+					],
+					[
+						"down",
+						"download_form"
+					],
+					[
+						"do",
+						"download"
+					],
+					[
+						"downloa",
+						"download_btn"
+					],
+					[
+						"replay",
+						"replayText"
+					],
+					[
+						"rep",
+						"replay_btn〔variable〕"
+					],
+					[
+						"repa",
+						"replay_btn"
+					],
+					[
+						"ads",
+						"adsImage〔variable〕"
+					],
+					[
+						"que",
+						"querySelector"
+					],
+					[
+						"current",
+						"currentTime"
+					],
+					[
+						"hls",
+						"videojs5-hlsjs-source-handler.js"
+					],
+					[
+						"text-de",
+						"text-decoration-line"
+					],
+					[
+						"padding",
+						"padding-right"
+					],
+					[
+						"ob",
+						"object-fit"
 					],
 					[
 						"class",
-						"classString"
+						"className〔variable〕"
+					],
+					[
+						"直播",
+						"直播技术支持："
+					],
+					[
+						"inlin",
+						"inline-block"
+					],
+					[
+						"su",
+						"videojs.suggestedVideoEndcap.js"
+					],
+					[
+						"ad",
+						"videojs.ads.js"
+					],
+					[
+						"a",
+						"amazeui.min.css"
+					],
+					[
+						"136",
+						"136.css"
+					],
+					[
+						"style",
+						"stylesheet"
+					],
+					[
+						"lib",
+						"libs/"
+					],
+					[
+						"s",
+						"videojs-resolution-switcher.css"
+					],
+					[
+						"135",
+						"135.css"
+					],
+					[
+						"img",
+						"img/"
+					],
+					[
+						"132",
+						"132.js"
+					],
+					[
+						"131",
+						"131.js"
+					],
+					[
+						"unlink",
+						"fs.unlink(path, callback);"
+					],
+					[
+						"readFile",
+						"fs.readFile(path, options, callback_);"
+					],
+					[
+						"requ",
+						"require〔function〕"
+					],
+					[
+						"index",
+						"index.js"
+					],
+					[
+						"Nav",
+						"Navreq"
+					],
+					[
+						"obj",
+						"objSub〔variable〕"
+					],
+					[
+						"show",
+						"showName"
+					],
+					[
+						"123",
+						"123.js"
+					],
+					[
+						"_",
+						"_theme.scss"
+					],
+					[
+						"eve",
+						"eventEmitter〔variable〕"
+					],
+					[
+						"cla",
+						"classString〔variable〕"
 					],
 					[
 						"handleP",
@@ -1071,20 +1500,12 @@
 						"test1.js"
 					],
 					[
-						"min",
-						"react.min.js"
-					],
-					[
 						"test",
 						"test2.jsx"
 					],
 					[
 						"getD",
 						"getDay〔function〕"
-					],
-					[
-						"get",
-						"getTime〔function〕"
 					],
 					[
 						"create",
@@ -1119,36 +1540,12 @@
 						"border-color"
 					],
 					[
-						"border",
-						"border-top"
-					],
-					[
-						"text-de",
-						"text-decoration-style"
-					],
-					[
-						"over",
-						"overline"
-					],
-					[
 						"line-",
 						"line-through"
 					],
 					[
-						"re",
-						"relative"
-					],
-					[
-						"text",
-						"text-align"
-					],
-					[
 						"text-a",
 						"text-align"
-					],
-					[
-						"font",
-						"font-size"
 					],
 					[
 						"im",
@@ -1161,14 +1558,6 @@
 					[
 						"border-c",
 						"border-collapse"
-					],
-					[
-						"do",
-						"download.png	w:256 h:256"
-					],
-					[
-						"img",
-						"img/"
 					],
 					[
 						"image",
@@ -1201,357 +1590,91 @@
 					[
 						"fieldset",
 						"fieldset	Tag"
-					],
-					[
-						"bas",
-						"basketball"
-					],
-					[
-						"tex",
-						"text-align"
-					],
-					[
-						"ch",
-						"checkbox"
-					],
-					[
-						"addC",
-						"addClass〔function〕"
-					],
-					[
-						"65",
-						"65-addClass.js"
-					],
-					[
-						"str",
-						"stripeTables〔function〕"
-					],
-					[
-						"bgc",
-						"background-color"
-					],
-					[
-						"a_",
-						"a_keys"
-					],
-					[
-						"dis",
-						"displayAccesskeys〔function〕"
-					],
-					[
-						"item",
-						"item_ul〔variable〕"
-					],
-					[
-						"append",
-						"appendChild"
-					],
-					[
-						"quote",
-						"quoteChildren〔variable〕"
-					],
-					[
-						"super",
-						"superscript〔variable〕"
-					],
-					[
-						"last",
-						"lastChild"
-					],
-					[
-						"64",
-						"64-displayCitations.js"
-					],
-					[
-						"di",
-						"displayAbbreviations"
-					],
-					[
-						"add",
-						"addLoadEvent〔function〕"
-					],
-					[
-						"6",
-						"63-addLoadEvent.js"
-					],
-					[
-						"app",
-						"appendChild"
-					],
-					[
-						"abb",
-						"abbr_header_text〔variable〕"
-					],
-					[
-						"abbr",
-						"abbr_header"
-					],
-					[
-						"td",
-						"text-decoration"
-					],
-					[
-						"63",
-						"63-getNewContent.js"
-					],
-					[
-						"desc",
-						"description〔variable〕"
-					],
-					[
-						"des",
-						"desciption〔variable〕"
-					],
-					[
-						"Google",
-						"Google大发好"
-					],
-					[
-						"k",
-						"kbd	Tag"
-					],
-					[
-						"git",
-						"git@github.com:username"
-					],
-					[
-						"crea",
-						"createElement〔function〕"
-					],
-					[
-						"place",
-						"placeholder"
-					],
-					[
-						"getE",
-						"getElementById	(前端学习笔记.txt)"
-					],
-					[
-						"current",
-						"currentColor"
-					],
-					[
-						"bac",
-						"backgroundcolor	(前端学习笔记.txt)"
-					],
-					[
-						"54",
-						"54_worker1.js"
-					],
-					[
-						"getS",
-						"getStoreArray〔function〕"
-					],
-					[
-						"stickiesA",
-						"stickiesArray〔variable〕"
-					],
-					[
-						"abs",
-						"absolute"
-					],
-					[
-						"push",
-						"pushUnpushButtons"
-					],
-					[
-						"t",
-						"twitter.png	w:256 h:256"
-					],
-					[
-						"css",
-						"44.css"
-					],
-					[
-						"clearW",
-						"clearWatchButton"
-					],
-					[
-						"destL",
-						"destLongRads"
-					],
-					[
-						"startL",
-						"startLongRads"
-					],
-					[
-						"errorMessage",
-						"errorMessage〔variable〕"
-					],
-					[
-						"myM",
-						"myMovie1"
-					],
-					[
-						"showtimes",
-						"showtimes"
-					],
-					[
-						"setM",
-						"setMinutes〔function〕"
-					],
-					[
-						"texti",
-						"text-indent"
-					],
-					[
-						"onkey",
-						"onkeypress〔function〕"
-					],
-					[
-						"gets",
-						"getStoreArray"
-					],
-					[
-						"link",
-						"link	Tag"
-					],
-					[
-						"set",
-						"setTimeout〔function〕"
-					],
-					[
-						"getm",
-						"getMinutes〔function〕"
-					],
-					[
-						"inne",
-						"innerWidth〔variable〕"
-					],
-					[
-						"js",
-						"jsLib/"
-					],
-					[
-						"pro",
-						"prototype"
-					],
-					[
-						"setI",
-						"setInterval〔function〕"
-					],
-					[
-						"ge",
-						"generateShipLocations〔function〕"
-					],
-					[
-						"ship",
-						"shipLength〔variable〕"
-					],
-					[
-						"ships",
-						"shipsSunk"
-					],
-					[
-						"tans",
-						"transform"
-					],
-					[
-						"frame",
-						"frameset	Tag"
-					],
-					[
-						"lowes",
-						"lowestCost"
-					],
-					[
-						"lowe",
-						"lowestCost〔argument〕"
-					],
-					[
-						"low",
-						"lowestCost"
-					],
-					[
-						"prin",
-						"printHighest"
-					],
-					[
-						"em",
-						"emptyArr"
-					],
-					[
-						"is",
-						"isSunk"
-					],
-					[
-						"onmou",
-						"onmouseover	Attr"
-					],
-					[
-						"ws",
-						"word-spacing"
-					],
-					[
-						"bloc",
-						"blockquote	(前端学习笔记.txt)"
-					],
-					[
-						"ww",
-						"word-wrap"
-					],
-					[
-						"gra",
-						"gradient3"
-					],
-					[
-						"fun",
-						"function"
-					],
-					[
-						"submi",
-						"submitButton"
-					],
-					[
-						"wt",
-						"-webkit-transform: 〔property〕"
-					],
-					[
-						"moz",
-						"-moz-transition: 〔property〕"
-					],
-					[
-						"webt",
-						"-webkit-transition: 〔property〕"
-					],
-					[
-						"webkitt",
-						"-webkit-transition: 〔property〕"
-					],
-					[
-						"ve",
-						"vertical-align"
 					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/D/OneDrive/_Notes/前端学习笔记.txt",
+					"file": "/D/griver-mobile/client/videos/components/test/index.js",
 					"settings":
 					{
-						"buffer_size": 50075,
+						"buffer_size": 14358,
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/D/OneDrive/_Notes/前端面试.txt",
+					"file": "/D/griver-mobile/client/videos/components/tibohui/style.scss",
 					"settings":
 					{
-						"buffer_size": 4237,
+						"buffer_size": 11137,
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/D/OneDrive/_Notes/notes1.txt",
+					"file": "/D/griver-mobile/client/videos/components/universal/style.scss",
 					"settings":
 					{
-						"buffer_size": 9861,
+						"buffer_size": 13138,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "import React, { Component } from 'react'\nimport { Link } from 'react-router'\n\n// import $ from 'jquery'\n// import 'imports?jQuery=jquery!owl.carousel'\n// import OwlCarousel from 'react-owl-carousel'\n\nimport style from './style'\n\nclass Tibohui extends Component {\n  state = {\n    width: 0,\n    height: 0,\n    data: {}\n  }\n\n  static propTypes = {\n    className: React.PropTypes.string,\n    location: React.PropTypes.object\n  };\n\n  static defaultProps = {\n    className: ''\n  }\n\n  componentDidMount() {\n    let width = document.documentElement.clientWidth\n    let height = width * 3.0 / 4.0\n    const { query } = this.props.location\n    const id = query.id\n\n    if (width > 960) {\n      width = 960\n      height = width * 3.0 / 4.0\n    }\n\n    this.setState({ width, height, id })\n    // const that = this\n\n    // fetch(`http://vmng.gstarcloud.com/griver/vxsearch/?name=${id}`).then((rsp) => {\n    //   return rsp.json()\n    // }).then((j) => {\n    //   if (j && j.data) {\n    //     const data = j.data\n    //     that.setState({ ...that.state, data })\n    //   }\n    // })\n\n\n    // test\n    // fetch('http://220.242.2.254:9080/griver/vxrecord/?name=EkqPfIWh_9YLdGRXKYd8AbS1iiAsClP1Bzs9UcWHQrI')\n    //   .then(rsp => rsp.json())\n    //   .then(j => {\n    //     if (j && j.data) {\n    //       const data = j.data\n    //       that.setState({ ...that.state, data })\n    //     }\n    //   })\n\n    // comments\n    // const commentDiv = document.getElementById('wrapper')\n\n    // const commentSection = document.createElement('section')\n    // commentSection.id = 'isso-thread'\n    // commentSection.setAttribute('data-title', 'rosemega')\n    // commentSection.setAttribute('data-isso-id', 'KjX0Q4SxLB_f1pPu16p2drS1iiAsClP1Bzs9UcWHQrI')  // 好百年id\n\n    // const commentScript = document.createElement('script')\n    // commentScript.src = 'www/scripts/isso/embed.min.js'\n    // commentScript.async = true\n    // commentScript.setAttribute('data-isso', 'http://vmng.gstarcloud.com/isso/')\n    // commentScript.setAttribute('data-isso-css', false)\n    // commentScript.setAttribute('data-isso-require-author', true)\n    // commentScript.setAttribute('data-isso-lang', 'zh')\n    // commentScript.setAttribute('data-isso-vote', true)\n\n    // commentDiv.appendChild(commentSection)\n    // commentDiv.appendChild(commentScript)\n\n    // replay & download\n    // const replay_btn = document.getElementById('replay')\n    // const replay_text = document.getElementById('replay-text')\n    // const download_btn = document.getElementById('download')\n    // const vjs = document.getElementById('video')\n\n    // replay_btn.addEventListener('click', () => {\n      // replay_text.style.display = 'none'\n      // vjs.setAttribute('src', 'www/imgs/rosemega/replay-video.mp4')\n      // vjs.setAttribute('type', 'video/mp4')\n      // vjs.load()\n      // vjs.pause()\n\n      // if (vjs.play) {\n      //   replay_btn.parentNode.removeChild(replay_btn)\n      //   download_btn.style.display = 'block'\n      // }\n    // })\n\n    // download_btn.addEventListener('click', () => {\n    //   download_btn.setAttribute('href', 'www/imgs/rosemega/replay-video.mp4')\n    // })\n\n    // 事件处理：广告，加载动画，加载超时内容，播放/暂停（大）按钮\n    const closeButton1 = document.getElementsByClassName(style.closeButton)[0]\n    const closeButton2 = document.getElementsByClassName(style.closeButton)[1]\n    const adsContent1 = document.getElementsByClassName(style.adsContent)[0]\n    const adsContent2 = document.getElementsByClassName(style.adsContent)[1]\n    const loadingEvent = document.getElementsByClassName(style.loading)[0]\n    const overtimeButton = document.getElementsByClassName(style.overtime)[0]\n    const waitingEvent = document.getElementsByClassName(style.waiting)[0]\n    const errorEvent = document.getElementsByClassName(style.error)[0]\n\n    // 广告关闭按钮点击事件\n    closeButton1.onclick = () => {\n      adsContent1.style.display = 'none'\n    }\n\n    closeButton2.onclick = () => {\n      adsContent2.style.display = 'none'\n    }\n\n    // 加载超时按钮点击事件\n    overtimeButton.addEventListener('click', () => {\n      window.location.reload(true)\n    })\n\n    // 处理直播不存在\n    // setInterval(function () {\n    //   if (vjs.readyState < 2) {\n    //     errorEvent.style.display = 'block'\n    //     loadingEvent.style.display = 'none'\n    //   } else {\n    //     errorEvent.style.display = 'none'\n    //   }\n    // }, 2000)\n\n    // 播放器行为定制\n    videojs('video', {\n      techOrder: [ 'html5', 'flash' ],\n      controls: true,\n      poster: 'www/imgs/tibo/1.png',\n      width: `${width}`,\n      height: `${width * 9 / 16}`,\n      plugins: {}\n    }, function () {\n      const player = this\n      const videoButtonStatus = document.getElementById('video')\n\n      player.replayButton()\n\n      player.on('loadstart', () => {\n        loadingEvent.style.display = 'block'\n        videoButtonStatus.classList.remove('vjs-paused')\n      })\n\n      player.on('stalled', () => {\n      })\n\n      player.on('waiting', () => {\n        waitingEvent.style.display = 'block'\n        errorEvent.style.display = 'none'\n      })\n\n      player.on('suspend', () => {\n      })\n\n      player.on('canplay', () => {\n        loadingEvent.style.display = 'none'\n        overtimeButton.style.display = 'none'\n        waitingEvent.style.display = 'none'\n        errorEvent.style.display = 'none'\n      })\n\n      player.on('play', () => {\n        videoButtonStatus.classList.remove('vjs-paused')\n        videoButtonStatus.classList.add('vjs-playing')\n\n        waitingEvent.style.display = 'none'\n        errorEvent.style.display = 'none'\n\n        adsContent1.style.display = 'none'\n        adsContent2.style.display = 'none'\n      })\n\n      player.on('pause', () => {\n        videoButtonStatus.classList.remove('vjs-playing')\n        videoButtonStatus.classList.add('vjs-paused')\n\n        loadingEvent.style.display = 'none'\n        waitingEvent.style.display = 'none'\n\n        // random ads\n        let randomNum = Math.floor(Math.random() * 2)\n        if (randomNum === 0) {\n          adsContent1.style.display = 'block'\n        } else if (randomNum === 1) {\n          adsContent2.style.display = 'block'\n        }\n      })\n\n      player.on('error', () => {\n        loadingEvent.style.display = 'none'\n        errorEvent.style.display = 'block'\n        // const err_text = document.querySelector('.vjs-modal-dialog-content')\n        // err_text.innerHTML = ''\n        document.querySelector('.vjs-modal-dialog-content').style.display = 'none'\n        document.getElementsByClassName('vjs-big-play-button')[0].style.display = 'none'\n        // err_text.innerHTML = '<h3>亲~直播还没开始哦，请耐心等待 *^_^* </h3><p>或者点击右上角的回看试试？</p>'\n      })\n\n      player.on('ended', () => {\n      })\n\n      // 播放器右下角，公司logo（可点击跳转）\n      // player.brand({\n      //   image: 'www/imgs/brand.png',\n      //   title: '绿星云',\n      //   alt: '绿星云科技（深圳）有限公司',\n      //   destination: 'http://www.gstarcloud.com',\n      //   destinationTarget: '_blank'\n      // })\n    })\n  }\n\n  render() {\n    const { width, height, data } = this.state\n    let { description } = data\n    let className = style.root || ''\n\n    if (this.props.className) {\n      className += ` ${this.props.className}`\n    }\n\n    const adsStyle = {\n      width: width / 2,\n      height: width / 2 * 3 / 4,\n      top: width * 3 / 16 / 2,\n      left: width / 4\n    }\n\n    const adsImage = {\n      width: width / 2,\n      height: width / 2 * 3 / 4\n    }\n\n    const adsButton = {\n      width: width / 32,\n      height: width / 32,\n      fontSize: width / 36\n    }\n\n    const loading = {\n      width: width / 2,\n      height: '36px',\n      top: (width * 9 / 16 - 22) / 2,\n      left: width / 4\n    }\n\n    const overtime = {\n      display: 'none',\n      width: '180px',\n      height: '22px',\n      top: (width * 9 / 16 - 22) / 2,\n      left: (width - 180) / 2,\n      border: 'none',\n      background: 'none',\n      color: '#fff',\n      cursor: 'pointer'\n    }\n\n    // const comments = {\n    //   width: width,\n    //   textAlign: 'left',\n    //   marginLeft: 'auto',\n    //   marginRight: 'auto'\n    // }\n\n    // switch (status) {\n    //   case 'waiting':\n    //     status = '等待中'\n    //     break\n    //   case 'publishing':\n    //     status = '直播中'\n    //     break\n    //   case 'closed':\n    //     status = '直播结束'\n    //     break\n    //   default:\n    //     status = '未知'\n    // }\n\n    // const src = `http://vvod.gstarcloud.com/vod/${decodeURI(file)}`\n    description = (!description) ? '暂无简介' : description\n    name = (!name) ? '未知' : name\n    const defaultPoster = 'www/imgs/video-poster.jpg'\n    const this_video = document.getElementById('video')\n\n    function handleClick1() {\n      const vjs1 = this_video.firstChild\n      vjs1.setAttribute('src', 'http://vvod.gstarcloud.com/vod/0909.mp4')\n      vjs1.load()\n      vjs1.play()\n    }\n\n    function handleClick2() {\n      const vjs2 = this_video.firstChild\n      vjs2.setAttribute('src', 'http://vvod.gstarcloud.com/vod/0910.mp4')\n      vjs2.load()\n      vjs2.play()\n    }\n\n    function handleClick3() {\n      const vjs3 = this_video.firstChild\n      vjs3.setAttribute('src', 'http://vvod.gstarcloud.com/vod/0911.mp4')\n      vjs3.load()\n      vjs3.play()\n    }\n\n    return (\n      <div className={className}>\n        <section>\n          <div style={ { textAlign: 'center' } }>\n            <img src=\"www/imgs/tibo/2.png\" style={ { width: '100%' } } />\n          </div>\n        </section>\n        <section className={style.videoComponent}>\n          <div className={style.adsContent} style={adsStyle}>\n            <a href=\"http://www.sportgd.cn\" target=\"_blank\"><img src=\"www/imgs/tibo/3.jpg\" style={adsImage} /></a>\n            <button className={style.closeButton} style={adsButton}>X</button>\n          </div>\n          <div className={style.adsContent} style={adsStyle}>\n            <a href=\"http://www.sportgd.cn\" target=\"_blank\"><img src=\"www/imgs/tibo/4.gif\" style={adsImage} /></a>\n            <button className={style.closeButton} style={adsButton}>X</button>\n          </div>\n          <div className={style.loading} style={loading}>\n            <div>G</div>\n            <div>N</div>\n            <div>I</div>\n            <div>D</div>\n            <div>A</div>\n            <div>O</div>\n            <div>L</div>\n          </div>\n          <div className={style.overtime}>\n            <button type=\"button\" className={style.overtime} style={overtime}>加载失败，请刷新<span>重试</span></button>\n          </div>\n          <div className={style.waiting}>\n            <div className={`${style.player}` + ` ${style.circle}`} style={ { width: `${width}` * 3 / 16, height: `${height}` * 3 / 4 } }>\n              <div className={`${style.buffering}` + ` ${style.circle}` + ` ${style.animated}`} style={ { width: `${width}` * 3 / 16, height: `${width}` * 3 / 16 } }></div>\n              <div className={style.triangle}></div>\n            </div>\n            <div className={style.text}>\n              <div className={`${style.pulsing}` + ` ${style.animated}`}>网络睡着了，快去叫醒她</div>\n            </div>\n          </div>\n          <div className={style.error}>\n            <div className={`${style.player}` + ` ${style.circle}`} style={ { width: `${width}` * 3 / 16, height: `${height}` * 3 / 4 } }>\n              <div className={`${style.buffering}` + ` ${style.circle}` + ` ${style.animated}`} style={ { width: `${width}` * 3 / 16, height: `${width}` * 3 / 16 } }></div>\n              <div className={style.triangle}></div>\n            </div>\n            <div className={style.text}>\n              <div className={`${style.pulsing}` + ` ${style.animated}`}>视频失踪啦，我们正在努力寻找</div>\n            </div>\n          </div>\n          <video\n            id=\"video\"\n            className=\"video-js vjs-default-skin vjs-big-play-centered\">\n            <source src=\"http://vvod.gstarcloud.com/vod/0909.mp4\" type=\"video/mp4\" />\n            <p className=\"vjs-no-js\">请使用支持HTML5的浏览器访问</p>\n          </video>\n        </section>\n        <section className={`${style.slider}` + ' sliderBox'}>\n          <button className={`${style.arrow}` + ` ${style.previous}` + ' left'}>Previous</button>\n          <div className=\"sliderWrap\">\n            <ul className=\"sliderContent\">\n              <li onClick={handleClick1}><div><img src={defaultPoster} width={`${width / 8}`} height={`${height / 8}`} /></div><div>09月09日</div></li>\n              <li onClick={handleClick2}><div><img src={defaultPoster} width={`${width / 8}`} height={`${height / 8}`} /></div><div>09月10日</div></li>\n              <li onClick={handleClick3}><div><img src={defaultPoster} width={`${width / 8}`} height={`${height / 8}`} /></div><div>09月11日</div></li>\n            </ul>\n          </div>\n          <button className={`${style.arrow}` + ` ${style.next}` + ' right'}>Next</button>\n        </section>\n      </div>\n    )\n  }\n}\n\nexport default Tibohui\n",
+					"file": "/D/griver-mobile/client/videos/components/tibohui/index.js",
+					"file_size": 13532,
+					"file_write_time": 131177961171693108,
+					"settings":
+					{
+						"buffer_size": 12757,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/griver-mobile/client/videos/components/universal/index.js",
+					"settings":
+					{
+						"buffer_size": 14096,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/griver-mobile/client/www/scripts/js/myslider.css",
+					"settings":
+					{
+						"buffer_size": 579,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/griver-mobile/client/www/scripts/js/myslider.js",
+					"settings":
+					{
+						"buffer_size": 1224,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "// function foo() {\n//   console.log('foo');\n// }\n\n// var func = foo;\n// foo = null;\n// console.log(func(3));\n// \n\nvar foo = function() {\n  console.log('foo');\n};\n\nvar func = foo;\nconsole.log(func == foo);\nconsole.log(func === foo);\n\n\nhttp://vmng.gstarcloud.com/griver/vxrecord/?name=QGwNkR5NdgjnKeWM7Qov_rS1iiAsClP1Bzs9UcWHQrI",
+					"file": "/D/_Projects/test/140.js",
+					"file_size": 247,
+					"file_write_time": 131177692524108371,
+					"settings":
+					{
+						"buffer_size": 327,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/_Projects/test/141.js",
+					"settings":
+					{
+						"buffer_size": 0,
 						"line_ending": "Windows"
 					}
 				}
 			],
-			"build_system": "Packages/User/c.sublime-build",
+			"build_system": "",
 			"build_system_choices":
 			[
 				[
@@ -1586,17 +1709,25 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 289.0,
-				"last_filter": "pis",
+				"height": 392.0,
+				"last_filter": "",
 				"selected_items":
 				[
 					[
-						"pis",
-						"Package Control: Install Package"
+						"aut",
+						"Autoprefix CSS"
 					],
 					[
 						"prp",
 						"Package Control: Remove Package"
+					],
+					[
+						"html",
+						"HTMLBeautify"
+					],
+					[
+						"pis",
+						"Package Control: Install Package"
 					],
 					[
 						"auto",
@@ -1643,7 +1774,7 @@
 						"Toggle Comment"
 					]
 				],
-				"width": 528.0
+				"width": 464.0
 			},
 			"console":
 			{
@@ -1663,149 +1794,160 @@
 			},
 			"expanded_folders":
 			[
-				"/D/_GitHub/griver-mobile",
-				"/D/_GitHub/griver-mobile/client"
+				"/D/griver-mobile",
+				"/D/griver-mobile/client",
+				"/D/griver-mobile/client/containers",
+				"/D/griver-mobile/client/containers/App",
+				"/D/griver-mobile/client/videos",
+				"/D/griver-mobile/client/videos/components",
+				"/D/griver-mobile/client/videos/components/test",
+				"/D/griver-mobile/client/videos/components/tibohui",
+				"/D/griver-mobile/client/videos/components/universal",
+				"/D/griver-mobile/client/www",
+				"/D/OneDrive/_Notes"
 			],
 			"file_history":
 			[
-				"/D/_GitHub/griver-mobile/webpack.config.js",
-				"/D/_GitHub/griver-mobile/.gitignore",
-				"/D/_GitHub/griver-mobile/package.json",
-				"/D/_GitHub/griver-mobile/client/videos/components/boxing/index.js",
-				"/D/myAPP/.gitignore",
-				"/D/myAPP/package.json",
-				"/C/Users/King/Desktop/hosts",
-				"/D/test/css/96.css",
-				"/D/test/96.html",
-				"/D/_GitHub/react-redux-form/app/components/index.js",
-				"/D/_GitHub/react-redux-form/app/components/contact-form.js",
-				"/D/_GitHub/react-redux-form/build/index.html",
-				"/D/_GitHub/react-redux-form/app/components/user-form.jsx",
-				"/D/_GitHub/react-redux-form/app/index.jsx",
-				"/D/_GitHub/react-redux-form/app/store.jsx",
-				"/D/_GitHub/react-redux-form/webpack.config.js",
-				"/D/_GitHub/react-form-with-antd/src/entries/index.html",
-				"/D/_GitHub/react-form-with-antd/src/entries/index.js",
-				"/D/_GitHub/react-form-with-antd/webpack.config.js",
-				"/D/_Learning/111.txt",
-				"/D/_GitHub/beginning-react/app/index.jsx",
-				"/D/_GitHub/beginning-react/app/main.css",
-				"/D/_GitHub/beginning-react/app/components/MyForm.jsx",
-				"/D/_GitHub/beginning-react/build/index.html",
-				"/D/_GitHub/beginning-react/app/actions.jsx",
-				"/D/_GitHub/react-redux-form/package.json",
-				"/D/_GitHub/validation/lib/validation.jsx",
-				"/D/_GitHub/validation/lib/Validate.jsx",
-				"/D/_GitHub/validation/example1/App.jsx",
-				"/D/_GitHub/validation/example1/main-client.jsx",
-				"/D/_GitHub/validation/html/index.html",
-				"/D/_GitHub/validation/.eslintrc",
-				"/D/_GitHub/validation/gulpfile.babel.js",
-				"/D/_GitHub/react-redux-form/app/components/App.jsx",
-				"/D/_GitHub/react-redux-form/app/components/forms/login-form.jsx",
-				"/D/_GitHub/react-redux-form/app/main.css",
-				"/D/_GitHub/beginning-react/app/components/forms/login-form.jsx",
-				"/D/_GitHub/beginning-react/webpack.config.js",
-				"/D/_GitHub/beginning-react/package.json",
-				"/D/_GitHub/react-redux-form/.babelrc",
-				"/D/_GitHub/beginning-react/.babelrc",
-				"/D/_GitHub/react-redux-form/.gitignore",
-				"/D/_GitHub/beginning-react/.gitignore",
+				"/D/_Projects/test/141.html",
+				"/D/griver-mobile/client/containers/App/index.js",
+				"/D/griver-mobile/client/www/scripts/js/myslider.css",
+				"/D/griver-mobile/client/videos/components/test/style.scss",
+				"/D/griver-mobile/client/videos/components/universal/index.js",
+				"/D/griver-mobile/client/videos/components/vnormal/index.js",
+				"/D/griver-mobile/client/videos/components/wedding/index.js",
+				"/D/griver-mobile/client/videos/components/vnormal/style.scss",
+				"/D/griver-mobile/client/www/scripts/js/myslider.js",
+				"/D/griver-mobile/client/videos/components/live/index.js",
+				"/D/griver-mobile/client/videos/components/hbn/index.js",
+				"/D/griver-mobile/client/videos/components/rosemega/index.js",
+				"/D/griver-mobile/client/index.html",
+				"/D/griver-mobile/client/www/scripts/js/jquery.share.js",
+				"/D/griver-mobile/client/www/scripts/js/jquery.share.min.js",
+				"/D/_Projects/test/141.js",
+				"/D/OneDrive/_Notes/前端学习笔记.txt",
+				"/D/_Projects/test/141.css",
+				"/D/griver-mobile/client/videos/components/vhigh/index.js",
+				"/D/griver-mobile/client/containers/App/style.scss",
+				"/D/OneDrive/_Notes/notes1.txt",
+				"/D/griver-mobile/client/videos/components/vod/index.js",
+				"/D/griver-mobile/client/videos/components/rosemega/style.scss",
+				"/D/griver-mobile/client/videos/components/universal/style.scss",
+				"/D/_Projects/isso/isso/js/app/api.js",
+				"/D/griver-mobile/client/videos/components/test/index.js",
+				"/D/griver-mobile/client/videos/components/index.js",
+				"/D/griver-mobile/client/videos/components/tibohui/style.scss",
+				"/D/griver-mobile/client/videos/components/vod/style.scss",
+				"/D/griver-mobile/client/index.js",
+				"/D/griver-mobile/client/videos/components/tibohui/index.js",
+				"/D/embed.min.js",
+				"/D/_Projects/isso/isso/js/app/dom.js",
+				"/D/_Projects/isso/isso/js/app/isso.js",
+				"/D/griver-mobile/client/www/isso/js/app/isso.js",
+				"/D/_Projects/isso/isso/js/app/globals.js",
+				"/D/_Projects/isso/isso/js/app/count.js",
+				"/D/_Projects/isso/isso/js/app/config.js",
+				"/D/_Projects/isso/isso/js/app/text/postbox.jade",
+				"/D/griver-mobile/client/www/scripts/js/videojs.ads.js",
+				"/D/griver-mobile/client/www/isso/js/app/api.js",
+				"/D/griver-mobile/client/www/isso/css/isso.css",
+				"/D/griver-mobile/client/videos/components/play/index.js",
+				"/D/griver-mobile/client/videos/components/navr/index.js",
+				"/D/griver-mobile/client/videos/components/hbn/style.scss",
+				"/D/griver-mobile/client/www/scripts/js/video-js.css",
+				"/D/_Projects/test/140.css",
+				"/D/_Projects/test/140.js",
+				"/C/xampp/htdocs/test-hls/140.html",
+				"/D/_Projects/test/139.html",
+				"/D/_Projects/test/140.html",
+				"/D/griver-mobile/static/www/isso/js/embed.min.js",
+				"/D/Iconsmind-Outline-Smile.ico",
+				"/D/emoticon-34-512.gif",
+				"/D/08nq.jpg",
+				"/D/21-512.png",
+				"/D/_Learning/embed.min.js",
+				"/D/_Projects/isso/isso/js/app/jade.js",
+				"/D/_Projects/isso/isso/js/app/lib.js",
+				"/D/_Projects/isso/isso/js/app/utils.js",
+				"/D/griver-mobile/client/www/isso/js/embed.min.js",
+				"/D/_Projects/isso/isso/js/embed.js",
+				"/D/_Projects/isso/isso/js/count.js",
+				"/D/_Projects/isso/isso/js/config.js",
+				"/D/griver-mobile/.gitignore",
+				"/C/xampp/htdocs/test-hls/111.html",
+				"/D/griver-mobile/client/videos/components/nav/index.js",
+				"/D/griver-mobile/client/videos/components/tibohui",
 				"/D/OneDrive/_Notes/英语笔记.txt",
-				"/D/_GitHub/beginning-react/app/constants.jsx",
-				"/D/_GitHub/thinkry.github.io/style.css",
-				"/D/_GitHub/beginning-react/app/components/myForm.jsx",
-				"/D/_GitHub/beginning-react/app/components/Note.jsx",
-				"/D/_GitHub/beginning-react/build/bundle.js",
-				"/D/myAPP/webpack.config.js",
-				"/D/_GitHub/beginning-react/components/App.jsx",
-				"/D/_GitHub/beginning-react/app/app/components/App.jsx",
-				"/D/_GitHub/beginning-react/app/component.js",
-				"/D/myAPP/app/main.css",
-				"/D/myAPP/app/index.js",
-				"/D/myAPP/.babelrc",
-				"/D/myAPP/app/components/Note.jsx",
-				"/D/myAPP/app/components/App.jsx",
-				"/D/myAPP/app/index.jsx",
-				"/D/myAPP/build/index.html",
-				"/D/_GitHub/beginning-react/README.md",
-				"/D/myAPP/app/component.js",
-				"/D/myAPP/app/components/app/components/Note.jsx",
-				"/F/imoocDownloader/README.md",
-				"/F/imoocDownloader/config.js",
-				"/D/myAPP/index.html",
-				"/D/myAPP/src/helloworld.js",
-				"/D/_GitHub/blog/.gitignore",
-				"/C/Users/King/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-				"/D/test/js/test1.js",
-				"/D/reactAPP/package.json",
-				"/D/reactAPP/index.html",
-				"/D/reactAPP/App.jsx",
-				"/D/test/js/95.js",
-				"/D/reactAPP/main.js",
-				"/D/test/95.html",
-				"/D/test/94.html",
-				"/D/test/93.html",
-				"/D/reactAPP/webpack.config.js",
-				"/D/test/js/test2.jsx",
-				"/C/Users/King/Desktop/test.c",
-				"/D/_GitHub/resume-jiang/index.html",
-				"/D/_GitHub/resume/stylesheets/stylesheet.css",
-				"/D/_GitHub/resume/index.html",
-				"/D/_GitHub/resume/README.md",
-				"/D/_GitHub/resume/css/main.css",
-				"/D/_GitHub/resume/dist/main.css",
-				"/D/test/css/92.css",
-				"/D/test/css/92-media.css",
-				"/D/test/92.html",
-				"/D/test/css/90.css",
-				"/D/test/90.html",
-				"/D/test/css/91.css",
-				"/D/test/91.html",
-				"/D/test/css/89.css",
-				"/D/test/89.html",
-				"/D/test/css/87.css",
-				"/D/test/87.html",
-				"/D/test/88.html",
-				"/D/test/css/88.css",
-				"/D/test/css/86.css",
-				"/D/test/86.html",
-				"/D/test/css/85.css",
-				"/D/test/85.html",
-				"/C/Users/King/AppData/Local/Temp/Temp1_crimson.zip/SIL Open Font License.txt",
-				"/D/test/84.html",
-				"/D/test/css/84.css",
-				"/D/test/c/1.c",
-				"/C/Users/King/AppData/Roaming/Sublime Text 3/Packages/User/C.sublime-settings",
-				"/C/Users/King/AppData/Roaming/Sublime Text 3/Packages/User/C Improved.sublime-settings",
-				"/C/Users/King/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
-				"/C/Users/King/AppData/Roaming/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
-				"/C/Users/King/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
-				"/D/test/83.html",
-				"/D/test/css/83.css",
-				"/D/test/82.html",
-				"/D/test/css/82.css",
-				"/D/test/81.html",
-				"/D/test/css/81.css",
-				"/D/test/80.html",
-				"/F/_Downloads/Game.of.Thrones.S06E08.720p.HDTV.x264-AVS.txt",
-				"/D/test/css/79.css",
-				"/D/test/79.html",
-				"/D/test/77.html",
-				"/D/test/78.html",
-				"/D/test/76.html",
-				"/D/OneDrive/_Notes/front-end.txt",
-				"/D/OneDrive/_Notes/听力材料积累.txt"
+				"/C/Users/stephen/Desktop/hosts",
+				"/D/griver-mobile/client/www/scripts/js/video.js",
+				"/D/test/index.html",
+				"/D/griver-mobile/node_modules/owl.carousel/dist/owl.carousel.js",
+				"/D/griver-mobile/client/www/scripts/slick/responsive.js",
+				"/D/griver-mobile/client/www/scripts/slick/slick.js",
+				"/D/griver-mobile/client/www/scripts/slick/slick.css",
+				"/D/griver-mobile/client/www/scripts/slick/slick-theme.css",
+				"/D/griver-mobile/node_modules/style-loader/addStyles.js",
+				"/D/_Projects/test/libs/video-js.css",
+				"/D/OneDrive/_Notes/GStarCloud.txt",
+				"/D/griver-mobile/client/www/isso/js/app/globals.js",
+				"/D/griver-mobile/m/www/isso/js/app/globals.js",
+				"/D/griver-mobile/m/www/isso/js/app/isso.js",
+				"/D/griver-mobile/m/www/isso/js/app/dom.js",
+				"/D/griver-mobile/m/www/isso/js/app/count.js",
+				"/D/griver-mobile/client/www/isso/js/app/count.js",
+				"/D/mylib/2-embed.min.js",
+				"/D/_绿星云/账户.txt",
+				"/D/griver-mobile/client/www/isso/js/app/text/postbox.jade",
+				"/D/griver-mobile/client/www/isso/js/embed.js",
+				"/D/_Projects/isso/isso/js/embed.min.js",
+				"/D/griver-mobile/client/www/isso/js/deleteEmailWebsite.js",
+				"/D/_Projects/isso/isso/js/app/text/comment.jade",
+				"/D/_Projects/isso/isso/js/app/text/comment-loader.jade",
+				"/D/_Projects/isso/isso/js/app/i18n.js",
+				"/D/_Projects/isso/isso/js/lib/requirejs-jade/jade.js",
+				"/D/_Projects/isso/isso/js/app/lib/editor.js",
+				"/D/_Projects/isso/isso/js/app/lib/identicons.js",
+				"/D/_Projects/isso/isso/js/app/lib/promise.js",
+				"/D/_Projects/isso/isso/js/app/lib/ready.js",
+				"/D/_Projects/isso/isso/js/build.embed.js",
+				"/D/_Projects/isso/isso/js/build.count.js",
+				"/D/_Projects/isso/isso/js/app/text/svg.js",
+				"/D/griver-mobile/webpack.config.js",
+				"/D/griver-mobile/package.json",
+				"/D/griver-mobile/client/videos/components/live",
+				"/D/griver-mobile/client/containers/App/_config.scss",
+				"/D/griver-mobile/client/www/isso/js/app/i18n/zh_CN.js",
+				"/D/griver-mobile/client/www/isso/js/app/config.js",
+				"/D/griver-mobile/client/www/isso/js/config.js",
+				"/D/griver-mobile/client/www/isso/js/build.count.js",
+				"/D/griver-mobile/client/www/isso/js/build.embed.js",
+				"/D/griver-mobile/client/www/isso/js/count.js",
+				"/D/_Projects/isso/isso/css/isso.css",
+				"/D/griver-mobile/client/videos/components/boxing/index.js",
+				"/C/xampp/htdocs/danmaku-demo/comment.xml",
+				"/D/griver-mobile/client/www/scripts/js/videojs_ABdm.css",
+				"/D/_Projects/videojsABdm/videojs_ABdm.js",
+				"/C/Users/stephen/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/D/_Projects/videojsABdm/demo/index.html",
+				"/C/xampp/htdocs/danmaku-demo/videojs_ABdm.js",
+				"/C/xampp/htdocs/danmaku-demo/index.html",
+				"/C/xampp/htdocs/test-hls/index.html",
+				"/D/griver-mobile/m/index.html",
+				"/D/griver-mobile/node_modules/react-videojs/src/index.js",
+				"/D/griver-mobile/node_modules/react-videojs/dist/index.js",
+				"/C/xampp/htdocs/danmaku-demo/jixian.html",
+				"/D/_Projects/videojsABdm/demo/comment.xml"
 			],
 			"find":
 			{
-				"height": 39.0
+				"height": 38.0
 			},
 			"find_in_files":
 			{
 				"height": 102.0,
 				"where_history":
 				[
+					"<project>",
+					"D:\\griver-mobile\\client\\www\\isso\\js",
 					""
 				]
 			},
@@ -1814,134 +1956,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"error",
-					"this.state.style",
-					"handleBirthDate",
-					"handleVerifyPassword",
-					"handlePassword",
-					"handleUserName",
-					"handleEmail",
-					"handleEmailFocus",
-					"confirm",
-					"birth_date",
-					"confirm",
-					"email",
-					"password",
-					"email",
-					"user_name",
-					"store",
-					"Submit",
-					"Email",
-					"phoneNumber",
-					"11位数字",
-					"text",
+					"errorevent",
+					"35",
+					"40",
+					"46",
+					"25",
+					"left",
+					"section",
+					"vjs",
+					"this_video",
+					"absolute",
+					"record",
+					"dataRecord",
+					"data",
+					"_record",
+					"that",
+					"data",
+					"renderJSONData",
+					"videoTime",
+					"SYMCinISICGR5bpg9nXO_lx33PtKwmfkHivPDC2QjYo",
+					"vjs1",
+					"console.log(e.target.src)",
+					"this_video",
+					"vjs1",
+					"this_video",
+					"`",
+					"videolist",
+					"description",
 					"'",
-					"MyApp",
-					"MyForm",
-					"app",
-					"myForm",
-					"Trr",
-					"App",
-					"myForm",
-					"App",
-					"Learn",
-					"Hello",
-					"lime",
-					"Helve",
-					"|",
-					"喜欢",
-					"前端面试",
-					"makeCount()",
-					"counter",
-					"strict",
-					"apply",
-					"myFunc",
-					"Math",
-					"fahrenheit",
-					"new Date().",
-					"h1",
-					"img",
-					"me",
-					"font",
-					"dist",
-					"clip",
-					"webkit",
-					"内核",
-					"ie",
-					"ie8",
-					"If",
-					"64",
-					"img",
-					"article img",
-					"before",
-					"maroon",
-					"#f58c21",
-					"after",
-					"img",
+					"3",
+					"vjs",
+					"note",
+					"videolist",
+					"playlist",
+					"\"",
+					"var",
+					";",
+					"jQuery",
+					"slide",
+					"videolist",
+					"\"",
+					"item",
+					"fa",
+					"fa-chevron-left",
+					"'",
+					"type",
+					"class",
 					"left",
-					"f58c21",
-					"100px",
-					"10px",
-					"200px",
-					"0px",
-					"200ms",
-					"2s",
-					"cursor",
-					"伪元素",
-					"fieldset",
-					"h3",
-					"value",
-					"right",
-					"position",
-					"Shoes",
-					"Dresses",
-					"Pants",
-					"article",
-					"26px",
-					"22px",
-					"18px",
-					"24px",
-					"lin",
-					"-;",
-					"through",
-					"45deg",
-					"left",
-					"linear",
-					"position",
-					"left",
-					"颜色",
-					"优先级",
-					"target",
-					"pseudo",
-					"伪类",
-					"serif",
-					"ecma",
-					"aside",
-					"h2",
-					"h1",
-					"h2",
-					"h1",
-					"h2",
-					"h3",
-					"h2",
-					"清除浮动",
+					"li",
+					"ul",
+					"main",
+					"};\n",
+					"main",
+					"\"",
+					"playlist",
+					"play",
+					"img",
+					"slide-item",
+					"img",
+					"'",
+					"centered",
+					"li",
+					"QGwNkR5NdgjnKeWM7Qov_rS1iiAsClP1Bzs9UcWHQrI",
+					"defaultPosterSrc",
+					"stream_status",
+					"status",
+					"block",
 					"span",
-					"closestCenter",
-					"2010",
-					"td",
-					"tilte",
-					"text",
-					"730px",
-					"BFC",
-					"purple",
-					"000000",
-					"p",
-					"@media",
-					"</span>",
-					"<span>",
-					"h2",
-					"pseudo",
-					"font-face"
+					"GwNkR5NdgjnKeWM7Qov_rS1iiAsClP1Bzs9UcWHQrI",
+					"QGwNkR5NdgjnKeWM7Qov_rS1iiAsClP1Bzs9UcWHQrI",
+					"vod",
+					"Vod",
+					"loading",
+					"addEventListener",
+					"stalledEvent",
+					"Q",
+					"1",
+					"GwNkR5NdgjnKeWM7Qov_rS1iiAsClP1Bzs9UcWHQrI",
+					"QGwNkR5NdgjnKeWM7Qov_rS1iiAsClP1Bzs9UcWHQrI",
+					"GwNkR5NdgjnKeWM7Qov_rS1iiAsClP1Bzs9UcWHQrI",
+					"loading",
+					"note",
+					"height",
+					"const",
+					"GwNkR5NdgjnKeWM7Qov_rS1iiAsClP1Bzs9UcWHQrI",
+					"k7GVQW5_MH8V38Ft4coYprS1iiAsClP1Bzs9UcWHQrI",
+					"data",
+					"status",
+					"stream_status",
+					"args",
+					"scrollIntoView",
+					"isso-root",
+					"insert",
+					"isso-root",
+					"insert",
+					"age",
+					"Person",
+					"isso-root",
+					"insert",
+					"submit",
+					"isso-root",
+					"el",
+					"isso-root",
+					"insert_loader",
+					"isso-root",
+					"append",
+					"10",
+					"rem",
+					"closeButton",
+					"Vod",
+					"rosemega",
+					"Rosemega",
+					"jpg",
+					"Person",
+					"clutter",
+					"50",
+					"inherit",
+					"45",
+					"player",
+					"F2F0F0",
+					"D3D1D1",
+					"background",
+					"\"",
+					"class",
+					"background",
+					"stalledEvent",
+					"child",
+					"techor",
+					"html5"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1960,19 +2102,10 @@
 			"folders":
 			[
 				{
-					"path": "D:\\_GitHub\\griver-mobile"
+					"path": "D:\\griver-mobile"
 				},
 				{
-					"path": "D:\\test"
-				},
-				{
-					"path": "D:\\_GitHub\\react-redux-form"
-				},
-				{
-					"path": "D:\\_GitHub\\beginning-react"
-				},
-				{
-					"path": "D:\\myAPP"
+					"path": "D:\\_Projects\\test"
 				},
 				{
 					"path": "D:\\OneDrive\\_Notes"
@@ -1986,26 +2119,62 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/D/OneDrive/_Notes/前端学习笔记.txt",
+							"file": "/D/griver-mobile/client/videos/components/test/index.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 50075,
+								"buffer_size": 14358,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										50075,
-										50075
+										792,
+										792
 									]
 								],
 								"settings":
 								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												797,
+												798
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												740,
+												741
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
 									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
@@ -2016,6 +2185,16 @@
 										"bh_round_open",
 										"bh_round_close",
 										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
@@ -2026,21 +2205,16 @@
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
@@ -2050,284 +2224,41 @@
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
-										"bh_tag_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content"
-									],
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content"
+										"bh_tag_content"
 									],
 									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended Bright (SL).tmTheme",
 									"is_init_dirty_state": false,
 									"origin_encoding": "UTF-8",
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"tab_size": 4,
+									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+									"tab_size": 2,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 62215.0,
+								"translation.y": 494.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
+							"stack_index": 4,
 							"type": "text"
 						},
 						{
 							"buffer": 1,
-							"file": "/D/OneDrive/_Notes/前端面试.txt",
+							"file": "/D/griver-mobile/client/videos/components/tibohui/style.scss",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 4237,
+								"buffer_size": 11137,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										4237,
-										4237
+										10693,
+										10693
 									]
 								],
 								"settings":
 								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content"
-									],
-									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended Bright (SL).tmTheme",
-									"is_init_dirty_state": false,
-									"open_with_edit": true,
-									"origin_encoding": "UTF-8",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 1092.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/D/OneDrive/_Notes/notes1.txt",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 9861,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										239,
-										239
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content"
-									],
 									"bracket_highlighter.busy": false,
 									"bracket_highlighter.locations":
 									{
@@ -2346,16 +2277,41 @@
 									},
 									"bracket_highlighter.regions":
 									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
@@ -2366,36 +2322,11 @@
 										"bh_round_open",
 										"bh_round_close",
 										"bh_round_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
 										"bh_angle_close",
 										"bh_angle_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
@@ -2405,13 +2336,846 @@
 									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended Bright (SL).tmTheme",
 									"is_init_dirty_state": false,
 									"origin_encoding": "UTF-8",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
+									"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": -0.0,
+								"translation.y": 10185.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/griver-mobile/client/videos/components/universal/style.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 13138,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1856,
+										1856
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												1861,
+												1862
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												1771,
+												1772
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended Bright (SL).tmTheme",
+									"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 345.0,
+								"translation.y": 1635.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 3,
+							"file": "/D/griver-mobile/client/videos/components/tibohui/index.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12757,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4777,
+										4777
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												4854,
+												4855
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												4744,
+												4745
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended Bright (SL).tmTheme",
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3838.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/D/griver-mobile/client/videos/components/universal/index.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 14096,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4342,
+										4342
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												4341,
+												4342
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												4340,
+												4341
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended Bright (SL).tmTheme",
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2823.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/D/griver-mobile/client/www/scripts/js/myslider.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 579,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										576,
+										576
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												577,
+												578
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												540,
+												541
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended Bright (SL).tmTheme",
+									"syntax": "Packages/CSS3/CSS3.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/D/griver-mobile/client/www/scripts/js/myslider.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1224,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										640,
+										640
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												895,
+												896
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												628,
+												629
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended Bright (SL).tmTheme",
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/D/_Projects/test/140.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 327,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										327,
+										235
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended Bright (SL).tmTheme",
+									"is_init_dirty_state": true,
+									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/D/_Projects/test/141.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"_anf_new": "",
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended Bright (SL).tmTheme",
+									"history_list_is_closing": true,
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
 							"type": "text"
 						}
 					]
@@ -2419,7 +3183,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 31.0
+				"height": 30.0
 			},
 			"input":
 			{
@@ -2434,11 +3198,18 @@
 						0,
 						1,
 						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
 					]
 				],
 				"cols":
 				[
 					0.0,
+					0.5,
 					1.0
 				],
 				"rows":
@@ -2457,11 +3228,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,739,5,284,1375",
+			"position": "0,2,3,-32000,-32000,-1,-1,546,-20,91,1904",
 			"project": "",
 			"replace":
 			{
-				"height": 72.0
+				"height": 56.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -2470,6 +3241,66 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"141",
+						"test\\141.html"
+					],
+					[
+						"mysl",
+						"griver-mobile\\client\\www\\scripts\\js\\myslider.css"
+					],
+					[
+						"前端",
+						"_Notes\\前端学习笔记.txt"
+					],
+					[
+						"140",
+						"test\\140.js"
+					],
+					[
+						"141.js",
+						"test\\141.js"
+					],
+					[
+						"141.c",
+						"test\\141.css"
+					],
+					[
+						"note",
+						"_Notes\\notes1.txt"
+					],
+					[
+						"embe",
+						"D:\\_Learning\\embed.min.js"
+					],
+					[
+						"英语",
+						"_Notes\\英语笔记.txt"
+					],
+					[
+						"video",
+						"test\\libs\\video-js.css"
+					],
+					[
+						"embed",
+						"griver-mobile\\client\\www\\isso\\js\\embed.js"
+					],
+					[
+						"isso.css",
+						"griver-mobile\\client\\www\\isso\\css\\isso.css"
+					],
+					[
+						"139",
+						"test\\139.html"
+					],
+					[
+						"140.html",
+						"test\\140.html"
+					],
+					[
+						"138",
+						"test\\138.html"
+					],
 					[
 						"65",
 						"test\\65.html"
@@ -2495,7 +3326,7 @@
 				],
 				"width": 0.0
 			},
-			"selected_group": 0,
+			"selected_group": 1,
 			"settings":
 			{
 			},
@@ -2503,12 +3334,12 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 259.0,
+			"side_bar_width": 283.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 1,
+			"window_id": 26,
 			"workspace_name": ""
 		}
 	],
