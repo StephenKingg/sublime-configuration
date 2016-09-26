@@ -1,6 +1,8 @@
 {
 	"folder_history":
 	[
+		"/D/_Projects/isso",
+		"/D/isso",
 		"/D/griver-mobile/client/www/isso",
 		"/D/OneDrive/_Notes",
 		"/D/_Projects/test",
@@ -19,7 +21,7 @@
 		"/D/meiBuy"
 	],
 	"last_version": 3114,
-	"last_window_id": 45,
+	"last_window_id": 48,
 	"log_indexing": false,
 	"settings":
 	{
@@ -31,1054 +33,85 @@
 				"selected_items":
 				[
 					[
-						"repla",
-						"replaySrc〔variable〕"
-					],
-					[
-						"play_",
-						"play_hls_url〔variable〕"
-					],
-					[
-						"adsc",
-						"adsContent4"
-					],
-					[
-						"adsC",
-						"adsContent3"
-					],
-					[
-						"stalled",
-						"stalledEvent〔variable〕"
-					],
-					[
-						"replay_",
-						"replay_text〔variable〕"
-					],
-					[
-						"vid",
-						"videoType〔variable〕"
-					],
-					[
-						"sour",
-						"sourcelist〔variable〕"
-					],
-					[
-						"des",
-						"description〔variable〕"
-					],
-					[
-						"str",
-						"stream_status〔variable〕"
-					],
-					[
 						"get",
-						"getDay〔function〕"
+						"getElementsByTagName〔function〕"
 					],
 					[
-						"getE",
-						"getDate〔function〕"
-					],
-					[
-						"slidd",
-						"sliderDiv"
-					],
-					[
-						"jq",
-						"jquery-3.1.0.min.js"
-					],
-					[
-						"js",
-						"slick.min.js"
-					],
-					[
-						"css",
-						"slick-theme.css"
-					],
-					[
-						"jqu",
-						"jquery-3.1.0.min.js"
-					],
-					[
-						"141",
-						"141.js"
-					],
-					[
-						"_sl",
-						"_slidePrev"
-					],
-					[
-						"pre",
-						"previousButton"
-					],
-					[
-						"desc",
-						"description"
-					],
-					[
-						"re",
-						"renderPlaylist"
-					],
-					[
-						"text",
-						"text-decoration"
-					],
-					[
-						"inline",
-						"inline-block"
-					],
-					[
-						"rando",
-						"randomNum"
-					],
-					[
-						"email",
-						"emailTag"
-					],
-					[
-						"ema",
-						"emailTag"
-					],
-					[
-						"live",
-						"live_name"
-					],
-					[
-						"font",
-						"font-family"
+						"loca",
+						"localStorage"
 					],
 					[
 						"c",
-						"css/"
+						"scripts/"
 					],
 					[
-						"min",
-						"video.min.js"
-					],
-					[
-						"contr",
-						"videojs-contrib-hls.min.js"
-					],
-					[
-						"www",
-						"www/"
-					],
-					[
-						"v",
-						"video.min.js"
-					],
-					[
-						"vp",
-						"vplayer"
-					],
-					[
-						"vide",
-						"videoButtonStatus"
-					],
-					[
-						"render",
-						"renderPlaylists〔function〕"
-					],
-					[
-						"sli",
-						"slick.min.js"
-					],
-					[
-						"slic",
-						"slick-theme.css"
-					],
-					[
-						"slci",
-						"slick.css"
-					],
-					[
-						"per",
-						"perfect-scrollbar.css"
-					],
-					[
-						"pl",
-						"videojs-playlist.js"
-					],
-					[
-						"ab",
-						"videojs_ABdm.js"
-					],
-					[
-						"vjs",
-						"vjs-big-play-centered"
-					],
-					[
-						"time",
-						"timeoutID"
-					],
-					[
-						"timeou",
-						"timeoutID〔variable〕"
-					],
-					[
-						"overtime",
-						"overtimeButton〔variable〕"
-					],
-					[
-						"comment",
-						"commentScript〔variable〕"
-					],
-					[
-						"over",
-						"overtimeButton〔variable〕"
+						"isso",
+						"isso-thread"
 					],
 					[
 						"query",
-						"querySelector"
+						"querySelectorAll"
 					],
 					[
-						"down",
-						"download_form"
+						"input",
+						"inputDisplay"
 					],
 					[
-						"do",
-						"download"
+						"noR",
+						"noResourceEvent"
 					],
 					[
-						"downloa",
-						"download_btn"
+						"nots",
+						"notSupportedEvent〔variable〕"
 					],
 					[
-						"replay",
-						"replayText"
+						"notS",
+						"notSupported"
 					],
 					[
-						"rep",
-						"replay_btn〔variable〕"
-					],
-					[
-						"repa",
-						"replay_btn"
-					],
-					[
-						"ads",
-						"adsImage〔variable〕"
-					],
-					[
-						"que",
-						"querySelector"
-					],
-					[
-						"current",
-						"currentTime"
-					],
-					[
-						"hls",
-						"videojs5-hlsjs-source-handler.js"
-					],
-					[
-						"text-de",
-						"text-decoration-line"
-					],
-					[
-						"padding",
-						"padding-right"
-					],
-					[
-						"ob",
-						"object-fit"
-					],
-					[
-						"class",
-						"className〔variable〕"
-					],
-					[
-						"直播",
-						"直播技术支持："
-					],
-					[
-						"inlin",
-						"inline-block"
-					],
-					[
-						"su",
-						"videojs.suggestedVideoEndcap.js"
-					],
-					[
-						"ad",
-						"videojs.ads.js"
-					],
-					[
-						"a",
-						"amazeui.min.css"
-					],
-					[
-						"136",
-						"136.css"
-					],
-					[
-						"style",
-						"stylesheet"
-					],
-					[
-						"lib",
-						"libs/"
-					],
-					[
-						"s",
-						"videojs-resolution-switcher.css"
-					],
-					[
-						"135",
-						"135.css"
-					],
-					[
-						"img",
-						"img/"
-					],
-					[
-						"132",
-						"132.js"
-					],
-					[
-						"131",
-						"131.js"
-					],
-					[
-						"unlink",
-						"fs.unlink(path, callback);"
-					],
-					[
-						"readFile",
-						"fs.readFile(path, options, callback_);"
-					],
-					[
-						"requ",
-						"require〔function〕"
-					],
-					[
-						"index",
-						"index.js"
-					],
-					[
-						"Nav",
-						"Navreq"
-					],
-					[
-						"obj",
-						"objSub〔variable〕"
-					],
-					[
-						"show",
-						"showName"
-					],
-					[
-						"123",
-						"123.js"
-					],
-					[
-						"_",
-						"_theme.scss"
-					],
-					[
-						"eve",
-						"eventEmitter〔variable〕"
-					],
-					[
-						"cla",
-						"classString〔variable〕"
-					],
-					[
-						"handleP",
-						"handlePasswordFocus"
-					],
-					[
-						"child",
-						"children"
-					],
-					[
-						"submit",
-						"submitting"
-					],
-					[
-						"res",
-						"resetForm〔variable〕"
-					],
-					[
-						"Pro",
-						"PropTypes"
-					],
-					[
-						"us",
-						"username"
-					],
-					[
-						"ph",
-						"phoneNumber"
-					],
-					[
-						"handle",
-						"handleSubmit〔variable〕"
-					],
-					[
-						"App",
-						"App.jsx"
-					],
-					[
-						"co",
-						"components/"
-					],
-					[
-						"imp",
-						"import〔keyword〕"
-					],
-					[
-						"corn",
-						"cornsilk"
-					],
-					[
-						"te",
-						"test1.js"
-					],
-					[
-						"test",
-						"test2.jsx"
-					],
-					[
-						"getD",
-						"getDay〔function〕"
-					],
-					[
-						"create",
-						"createTextNode"
-					],
-					[
-						"fa",
-						"factorial2"
-					],
-					[
-						"92",
-						"92-1000.css"
-					],
-					[
-						"fs",
-						"font-style"
-					],
-					[
-						"fos",
-						"font-style"
-					],
-					[
-						"ff",
-						"font-family"
-					],
-					[
-						"ls",
-						"letter-spacing"
-					],
-					[
-						"bc",
-						"border-color"
-					],
-					[
-						"border",
-						"border-top"
-					],
-					[
-						"line-",
-						"line-through"
-					],
-					[
-						"text-a",
-						"text-align"
-					],
-					[
-						"im",
-						"img/"
-					],
-					[
-						"fig",
-						"figcaption	<figcaption>"
-					],
-					[
-						"border-c",
-						"border-collapse"
-					],
-					[
-						"image",
-						"images/"
-					],
-					[
-						"font-",
-						"font-family"
-					],
-					[
-						"gradient",
-						"linear-gradient()"
-					],
-					[
-						"for",
-						"frameborder	Attr"
-					],
-					[
-						"hear",
-						"hear-about"
-					],
-					[
-						"visit",
-						"visit_y"
-					],
-					[
-						"select",
-						"select	Tag"
-					],
-					[
-						"fieldset",
-						"fieldset	Tag"
-					],
-					[
-						"bas",
-						"basketball"
+						"first",
+						"firstChild"
 					],
 					[
 						"tex",
 						"text-align"
 					],
 					[
-						"ch",
-						"checkbox"
-					]
-				]
-			},
-			"build_system_choices":
-			[
-				[
-					[
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							""
-						],
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							"Run"
-						],
-						[
-							"Packages/User/c.sublime-build",
-							""
-						],
-						[
-							"Packages/User/c.sublime-build",
-							"Run"
-						],
-						[
-							"Packages/User/c.sublime-build",
-							"RunInCommand"
-						]
+						"rende",
+						"renderJSONData〔function〕"
 					],
 					[
-						"Packages/User/c.sublime-build",
-						"Run"
-					]
-				]
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 392.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"aut",
-						"Autoprefix CSS"
+						"Reac",
+						"ReactIScroll"
 					],
 					[
-						"prp",
-						"Package Control: Remove Package"
-					],
-					[
-						"html",
-						"HTMLBeautify"
-					],
-					[
-						"pis",
-						"Package Control: Install Package"
-					],
-					[
-						"auto",
-						"Autoprefix CSS"
-					],
-					[
-						"format",
-						"Format: Javascript"
-					],
-					[
-						"mark",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"termi",
-						"Terminal: Open"
-					],
-					[
-						"preview",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"mar",
-						"Markdown HTML Preview"
-					],
-					[
-						"mar pre",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"syntax c",
-						"Set Syntax: C"
-					],
-					[
-						"pr",
-						"Package Control: Remove Package"
-					],
-					[
-						"",
-						"ANF: Copy Current File"
-					],
-					[
-						"emmet",
-						"Toggle Comment"
-					]
-				],
-				"width": 464.0
-			},
-			"console":
-			{
-				"height": 174.0,
-				"history":
-				[
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/D/griver-mobile/client/videos/components/vhigh/index.js",
-				"/D/griver-mobile/client/containers/App/style.scss",
-				"/D/OneDrive/_Notes/notes1.txt",
-				"/D/griver-mobile/client/videos/components/vod/index.js",
-				"/D/griver-mobile/client/videos/components/live/index.js",
-				"/D/griver-mobile/client/videos/components/universal/index.js",
-				"/D/griver-mobile/client/videos/components/rosemega/style.scss",
-				"/D/griver-mobile/client/containers/App/index.js",
-				"/D/griver-mobile/client/videos/components/universal/style.scss",
-				"/D/griver-mobile/client/videos/components/test/style.scss",
-				"/D/_Projects/isso/isso/js/app/api.js",
-				"/D/griver-mobile/client/videos/components/test/index.js",
-				"/D/griver-mobile/client/videos/components/index.js",
-				"/D/griver-mobile/client/videos/components/tibohui/style.scss",
-				"/D/griver-mobile/client/videos/components/vod/style.scss",
-				"/D/griver-mobile/client/index.js",
-				"/D/griver-mobile/client/videos/components/vnormal/style.scss",
-				"/D/griver-mobile/client/videos/components/tibohui/index.js",
-				"/D/embed.min.js",
-				"/D/_Projects/isso/isso/js/app/dom.js",
-				"/D/_Projects/isso/isso/js/app/isso.js",
-				"/D/griver-mobile/client/www/isso/js/app/isso.js",
-				"/D/_Projects/isso/isso/js/app/globals.js",
-				"/D/_Projects/isso/isso/js/app/count.js",
-				"/D/_Projects/isso/isso/js/app/config.js",
-				"/D/_Projects/isso/isso/js/app/text/postbox.jade",
-				"/D/griver-mobile/client/www/scripts/js/videojs.ads.js",
-				"/D/griver-mobile/client/www/isso/js/app/api.js",
-				"/D/griver-mobile/client/www/isso/css/isso.css",
-				"/D/griver-mobile/client/videos/components/play/index.js",
-				"/D/griver-mobile/client/videos/components/navr/index.js",
-				"/D/griver-mobile/client/videos/components/hbn/style.scss",
-				"/D/griver-mobile/client/www/scripts/js/video-js.css",
-				"/D/_Projects/test/140.css",
-				"/D/_Projects/test/140.js",
-				"/C/xampp/htdocs/test-hls/140.html",
-				"/D/_Projects/test/139.html",
-				"/D/_Projects/test/140.html",
-				"/D/griver-mobile/static/www/isso/js/embed.min.js",
-				"/D/Iconsmind-Outline-Smile.ico",
-				"/D/emoticon-34-512.gif",
-				"/D/08nq.jpg",
-				"/D/21-512.png",
-				"/D/_Learning/embed.min.js",
-				"/D/_Projects/isso/isso/js/app/jade.js",
-				"/D/_Projects/isso/isso/js/app/lib.js",
-				"/D/_Projects/isso/isso/js/app/utils.js",
-				"/D/griver-mobile/client/www/isso/js/embed.min.js",
-				"/D/_Projects/isso/isso/js/embed.js",
-				"/D/_Projects/isso/isso/js/count.js",
-				"/D/_Projects/isso/isso/js/config.js",
-				"/D/griver-mobile/.gitignore",
-				"/C/xampp/htdocs/test-hls/111.html",
-				"/D/griver-mobile/client/videos/components/rosemega/index.js",
-				"/D/griver-mobile/client/index.html",
-				"/D/griver-mobile/client/videos/components/nav/index.js",
-				"/D/griver-mobile/client/videos/components/tibohui",
-				"/D/OneDrive/_Notes/英语笔记.txt",
-				"/C/Users/stephen/Desktop/hosts",
-				"/D/OneDrive/_Notes/前端学习笔记.txt",
-				"/D/griver-mobile/client/www/scripts/js/video.js",
-				"/D/griver-mobile/client/videos/components/wedding/index.js",
-				"/D/test/index.html",
-				"/D/griver-mobile/node_modules/owl.carousel/dist/owl.carousel.js",
-				"/D/griver-mobile/client/www/scripts/slick/responsive.js",
-				"/D/griver-mobile/client/www/scripts/slick/slick.js",
-				"/D/griver-mobile/client/www/scripts/slick/slick.css",
-				"/D/griver-mobile/client/www/scripts/slick/slick-theme.css",
-				"/D/griver-mobile/client/videos/components/hbn/index.js",
-				"/D/griver-mobile/node_modules/style-loader/addStyles.js",
-				"/D/_Projects/test/libs/video-js.css",
-				"/D/OneDrive/_Notes/GStarCloud.txt",
-				"/D/griver-mobile/client/www/isso/js/app/globals.js",
-				"/D/griver-mobile/m/www/isso/js/app/globals.js",
-				"/D/griver-mobile/m/www/isso/js/app/isso.js",
-				"/D/griver-mobile/m/www/isso/js/app/dom.js",
-				"/D/griver-mobile/m/www/isso/js/app/count.js",
-				"/D/griver-mobile/client/www/isso/js/app/count.js",
-				"/D/mylib/2-embed.min.js",
-				"/D/_绿星云/账户.txt",
-				"/D/griver-mobile/client/www/isso/js/app/text/postbox.jade",
-				"/D/griver-mobile/client/www/isso/js/embed.js",
-				"/D/_Projects/isso/isso/js/embed.min.js",
-				"/D/griver-mobile/client/www/isso/js/deleteEmailWebsite.js",
-				"/D/_Projects/isso/isso/js/app/text/comment.jade",
-				"/D/_Projects/isso/isso/js/app/text/comment-loader.jade",
-				"/D/_Projects/isso/isso/js/app/i18n.js",
-				"/D/_Projects/isso/isso/js/lib/requirejs-jade/jade.js",
-				"/D/_Projects/isso/isso/js/app/lib/editor.js",
-				"/D/_Projects/isso/isso/js/app/lib/identicons.js",
-				"/D/_Projects/isso/isso/js/app/lib/promise.js",
-				"/D/_Projects/isso/isso/js/app/lib/ready.js",
-				"/D/_Projects/isso/isso/js/build.embed.js",
-				"/D/_Projects/isso/isso/js/build.count.js",
-				"/D/_Projects/isso/isso/js/app/text/svg.js",
-				"/D/griver-mobile/webpack.config.js",
-				"/D/griver-mobile/package.json",
-				"/D/griver-mobile/client/videos/components/live",
-				"/D/griver-mobile/client/containers/App/_config.scss",
-				"/D/griver-mobile/client/www/isso/js/app/i18n/zh_CN.js",
-				"/D/griver-mobile/client/www/isso/js/app/config.js",
-				"/D/griver-mobile/client/www/isso/js/config.js",
-				"/D/griver-mobile/client/www/isso/js/build.count.js",
-				"/D/griver-mobile/client/www/isso/js/build.embed.js",
-				"/D/griver-mobile/client/www/isso/js/count.js",
-				"/D/_Projects/isso/isso/css/isso.css",
-				"/D/griver-mobile/client/videos/components/boxing/index.js",
-				"/C/xampp/htdocs/danmaku-demo/comment.xml",
-				"/D/griver-mobile/client/www/scripts/js/videojs_ABdm.css",
-				"/D/_Projects/videojsABdm/videojs_ABdm.js",
-				"/C/Users/stephen/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
-				"/D/_Projects/videojsABdm/demo/index.html",
-				"/C/xampp/htdocs/danmaku-demo/videojs_ABdm.js",
-				"/C/xampp/htdocs/danmaku-demo/index.html",
-				"/C/xampp/htdocs/test-hls/index.html",
-				"/D/griver-mobile/m/index.html",
-				"/D/griver-mobile/node_modules/react-videojs/src/index.js",
-				"/D/griver-mobile/node_modules/react-videojs/dist/index.js",
-				"/D/_Projects/test/141.html",
-				"/C/xampp/htdocs/danmaku-demo/jixian.html",
-				"/D/_Projects/videojsABdm/demo/comment.xml",
-				"/D/griver-mobile/m-18/app.154d1b8b5241d1e3ee7d.js",
-				"/D/griver-mobile/m-19/app.ab738b2a6f4a58bc1298.js",
-				"/D/griver-mobile/m-19/vendor.ab738b2a6f4a58bc1298.js",
-				"/D/OneDrive/_Notes/front-end.txt",
-				"/D/_Projects/isso/isso/demo/index.html",
-				"/D/index.html",
-				"/D/_Projects/test/138.html"
-			],
-			"find":
-			{
-				"height": 38.0
-			},
-			"find_in_files":
-			{
-				"height": 102.0,
-				"where_history":
-				[
-					"<project>",
-					"D:\\griver-mobile\\client\\www\\isso\\js",
-					""
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"centered",
-					"li",
-					"QGwNkR5NdgjnKeWM7Qov_rS1iiAsClP1Bzs9UcWHQrI",
-					"defaultPosterSrc",
-					"stream_status",
-					"status",
-					"block",
-					"span",
-					"GwNkR5NdgjnKeWM7Qov_rS1iiAsClP1Bzs9UcWHQrI",
-					"QGwNkR5NdgjnKeWM7Qov_rS1iiAsClP1Bzs9UcWHQrI",
-					"vod",
-					"Vod",
-					"loading",
-					"addEventListener",
-					"stalledEvent",
-					"Q",
-					"1",
-					"GwNkR5NdgjnKeWM7Qov_rS1iiAsClP1Bzs9UcWHQrI",
-					"QGwNkR5NdgjnKeWM7Qov_rS1iiAsClP1Bzs9UcWHQrI",
-					"GwNkR5NdgjnKeWM7Qov_rS1iiAsClP1Bzs9UcWHQrI",
-					"loading",
-					"note",
-					"height",
-					"const",
-					"GwNkR5NdgjnKeWM7Qov_rS1iiAsClP1Bzs9UcWHQrI",
-					"k7GVQW5_MH8V38Ft4coYprS1iiAsClP1Bzs9UcWHQrI",
-					"data",
-					"status",
-					"stream_status",
-					"args",
-					"scrollIntoView",
-					"isso-root",
-					"insert",
-					"isso-root",
-					"insert",
-					"age",
-					"Person",
-					"isso-root",
-					"insert",
-					"submit",
-					"isso-root",
-					"el",
-					"isso-root",
-					"insert_loader",
-					"isso-root",
-					"append",
-					"10",
-					"rem",
-					"closeButton",
-					"Vod",
-					"rosemega",
-					"Rosemega",
-					"jpg",
-					"Person",
-					"clutter",
-					"50",
-					"inherit",
-					"45",
-					"player",
-					"F2F0F0",
-					"D3D1D1",
-					"background",
-					"\"",
-					"class",
-					"background",
-					"stalledEvent",
-					"child",
-					"techor",
-					"html5",
-					"play_rtmp_url",
-					"videoType",
-					"splice",
-					"substr",
-					"call",
-					"age",
-					"name",
-					"renderJSONData",
-					"flash",
-					"html5",
-					"h3",
-					"name",
-					"width",
-					"description",
-					"Name",
-					"name",
-					"console.log",
-					"stream_status",
-					"$",
-					"`",
-					"link",
-					"renderPlaylist",
-					"content",
-					"'",
-					"sliderContainer",
-					"\"",
-					"prevButton",
-					"64px",
-					"&",
-					"span",
-					"4",
-					"renderPlaylist",
-					"renderLives",
-					"live_name",
-					"note",
-					"stream_status",
-					"`",
-					"2rem",
-					"4",
-					"#10181B",
-					"rgb(4, 150, 136)",
-					"#10181B",
-					"black",
-					"orange",
-					"04",
-					"+",
-					"Left",
-					"support",
-					"`",
-					"aaa",
-					"insert",
-					"append",
-					"entrypoint",
-					"isso-comment",
-					"append",
-					"Person",
-					"time",
-					"eslint",
-					"z-index"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					""
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 30.0
-			},
-			"input":
-			{
-				"height": 38.0
-			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 142.0
-			},
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"pinned_build_system": "",
-			"replace":
-			{
-				"height": 56.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"141.c",
-						"test\\141.css"
-					],
-					[
-						"note",
-						"_Notes\\notes1.txt"
-					],
-					[
-						"embe",
-						"D:\\_Learning\\embed.min.js"
-					],
-					[
-						"英语",
-						"_Notes\\英语笔记.txt"
+						"lb",
+						"libs/"
 					],
 					[
 						"141",
-						"test\\141.js"
+						"141.js"
 					],
 					[
-						"前端",
-						"_Notes\\前端学习笔记.txt"
+						"color",
+						"colorRed"
 					],
 					[
-						"video",
-						"test\\libs\\video-js.css"
+						"unde",
+						"undefined〔keyword〕"
 					],
 					[
-						"embed",
-						"griver-mobile\\client\\www\\isso\\js\\embed.js"
+						"pre",
+						"videojs-preroll.min.js"
 					],
 					[
-						"isso.css",
-						"griver-mobile\\client\\www\\isso\\css\\isso.css"
+						"css",
+						"videojs.ads.css"
 					],
 					[
-						"140",
-						"C:\\xampp\\htdocs\\test-hls\\140.html"
+						"set",
+						"setTimeout〔function〕"
 					],
-					[
-						"139",
-						"test\\139.html"
-					],
-					[
-						"140.html",
-						"test\\140.html"
-					],
-					[
-						"138",
-						"test\\138.html"
-					],
-					[
-						"65",
-						"test\\65.html"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": true,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 283.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 1908.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
 					[
 						"wor",
 						"word-spacing"
@@ -1136,10 +169,6 @@
 						"stream_status〔variable〕"
 					],
 					[
-						"get",
-						"getDay〔function〕"
-					],
-					[
 						"getE",
 						"getDate〔function〕"
 					],
@@ -1156,24 +185,12 @@
 						"slick.min.js"
 					],
 					[
-						"css",
-						"slick-theme.css"
-					],
-					[
 						"jqu",
 						"jquery-3.1.0.min.js"
 					],
 					[
-						"141",
-						"141.js"
-					],
-					[
 						"_sl",
 						"_slidePrev"
-					],
-					[
-						"pre",
-						"previousButton"
 					],
 					[
 						"desc",
@@ -1210,10 +227,6 @@
 					[
 						"font",
 						"font-family"
-					],
-					[
-						"c",
-						"css/"
 					],
 					[
 						"min",
@@ -1290,10 +303,6 @@
 					[
 						"over",
 						"overtimeButton〔variable〕"
-					],
-					[
-						"query",
-						"querySelector"
 					],
 					[
 						"down",
@@ -1534,147 +543,9 @@
 					[
 						"ls",
 						"letter-spacing"
-					],
-					[
-						"bc",
-						"border-color"
-					],
-					[
-						"line-",
-						"line-through"
-					],
-					[
-						"text-a",
-						"text-align"
-					],
-					[
-						"im",
-						"img/"
-					],
-					[
-						"fig",
-						"figcaption	<figcaption>"
-					],
-					[
-						"border-c",
-						"border-collapse"
-					],
-					[
-						"image",
-						"images/"
-					],
-					[
-						"font-",
-						"font-family"
-					],
-					[
-						"gradient",
-						"linear-gradient()"
-					],
-					[
-						"for",
-						"frameborder	Attr"
-					],
-					[
-						"hear",
-						"hear-about"
-					],
-					[
-						"visit",
-						"visit_y"
-					],
-					[
-						"select",
-						"select	Tag"
-					],
-					[
-						"fieldset",
-						"fieldset	Tag"
 					]
 				]
 			},
-			"buffers":
-			[
-				{
-					"file": "/D/griver-mobile/client/videos/components/test/index.js",
-					"settings":
-					{
-						"buffer_size": 14358,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/griver-mobile/client/videos/components/tibohui/style.scss",
-					"settings":
-					{
-						"buffer_size": 11137,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/griver-mobile/client/videos/components/universal/style.scss",
-					"settings":
-					{
-						"buffer_size": 13138,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"contents": "import React, { Component } from 'react'\nimport { Link } from 'react-router'\n\n// import $ from 'jquery'\n// import 'imports?jQuery=jquery!owl.carousel'\n// import OwlCarousel from 'react-owl-carousel'\n\nimport style from './style'\n\nclass Tibohui extends Component {\n  state = {\n    width: 0,\n    height: 0,\n    data: {}\n  }\n\n  static propTypes = {\n    className: React.PropTypes.string,\n    location: React.PropTypes.object\n  };\n\n  static defaultProps = {\n    className: ''\n  }\n\n  componentDidMount() {\n    let width = document.documentElement.clientWidth\n    let height = width * 3.0 / 4.0\n    const { query } = this.props.location\n    const id = query.id\n\n    if (width > 960) {\n      width = 960\n      height = width * 3.0 / 4.0\n    }\n\n    this.setState({ width, height, id })\n    // const that = this\n\n    // fetch(`http://vmng.gstarcloud.com/griver/vxsearch/?name=${id}`).then((rsp) => {\n    //   return rsp.json()\n    // }).then((j) => {\n    //   if (j && j.data) {\n    //     const data = j.data\n    //     that.setState({ ...that.state, data })\n    //   }\n    // })\n\n\n    // test\n    // fetch('http://220.242.2.254:9080/griver/vxrecord/?name=EkqPfIWh_9YLdGRXKYd8AbS1iiAsClP1Bzs9UcWHQrI')\n    //   .then(rsp => rsp.json())\n    //   .then(j => {\n    //     if (j && j.data) {\n    //       const data = j.data\n    //       that.setState({ ...that.state, data })\n    //     }\n    //   })\n\n    // comments\n    // const commentDiv = document.getElementById('wrapper')\n\n    // const commentSection = document.createElement('section')\n    // commentSection.id = 'isso-thread'\n    // commentSection.setAttribute('data-title', 'rosemega')\n    // commentSection.setAttribute('data-isso-id', 'KjX0Q4SxLB_f1pPu16p2drS1iiAsClP1Bzs9UcWHQrI')  // 好百年id\n\n    // const commentScript = document.createElement('script')\n    // commentScript.src = 'www/scripts/isso/embed.min.js'\n    // commentScript.async = true\n    // commentScript.setAttribute('data-isso', 'http://vmng.gstarcloud.com/isso/')\n    // commentScript.setAttribute('data-isso-css', false)\n    // commentScript.setAttribute('data-isso-require-author', true)\n    // commentScript.setAttribute('data-isso-lang', 'zh')\n    // commentScript.setAttribute('data-isso-vote', true)\n\n    // commentDiv.appendChild(commentSection)\n    // commentDiv.appendChild(commentScript)\n\n    // replay & download\n    // const replay_btn = document.getElementById('replay')\n    // const replay_text = document.getElementById('replay-text')\n    // const download_btn = document.getElementById('download')\n    // const vjs = document.getElementById('video')\n\n    // replay_btn.addEventListener('click', () => {\n      // replay_text.style.display = 'none'\n      // vjs.setAttribute('src', 'www/imgs/rosemega/replay-video.mp4')\n      // vjs.setAttribute('type', 'video/mp4')\n      // vjs.load()\n      // vjs.pause()\n\n      // if (vjs.play) {\n      //   replay_btn.parentNode.removeChild(replay_btn)\n      //   download_btn.style.display = 'block'\n      // }\n    // })\n\n    // download_btn.addEventListener('click', () => {\n    //   download_btn.setAttribute('href', 'www/imgs/rosemega/replay-video.mp4')\n    // })\n\n    // 事件处理：广告，加载动画，加载超时内容，播放/暂停（大）按钮\n    const closeButton1 = document.getElementsByClassName(style.closeButton)[0]\n    const closeButton2 = document.getElementsByClassName(style.closeButton)[1]\n    const adsContent1 = document.getElementsByClassName(style.adsContent)[0]\n    const adsContent2 = document.getElementsByClassName(style.adsContent)[1]\n    const loadingEvent = document.getElementsByClassName(style.loading)[0]\n    const overtimeButton = document.getElementsByClassName(style.overtime)[0]\n    const waitingEvent = document.getElementsByClassName(style.waiting)[0]\n    const errorEvent = document.getElementsByClassName(style.error)[0]\n\n    // 广告关闭按钮点击事件\n    closeButton1.onclick = () => {\n      adsContent1.style.display = 'none'\n    }\n\n    closeButton2.onclick = () => {\n      adsContent2.style.display = 'none'\n    }\n\n    // 加载超时按钮点击事件\n    overtimeButton.addEventListener('click', () => {\n      window.location.reload(true)\n    })\n\n    // 处理直播不存在\n    // setInterval(function () {\n    //   if (vjs.readyState < 2) {\n    //     errorEvent.style.display = 'block'\n    //     loadingEvent.style.display = 'none'\n    //   } else {\n    //     errorEvent.style.display = 'none'\n    //   }\n    // }, 2000)\n\n    // 播放器行为定制\n    videojs('video', {\n      techOrder: [ 'html5', 'flash' ],\n      controls: true,\n      poster: 'www/imgs/tibo/1.png',\n      width: `${width}`,\n      height: `${width * 9 / 16}`,\n      plugins: {}\n    }, function () {\n      const player = this\n      const videoButtonStatus = document.getElementById('video')\n\n      player.replayButton()\n\n      player.on('loadstart', () => {\n        loadingEvent.style.display = 'block'\n        videoButtonStatus.classList.remove('vjs-paused')\n      })\n\n      player.on('stalled', () => {\n      })\n\n      player.on('waiting', () => {\n        waitingEvent.style.display = 'block'\n        errorEvent.style.display = 'none'\n      })\n\n      player.on('suspend', () => {\n      })\n\n      player.on('canplay', () => {\n        loadingEvent.style.display = 'none'\n        overtimeButton.style.display = 'none'\n        waitingEvent.style.display = 'none'\n        errorEvent.style.display = 'none'\n      })\n\n      player.on('play', () => {\n        videoButtonStatus.classList.remove('vjs-paused')\n        videoButtonStatus.classList.add('vjs-playing')\n\n        waitingEvent.style.display = 'none'\n        errorEvent.style.display = 'none'\n\n        adsContent1.style.display = 'none'\n        adsContent2.style.display = 'none'\n      })\n\n      player.on('pause', () => {\n        videoButtonStatus.classList.remove('vjs-playing')\n        videoButtonStatus.classList.add('vjs-paused')\n\n        loadingEvent.style.display = 'none'\n        waitingEvent.style.display = 'none'\n\n        // random ads\n        let randomNum = Math.floor(Math.random() * 2)\n        if (randomNum === 0) {\n          adsContent1.style.display = 'block'\n        } else if (randomNum === 1) {\n          adsContent2.style.display = 'block'\n        }\n      })\n\n      player.on('error', () => {\n        loadingEvent.style.display = 'none'\n        errorEvent.style.display = 'block'\n        // const err_text = document.querySelector('.vjs-modal-dialog-content')\n        // err_text.innerHTML = ''\n        document.querySelector('.vjs-modal-dialog-content').style.display = 'none'\n        document.getElementsByClassName('vjs-big-play-button')[0].style.display = 'none'\n        // err_text.innerHTML = '<h3>亲~直播还没开始哦，请耐心等待 *^_^* </h3><p>或者点击右上角的回看试试？</p>'\n      })\n\n      player.on('ended', () => {\n      })\n\n      // 播放器右下角，公司logo（可点击跳转）\n      // player.brand({\n      //   image: 'www/imgs/brand.png',\n      //   title: '绿星云',\n      //   alt: '绿星云科技（深圳）有限公司',\n      //   destination: 'http://www.gstarcloud.com',\n      //   destinationTarget: '_blank'\n      // })\n    })\n  }\n\n  render() {\n    const { width, height, data } = this.state\n    let { description } = data\n    let className = style.root || ''\n\n    if (this.props.className) {\n      className += ` ${this.props.className}`\n    }\n\n    const adsStyle = {\n      width: width / 2,\n      height: width / 2 * 3 / 4,\n      top: width * 3 / 16 / 2,\n      left: width / 4\n    }\n\n    const adsImage = {\n      width: width / 2,\n      height: width / 2 * 3 / 4\n    }\n\n    const adsButton = {\n      width: width / 32,\n      height: width / 32,\n      fontSize: width / 36\n    }\n\n    const loading = {\n      width: width / 2,\n      height: '36px',\n      top: (width * 9 / 16 - 22) / 2,\n      left: width / 4\n    }\n\n    const overtime = {\n      display: 'none',\n      width: '180px',\n      height: '22px',\n      top: (width * 9 / 16 - 22) / 2,\n      left: (width - 180) / 2,\n      border: 'none',\n      background: 'none',\n      color: '#fff',\n      cursor: 'pointer'\n    }\n\n    // const comments = {\n    //   width: width,\n    //   textAlign: 'left',\n    //   marginLeft: 'auto',\n    //   marginRight: 'auto'\n    // }\n\n    // switch (status) {\n    //   case 'waiting':\n    //     status = '等待中'\n    //     break\n    //   case 'publishing':\n    //     status = '直播中'\n    //     break\n    //   case 'closed':\n    //     status = '直播结束'\n    //     break\n    //   default:\n    //     status = '未知'\n    // }\n\n    // const src = `http://vvod.gstarcloud.com/vod/${decodeURI(file)}`\n    description = (!description) ? '暂无简介' : description\n    name = (!name) ? '未知' : name\n    const defaultPoster = 'www/imgs/video-poster.jpg'\n    const this_video = document.getElementById('video')\n\n    function handleClick1() {\n      const vjs1 = this_video.firstChild\n      vjs1.setAttribute('src', 'http://vvod.gstarcloud.com/vod/0909.mp4')\n      vjs1.load()\n      vjs1.play()\n    }\n\n    function handleClick2() {\n      const vjs2 = this_video.firstChild\n      vjs2.setAttribute('src', 'http://vvod.gstarcloud.com/vod/0910.mp4')\n      vjs2.load()\n      vjs2.play()\n    }\n\n    function handleClick3() {\n      const vjs3 = this_video.firstChild\n      vjs3.setAttribute('src', 'http://vvod.gstarcloud.com/vod/0911.mp4')\n      vjs3.load()\n      vjs3.play()\n    }\n\n    return (\n      <div className={className}>\n        <section>\n          <div style={ { textAlign: 'center' } }>\n            <img src=\"www/imgs/tibo/2.png\" style={ { width: '100%' } } />\n          </div>\n        </section>\n        <section className={style.videoComponent}>\n          <div className={style.adsContent} style={adsStyle}>\n            <a href=\"http://www.sportgd.cn\" target=\"_blank\"><img src=\"www/imgs/tibo/3.jpg\" style={adsImage} /></a>\n            <button className={style.closeButton} style={adsButton}>X</button>\n          </div>\n          <div className={style.adsContent} style={adsStyle}>\n            <a href=\"http://www.sportgd.cn\" target=\"_blank\"><img src=\"www/imgs/tibo/4.gif\" style={adsImage} /></a>\n            <button className={style.closeButton} style={adsButton}>X</button>\n          </div>\n          <div className={style.loading} style={loading}>\n            <div>G</div>\n            <div>N</div>\n            <div>I</div>\n            <div>D</div>\n            <div>A</div>\n            <div>O</div>\n            <div>L</div>\n          </div>\n          <div className={style.overtime}>\n            <button type=\"button\" className={style.overtime} style={overtime}>加载失败，请刷新<span>重试</span></button>\n          </div>\n          <div className={style.waiting}>\n            <div className={`${style.player}` + ` ${style.circle}`} style={ { width: `${width}` * 3 / 16, height: `${height}` * 3 / 4 } }>\n              <div className={`${style.buffering}` + ` ${style.circle}` + ` ${style.animated}`} style={ { width: `${width}` * 3 / 16, height: `${width}` * 3 / 16 } }></div>\n              <div className={style.triangle}></div>\n            </div>\n            <div className={style.text}>\n              <div className={`${style.pulsing}` + ` ${style.animated}`}>网络睡着了，快去叫醒她</div>\n            </div>\n          </div>\n          <div className={style.error}>\n            <div className={`${style.player}` + ` ${style.circle}`} style={ { width: `${width}` * 3 / 16, height: `${height}` * 3 / 4 } }>\n              <div className={`${style.buffering}` + ` ${style.circle}` + ` ${style.animated}`} style={ { width: `${width}` * 3 / 16, height: `${width}` * 3 / 16 } }></div>\n              <div className={style.triangle}></div>\n            </div>\n            <div className={style.text}>\n              <div className={`${style.pulsing}` + ` ${style.animated}`}>视频失踪啦，我们正在努力寻找</div>\n            </div>\n          </div>\n          <video\n            id=\"video\"\n            className=\"video-js vjs-default-skin vjs-big-play-centered\">\n            <source src=\"http://vvod.gstarcloud.com/vod/0909.mp4\" type=\"video/mp4\" />\n            <p className=\"vjs-no-js\">请使用支持HTML5的浏览器访问</p>\n          </video>\n        </section>\n        <section className={`${style.slider}` + ' sliderBox'}>\n          <button className={`${style.arrow}` + ` ${style.previous}` + ' left'}>Previous</button>\n          <div className=\"sliderWrap\">\n            <ul className=\"sliderContent\">\n              <li onClick={handleClick1}><div><img src={defaultPoster} width={`${width / 8}`} height={`${height / 8}`} /></div><div>09月09日</div></li>\n              <li onClick={handleClick2}><div><img src={defaultPoster} width={`${width / 8}`} height={`${height / 8}`} /></div><div>09月10日</div></li>\n              <li onClick={handleClick3}><div><img src={defaultPoster} width={`${width / 8}`} height={`${height / 8}`} /></div><div>09月11日</div></li>\n            </ul>\n          </div>\n          <button className={`${style.arrow}` + ` ${style.next}` + ' right'}>Next</button>\n        </section>\n      </div>\n    )\n  }\n}\n\nexport default Tibohui\n",
-					"file": "/D/griver-mobile/client/videos/components/tibohui/index.js",
-					"file_size": 13532,
-					"file_write_time": 131177961171693108,
-					"settings":
-					{
-						"buffer_size": 12757,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/griver-mobile/client/videos/components/universal/index.js",
-					"settings":
-					{
-						"buffer_size": 14096,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/griver-mobile/client/www/scripts/js/myslider.css",
-					"settings":
-					{
-						"buffer_size": 579,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/griver-mobile/client/www/scripts/js/myslider.js",
-					"settings":
-					{
-						"buffer_size": 1224,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"contents": "// function foo() {\n//   console.log('foo');\n// }\n\n// var func = foo;\n// foo = null;\n// console.log(func(3));\n// \n\nvar foo = function() {\n  console.log('foo');\n};\n\nvar func = foo;\nconsole.log(func == foo);\nconsole.log(func === foo);\n\n\nhttp://vmng.gstarcloud.com/griver/vxrecord/?name=QGwNkR5NdgjnKeWM7Qov_rS1iiAsClP1Bzs9UcWHQrI",
-					"file": "/D/_Projects/test/140.js",
-					"file_size": 247,
-					"file_write_time": 131177692524108371,
-					"settings":
-					{
-						"buffer_size": 327,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/_Projects/test/141.js",
-					"settings":
-					{
-						"buffer_size": 0,
-						"line_ending": "Windows"
-					}
-				}
-			],
-			"build_system": "",
 			"build_system_choices":
 			[
 				[
@@ -1710,9 +581,13 @@
 			"command_palette":
 			{
 				"height": 392.0,
-				"last_filter": "",
+				"last_filter": "pis",
 				"selected_items":
 				[
+					[
+						"pis",
+						"Package Control: Install Package"
+					],
 					[
 						"aut",
 						"Autoprefix CSS"
@@ -1724,10 +599,6 @@
 					[
 						"html",
 						"HTMLBeautify"
-					],
-					[
-						"pis",
-						"Package Control: Install Package"
 					],
 					[
 						"auto",
@@ -1774,7 +645,7 @@
 						"Toggle Comment"
 					]
 				],
-				"width": 464.0
+				"width": 528.0
 			},
 			"console":
 			{
@@ -1792,56 +663,98 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/D/griver-mobile",
-				"/D/griver-mobile/client",
-				"/D/griver-mobile/client/containers",
-				"/D/griver-mobile/client/containers/App",
-				"/D/griver-mobile/client/videos",
-				"/D/griver-mobile/client/videos/components",
-				"/D/griver-mobile/client/videos/components/test",
-				"/D/griver-mobile/client/videos/components/tibohui",
-				"/D/griver-mobile/client/videos/components/universal",
-				"/D/griver-mobile/client/www",
-				"/D/OneDrive/_Notes"
-			],
 			"file_history":
 			[
-				"/D/_Projects/test/141.html",
-				"/D/griver-mobile/client/containers/App/index.js",
-				"/D/griver-mobile/client/www/scripts/js/myslider.css",
+				"/D/griver-mobile/client/videos/components/play/index.js",
+				"/D/griver-mobile/client/videos/components/bestmatch/style.scss",
+				"/D/griver-mobile/client/videos/components/bestmatch/index.js",
+				"/D/_Projects/react-native-duoshuo/example/html.js",
+				"/D/_Projects/react-native-duoshuo/libs/duoshuo.js",
+				"/D/_Projects/react-native-duoshuo/README.md",
+				"/D/griver-mobile/client/videos/components/index.js",
+				"/D/griver-mobile/client/videos/components/gsc/index.js",
+				"/D/griver-mobile/client/www/scripts/tag/tag.css",
+				"/D/griver-mobile/client/www/scripts/tag/tag.js",
+				"/D/OneDrive/hbn/test.html",
+				"/D/griver-mobile/webpack.config.js",
+				"/C/Users/stephen/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/C/Users/stephen/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/D/OneDrive/hbn/js/main.js",
+				"/D/OneDrive/hbn/css/main.css",
+				"/D/griver-mobile/client/index.js",
+				"/D/_Projects/isso/isso/js/app/isso.js",
+				"/D/isso/db/comments.py",
+				"/D/isso/js/embed.js",
+				"/D/isso/js/app/text/postbox.jade",
+				"/D/isso/js/app/text/comment.jade",
+				"/D/isso/js/app/isso.js",
+				"/D/griver-mobile/client/videos/components/test/index.js",
+				"/D/griver-mobile/client/videos/components/wedding/index.js",
+				"/D/griver-mobile/m/hbn/test.html",
+				"/D/griver-mobile/client/videos/components/vnormal/index.js",
 				"/D/griver-mobile/client/videos/components/test/style.scss",
 				"/D/griver-mobile/client/videos/components/universal/index.js",
-				"/D/griver-mobile/client/videos/components/vnormal/index.js",
-				"/D/griver-mobile/client/videos/components/wedding/index.js",
-				"/D/griver-mobile/client/videos/components/vnormal/style.scss",
-				"/D/griver-mobile/client/www/scripts/js/myslider.js",
+				"/D/hbn/test.html",
+				"/D/test.html",
+				"/D/griver-mobile/test.html",
+				"/D/griver-mobile/client/videos/components/vhigh/index.js",
+				"/D/griver-mobile/client/videos/components/rosemega/index.js",
 				"/D/griver-mobile/client/videos/components/live/index.js",
 				"/D/griver-mobile/client/videos/components/hbn/index.js",
-				"/D/griver-mobile/client/videos/components/rosemega/index.js",
+				"/D/griver-mobile/client/videos/components/authentication/index.js",
 				"/D/griver-mobile/client/index.html",
+				"/D/OneDrive/_Notes/前端学习笔记.txt",
+				"/D/OneDrive/_Notes/front-end.txt",
+				"/D/embed-hidden.min.js",
+				"/D/OneDrive/_Notes/GStarCloud.txt",
+				"/D/_Projects/test/139.html",
+				"/D/_Projects/ctps_376_ol/index.html",
+				"/D/_Projects/avian-wp-v1.2/readme.txt",
+				"/D/griver-mobile/client/www/scripts/isso/embed-hidden.min.js",
+				"/D/embed.min.js",
+				"/D/griver-mobile/client/www/scripts/isso/embed.min.js",
+				"/D/OneDrive/_Notes/notes1.txt",
+				"/D/直播播放鉴权API说明1.0.txt",
+				"/D/griver-mobile/client/videos/components/authentication/style.scss",
+				"/D/griver-mobile/client/videos/components/vnormal/style.scss",
+				"/D/griver-mobile/client/videos/components/wedding/style.scss",
+				"/D/griver-mobile/client/videos/components/universal/style.scss",
+				"/D/griver-mobile/client/videos/components/tibohui/style.scss",
+				"/D/griver-mobile/client/videos/components/rosemega/style.scss",
+				"/D/griver-mobile/client/videos/components/live/style.scss",
+				"/D/griver-mobile/client/videos/components/hbn/style.scss",
+				"/D/_Projects/test/137.html",
+				"/D/OneDrive/_Notes/英语笔记.txt",
+				"/D/_Projects/test/140.js",
+				"/D/_Projects/test/140.html",
+				"/D/_Projects/test/141.js",
+				"/D/直播播放鉴权API说明.txt",
+				"/D/_Projects/test/libs/iscroll.js",
+				"/D/_Projects/test/141.css",
+				"/D/_Projects/test/141.html",
+				"/D/_Projects/iscroll-refresh/demo/index.html",
+				"/C/Users/stephen/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/D/_Projects/test/140.css",
+				"/D/griver-mobile/client/www/scripts/js/videojs-preroll.js",
+				"/D/_Projects/ads-test/example-integration.js",
+				"/D/griver-mobile/client/videos/components/tibohui/index.js",
+				"/D/_Projects/test/libs/video.js",
+				"/D/griver-mobile/node_modules/videojs-font/fonts/VideoJS.svg",
+				"/D/griver-mobile/client/www/scripts/js/video.js",
+				"/D/OneDrive/How-To-Center-Anything-With-CSS.md",
+				"/D/OneDrive/Center-Anything-With-CSS.md",
+				"/D/griver-mobile/client/www/scripts/js/myslider.css",
+				"/D/griver-mobile/client/www/scripts/js/myslider.js",
+				"/D/_Projects/videojs-preroll/README.md",
+				"/D/_Projects/ads-test/index.html",
+				"/D/griver-mobile/client/containers/App/index.js",
 				"/D/griver-mobile/client/www/scripts/js/jquery.share.js",
 				"/D/griver-mobile/client/www/scripts/js/jquery.share.min.js",
-				"/D/_Projects/test/141.js",
-				"/D/OneDrive/_Notes/前端学习笔记.txt",
-				"/D/_Projects/test/141.css",
-				"/D/griver-mobile/client/videos/components/vhigh/index.js",
 				"/D/griver-mobile/client/containers/App/style.scss",
-				"/D/OneDrive/_Notes/notes1.txt",
 				"/D/griver-mobile/client/videos/components/vod/index.js",
-				"/D/griver-mobile/client/videos/components/rosemega/style.scss",
-				"/D/griver-mobile/client/videos/components/universal/style.scss",
 				"/D/_Projects/isso/isso/js/app/api.js",
-				"/D/griver-mobile/client/videos/components/test/index.js",
-				"/D/griver-mobile/client/videos/components/index.js",
-				"/D/griver-mobile/client/videos/components/tibohui/style.scss",
 				"/D/griver-mobile/client/videos/components/vod/style.scss",
-				"/D/griver-mobile/client/index.js",
-				"/D/griver-mobile/client/videos/components/tibohui/index.js",
-				"/D/embed.min.js",
 				"/D/_Projects/isso/isso/js/app/dom.js",
-				"/D/_Projects/isso/isso/js/app/isso.js",
 				"/D/griver-mobile/client/www/isso/js/app/isso.js",
 				"/D/_Projects/isso/isso/js/app/globals.js",
 				"/D/_Projects/isso/isso/js/app/count.js",
@@ -1850,15 +763,9 @@
 				"/D/griver-mobile/client/www/scripts/js/videojs.ads.js",
 				"/D/griver-mobile/client/www/isso/js/app/api.js",
 				"/D/griver-mobile/client/www/isso/css/isso.css",
-				"/D/griver-mobile/client/videos/components/play/index.js",
 				"/D/griver-mobile/client/videos/components/navr/index.js",
-				"/D/griver-mobile/client/videos/components/hbn/style.scss",
 				"/D/griver-mobile/client/www/scripts/js/video-js.css",
-				"/D/_Projects/test/140.css",
-				"/D/_Projects/test/140.js",
 				"/C/xampp/htdocs/test-hls/140.html",
-				"/D/_Projects/test/139.html",
-				"/D/_Projects/test/140.html",
 				"/D/griver-mobile/static/www/isso/js/embed.min.js",
 				"/D/Iconsmind-Outline-Smile.ico",
 				"/D/emoticon-34-512.gif",
@@ -1876,9 +783,7 @@
 				"/C/xampp/htdocs/test-hls/111.html",
 				"/D/griver-mobile/client/videos/components/nav/index.js",
 				"/D/griver-mobile/client/videos/components/tibohui",
-				"/D/OneDrive/_Notes/英语笔记.txt",
 				"/C/Users/stephen/Desktop/hosts",
-				"/D/griver-mobile/client/www/scripts/js/video.js",
 				"/D/test/index.html",
 				"/D/griver-mobile/node_modules/owl.carousel/dist/owl.carousel.js",
 				"/D/griver-mobile/client/www/scripts/slick/responsive.js",
@@ -1887,55 +792,7 @@
 				"/D/griver-mobile/client/www/scripts/slick/slick-theme.css",
 				"/D/griver-mobile/node_modules/style-loader/addStyles.js",
 				"/D/_Projects/test/libs/video-js.css",
-				"/D/OneDrive/_Notes/GStarCloud.txt",
-				"/D/griver-mobile/client/www/isso/js/app/globals.js",
-				"/D/griver-mobile/m/www/isso/js/app/globals.js",
-				"/D/griver-mobile/m/www/isso/js/app/isso.js",
-				"/D/griver-mobile/m/www/isso/js/app/dom.js",
-				"/D/griver-mobile/m/www/isso/js/app/count.js",
-				"/D/griver-mobile/client/www/isso/js/app/count.js",
-				"/D/mylib/2-embed.min.js",
-				"/D/_绿星云/账户.txt",
-				"/D/griver-mobile/client/www/isso/js/app/text/postbox.jade",
-				"/D/griver-mobile/client/www/isso/js/embed.js",
-				"/D/_Projects/isso/isso/js/embed.min.js",
-				"/D/griver-mobile/client/www/isso/js/deleteEmailWebsite.js",
-				"/D/_Projects/isso/isso/js/app/text/comment.jade",
-				"/D/_Projects/isso/isso/js/app/text/comment-loader.jade",
-				"/D/_Projects/isso/isso/js/app/i18n.js",
-				"/D/_Projects/isso/isso/js/lib/requirejs-jade/jade.js",
-				"/D/_Projects/isso/isso/js/app/lib/editor.js",
-				"/D/_Projects/isso/isso/js/app/lib/identicons.js",
-				"/D/_Projects/isso/isso/js/app/lib/promise.js",
-				"/D/_Projects/isso/isso/js/app/lib/ready.js",
-				"/D/_Projects/isso/isso/js/build.embed.js",
-				"/D/_Projects/isso/isso/js/build.count.js",
-				"/D/_Projects/isso/isso/js/app/text/svg.js",
-				"/D/griver-mobile/webpack.config.js",
-				"/D/griver-mobile/package.json",
-				"/D/griver-mobile/client/videos/components/live",
-				"/D/griver-mobile/client/containers/App/_config.scss",
-				"/D/griver-mobile/client/www/isso/js/app/i18n/zh_CN.js",
-				"/D/griver-mobile/client/www/isso/js/app/config.js",
-				"/D/griver-mobile/client/www/isso/js/config.js",
-				"/D/griver-mobile/client/www/isso/js/build.count.js",
-				"/D/griver-mobile/client/www/isso/js/build.embed.js",
-				"/D/griver-mobile/client/www/isso/js/count.js",
-				"/D/_Projects/isso/isso/css/isso.css",
-				"/D/griver-mobile/client/videos/components/boxing/index.js",
-				"/C/xampp/htdocs/danmaku-demo/comment.xml",
-				"/D/griver-mobile/client/www/scripts/js/videojs_ABdm.css",
-				"/D/_Projects/videojsABdm/videojs_ABdm.js",
-				"/C/Users/stephen/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
-				"/D/_Projects/videojsABdm/demo/index.html",
-				"/C/xampp/htdocs/danmaku-demo/videojs_ABdm.js",
-				"/C/xampp/htdocs/danmaku-demo/index.html",
-				"/C/xampp/htdocs/test-hls/index.html",
-				"/D/griver-mobile/m/index.html",
-				"/D/griver-mobile/node_modules/react-videojs/src/index.js",
-				"/D/griver-mobile/node_modules/react-videojs/dist/index.js",
-				"/C/xampp/htdocs/danmaku-demo/jixian.html",
-				"/D/_Projects/videojsABdm/demo/comment.xml"
+				"/D/griver-mobile/client/www/isso/js/app/globals.js"
 			],
 			"find":
 			{
@@ -1956,134 +813,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"errorevent",
-					"35",
-					"40",
-					"46",
-					"25",
-					"left",
-					"section",
-					"vjs",
-					"this_video",
-					"absolute",
-					"record",
-					"dataRecord",
-					"data",
-					"_record",
-					"that",
-					"data",
-					"renderJSONData",
-					"videoTime",
-					"SYMCinISICGR5bpg9nXO_lx33PtKwmfkHivPDC2QjYo",
-					"vjs1",
-					"console.log(e.target.src)",
-					"this_video",
-					"vjs1",
-					"this_video",
+					"stream_status",
+					"generateIdenticon",
+					"generate",
+					"'",
+					"deleteHtml",
+					"deleteBody",
+					"\"",
+					"'",
+					"author",
+					"email",
+					"local",
+					"comments",
 					"`",
-					"videolist",
-					"description",
-					"'",
-					"3",
-					"vjs",
-					"note",
-					"videolist",
-					"playlist",
-					"\"",
-					"var",
-					";",
-					"jQuery",
-					"slide",
-					"videolist",
-					"\"",
-					"item",
-					"fa",
-					"fa-chevron-left",
-					"'",
-					"type",
-					"class",
-					"left",
-					"li",
-					"ul",
-					"main",
-					"};\n",
-					"main",
-					"\"",
-					"playlist",
-					"play",
-					"img",
-					"slide-item",
-					"img",
-					"'",
-					"centered",
-					"li",
-					"QGwNkR5NdgjnKeWM7Qov_rS1iiAsClP1Bzs9UcWHQrI",
-					"defaultPosterSrc",
-					"stream_status",
-					"status",
-					"block",
-					"span",
-					"GwNkR5NdgjnKeWM7Qov_rS1iiAsClP1Bzs9UcWHQrI",
-					"QGwNkR5NdgjnKeWM7Qov_rS1iiAsClP1Bzs9UcWHQrI",
-					"vod",
-					"Vod",
-					"loading",
-					"addEventListener",
-					"stalledEvent",
-					"Q",
-					"1",
-					"GwNkR5NdgjnKeWM7Qov_rS1iiAsClP1Bzs9UcWHQrI",
-					"QGwNkR5NdgjnKeWM7Qov_rS1iiAsClP1Bzs9UcWHQrI",
-					"GwNkR5NdgjnKeWM7Qov_rS1iiAsClP1Bzs9UcWHQrI",
-					"loading",
-					"note",
-					"height",
-					"const",
-					"GwNkR5NdgjnKeWM7Qov_rS1iiAsClP1Bzs9UcWHQrI",
-					"k7GVQW5_MH8V38Ft4coYprS1iiAsClP1Bzs9UcWHQrI",
-					"data",
-					"status",
-					"stream_status",
-					"args",
-					"scrollIntoView",
-					"isso-root",
-					"insert",
-					"isso-root",
-					"insert",
-					"age",
-					"Person",
-					"isso-root",
-					"insert",
-					"submit",
-					"isso-root",
-					"el",
-					"isso-root",
-					"insert_loader",
-					"isso-root",
-					"append",
-					"10",
-					"rem",
-					"closeButton",
-					"Vod",
-					"rosemega",
+					"Wedding",
 					"Rosemega",
-					"jpg",
-					"Person",
-					"clutter",
-					"50",
-					"inherit",
-					"45",
-					"player",
-					"F2F0F0",
-					"D3D1D1",
-					"background",
+					"act",
+					"var",
+					"write",
+					"indent_size",
+					"class=",
+					"Vnormal",
+					"Str",
+					"str",
+					"Str",
+					"str",
+					"post",
+					"play.png",
+					"play",
+					"home",
+					"jsApiList",
+					"signature",
+					"timestamp",
+					"appId",
+					"nonceStr",
+					"post",
+					"post(",
+					"Post",
+					"Str",
+					"str",
+					"没有更多",
+					"lastId",
+					"wx",
+					"Wx",
+					"wx",
+					"tmpLi",
+					"http://live.zmtmt.com/lss-gfxjhavitcr01jjp/16070302.m3u8",
+					"map",
+					"map2",
+					"map3",
+					"r3",
+					"btnHZ",
+					"DAB96B",
+					"dab96b",
+					"1F222D",
+					"微软雅黑",
+					"333",
+					"comments",
+					"comment",
+					"`",
+					"{id}",
+					"console",
+					"wrapper",
+					"display",
+					"author",
+					"var z",
+					"var y",
+					"var x",
+					"var w",
+					"var v",
+					"var u",
+					"var s",
+					"var r",
+					"var o",
+					"var l",
+					"var k",
+					"var g",
+					"var f",
+					"var c",
+					"var a",
+					"var p",
+					"var m",
+					"var t",
+					"var s",
+					"h",
+					"headimgurl",
+					"var v",
+					"var h",
+					"h",
+					"vmng",
+					"var q",
+					"v",
+					"vmng",
+					"footer",
+					"h",
+					"vmng",
+					"h",
+					"vmng",
+					"h",
+					"H",
+					"h",
+					"H",
+					"h",
+					"H",
+					"h",
+					"H",
+					"h",
+					"entrypoint",
+					"h",
+					"vmng",
+					"http://vmng.gstarcloud.com/m/api/userinfo?app=jz",
+					"display: none",
+					"display",
+					"author",
+					"true",
+					"author",
+					"header",
+					"generate",
+					"avatar",
+					"config",
+					"div.avatar > svg",
+					"replace",
+					"avatar",
+					"data",
+					"true",
+					"config",
 					"\"",
-					"class",
-					"background",
-					"stalledEvent",
-					"child",
-					"techor",
-					"html5"
+					"未知",
+					"Vnormal"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2099,1088 +956,6 @@
 				"whole_word": false,
 				"wrap": true
 			},
-			"folders":
-			[
-				{
-					"path": "D:\\griver-mobile"
-				},
-				{
-					"path": "D:\\_Projects\\test"
-				},
-				{
-					"path": "D:\\OneDrive\\_Notes"
-				}
-			],
-			"groups":
-			[
-				{
-					"selected": 2,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/D/griver-mobile/client/videos/components/test/index.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 14358,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										792,
-										792
-									]
-								],
-								"settings":
-								{
-									"auto_complete": false,
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												797,
-												798
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/curly_bracket.png",
-												"brackethighlighter.default"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												740,
-												741
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended Bright (SL).tmTheme",
-									"is_init_dirty_state": false,
-									"origin_encoding": "UTF-8",
-									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 494.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/D/griver-mobile/client/videos/components/tibohui/style.scss",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 11137,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										10693,
-										10693
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended Bright (SL).tmTheme",
-									"is_init_dirty_state": false,
-									"origin_encoding": "UTF-8",
-									"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": -0.0,
-								"translation.y": 10185.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 7,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/D/griver-mobile/client/videos/components/universal/style.scss",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 13138,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1856,
-										1856
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												1861,
-												1862
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/curly_bracket.png",
-												"brackethighlighter.default"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												1771,
-												1772
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended Bright (SL).tmTheme",
-									"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 1635.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						}
-					]
-				},
-				{
-					"selected": 0,
-					"sheets":
-					[
-						{
-							"buffer": 3,
-							"file": "/D/griver-mobile/client/videos/components/tibohui/index.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 12757,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										4777,
-										4777
-									]
-								],
-								"settings":
-								{
-									"auto_complete": false,
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												4854,
-												4855
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/curly_bracket.png",
-												"brackethighlighter.default"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												4744,
-												4745
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended Bright (SL).tmTheme",
-									"is_init_dirty_state": false,
-									"origin_encoding": "UTF-8",
-									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 3838.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/D/griver-mobile/client/videos/components/universal/index.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 14096,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										4342,
-										4342
-									]
-								],
-								"settings":
-								{
-									"auto_complete": false,
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												4341,
-												4342
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/curly_bracket.png",
-												"brackethighlighter.default"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												4340,
-												4341
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended Bright (SL).tmTheme",
-									"is_init_dirty_state": false,
-									"origin_encoding": "UTF-8",
-									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 2823.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/D/griver-mobile/client/www/scripts/js/myslider.css",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 579,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										576,
-										576
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												577,
-												578
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/curly_bracket.png",
-												"brackethighlighter.default"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												540,
-												541
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended Bright (SL).tmTheme",
-									"syntax": "Packages/CSS3/CSS3.sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"file": "/D/griver-mobile/client/www/scripts/js/myslider.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1224,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										640,
-										640
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												895,
-												896
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/curly_bracket.png",
-												"brackethighlighter.default"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												628,
-												629
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended Bright (SL).tmTheme",
-									"is_init_dirty_state": false,
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
-							"type": "text"
-						},
-						{
-							"buffer": 7,
-							"file": "/D/_Projects/test/140.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 327,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										327,
-										235
-									]
-								],
-								"settings":
-								{
-									"auto_complete": false,
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended Bright (SL).tmTheme",
-									"is_init_dirty_state": true,
-									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 6,
-							"type": "text"
-						},
-						{
-							"buffer": 8,
-							"file": "/D/_Projects/test/141.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 0,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"_anf_new": "",
-									"auto_complete": false,
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended Bright (SL).tmTheme",
-									"history_list_is_closing": true,
-									"is_init_dirty_state": false,
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 8,
-							"type": "text"
-						}
-					]
-				}
-			],
 			"incremental_find":
 			{
 				"height": 30.0
@@ -3188,35 +963,6 @@
 			"input":
 			{
 				"height": 38.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					],
-					[
-						1,
-						0,
-						2,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					0.5,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
 			},
 			"menu_visible": true,
 			"output.exec":
@@ -3228,8 +974,6 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,546,-20,91,1904",
-			"project": "",
 			"replace":
 			{
 				"height": 56.0
@@ -3242,7 +986,75 @@
 				"selected_items":
 				[
 					[
+						"前端",
+						"_Notes\\前端学习笔记.txt"
+					],
+					[
+						"139",
+						"test\\139.html"
+					],
+					[
+						"isso",
+						"isso\\js\\app\\isso.js"
+					],
+					[
+						"front",
+						"_Notes\\front-end.txt"
+					],
+					[
+						"gsta",
+						"_Notes\\GStarCloud.txt"
+					],
+					[
+						"note",
+						"_Notes\\notes1.txt"
+					],
+					[
+						"gstar",
+						"_Notes\\GStarCloud.txt"
+					],
+					[
+						"137",
+						"test\\137.html"
+					],
+					[
+						"英语",
+						"_Notes\\英语笔记.txt"
+					],
+					[
+						"140",
+						"test\\140.js"
+					],
+					[
 						"141",
+						"test\\141.js"
+					],
+					[
+						"iscroll",
+						"test\\libs\\iscroll.js"
+					],
+					[
+						"141.js",
+						"test\\141.js"
+					],
+					[
+						"video",
+						"test\\libs\\video.js"
+					],
+					[
+						"videojs",
+						"griver-mobile\\node_modules\\videojs-font\\fonts\\VideoJS.svg"
+					],
+					[
+						"vdie",
+						"test\\libs\\video.js"
+					],
+					[
+						"140.cs",
+						"test\\140.css"
+					],
+					[
+						"141.h",
 						"test\\141.html"
 					],
 					[
@@ -3250,36 +1062,12 @@
 						"griver-mobile\\client\\www\\scripts\\js\\myslider.css"
 					],
 					[
-						"前端",
-						"_Notes\\前端学习笔记.txt"
-					],
-					[
-						"140",
-						"test\\140.js"
-					],
-					[
-						"141.js",
-						"test\\141.js"
-					],
-					[
 						"141.c",
 						"test\\141.css"
 					],
 					[
-						"note",
-						"_Notes\\notes1.txt"
-					],
-					[
 						"embe",
 						"D:\\_Learning\\embed.min.js"
-					],
-					[
-						"英语",
-						"_Notes\\英语笔记.txt"
-					],
-					[
-						"video",
-						"test\\libs\\video-js.css"
 					],
 					[
 						"embed",
@@ -3288,10 +1076,6 @@
 					[
 						"isso.css",
 						"griver-mobile\\client\\www\\isso\\css\\isso.css"
-					],
-					[
-						"139",
-						"test\\139.html"
 					],
 					[
 						"140.html",
@@ -3326,7 +1110,2470 @@
 				],
 				"width": 0.0
 			},
-			"selected_group": 1,
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 283.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1908.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"head",
+						"headimg〔variable〕"
+					],
+					[
+						"get",
+						"getElementsByTagName〔function〕"
+					],
+					[
+						"loca",
+						"localStorage"
+					],
+					[
+						"c",
+						"scripts/"
+					],
+					[
+						"isso",
+						"isso-thread"
+					],
+					[
+						"query",
+						"querySelectorAll"
+					],
+					[
+						"input",
+						"inputDisplay"
+					],
+					[
+						"noR",
+						"noResourceEvent"
+					],
+					[
+						"nots",
+						"notSupportedEvent〔variable〕"
+					],
+					[
+						"notS",
+						"notSupported"
+					],
+					[
+						"first",
+						"firstChild"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"rende",
+						"renderJSONData〔function〕"
+					],
+					[
+						"Reac",
+						"ReactIScroll"
+					],
+					[
+						"lb",
+						"libs/"
+					],
+					[
+						"141",
+						"141.js"
+					],
+					[
+						"color",
+						"colorRed"
+					],
+					[
+						"unde",
+						"undefined〔keyword〕"
+					],
+					[
+						"pre",
+						"videojs-preroll.min.js"
+					],
+					[
+						"css",
+						"videojs.ads.css"
+					],
+					[
+						"set",
+						"setTimeout〔function〕"
+					],
+					[
+						"wor",
+						"word-spacing"
+					],
+					[
+						"this",
+						"this_video〔variable〕"
+					],
+					[
+						"border",
+						"border-color"
+					],
+					[
+						"data_",
+						"data_vxsearch〔variable〕"
+					],
+					[
+						"repla",
+						"replaySrc〔variable〕"
+					],
+					[
+						"play_",
+						"play_hls_url〔variable〕"
+					],
+					[
+						"adsc",
+						"adsContent4"
+					],
+					[
+						"adsC",
+						"adsContent3"
+					],
+					[
+						"stalled",
+						"stalledEvent〔variable〕"
+					],
+					[
+						"replay_",
+						"replay_text〔variable〕"
+					],
+					[
+						"vid",
+						"videoType〔variable〕"
+					],
+					[
+						"sour",
+						"sourcelist〔variable〕"
+					],
+					[
+						"des",
+						"description〔variable〕"
+					],
+					[
+						"str",
+						"stream_status〔variable〕"
+					],
+					[
+						"getE",
+						"getDate〔function〕"
+					],
+					[
+						"slidd",
+						"sliderDiv"
+					],
+					[
+						"jq",
+						"jquery-3.1.0.min.js"
+					],
+					[
+						"js",
+						"slick.min.js"
+					],
+					[
+						"jqu",
+						"jquery-3.1.0.min.js"
+					],
+					[
+						"_sl",
+						"_slidePrev"
+					],
+					[
+						"desc",
+						"description"
+					],
+					[
+						"re",
+						"renderPlaylist"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"rando",
+						"randomNum"
+					],
+					[
+						"email",
+						"emailTag"
+					],
+					[
+						"ema",
+						"emailTag"
+					],
+					[
+						"live",
+						"live_name"
+					],
+					[
+						"font",
+						"font-family"
+					],
+					[
+						"min",
+						"video.min.js"
+					],
+					[
+						"contr",
+						"videojs-contrib-hls.min.js"
+					],
+					[
+						"www",
+						"www/"
+					],
+					[
+						"v",
+						"video.min.js"
+					],
+					[
+						"vp",
+						"vplayer"
+					],
+					[
+						"vide",
+						"videoButtonStatus"
+					],
+					[
+						"render",
+						"renderPlaylists〔function〕"
+					],
+					[
+						"sli",
+						"slick.min.js"
+					],
+					[
+						"slic",
+						"slick-theme.css"
+					],
+					[
+						"slci",
+						"slick.css"
+					],
+					[
+						"per",
+						"perfect-scrollbar.css"
+					],
+					[
+						"pl",
+						"videojs-playlist.js"
+					],
+					[
+						"ab",
+						"videojs_ABdm.js"
+					],
+					[
+						"vjs",
+						"vjs-big-play-centered"
+					],
+					[
+						"time",
+						"timeoutID"
+					],
+					[
+						"timeou",
+						"timeoutID〔variable〕"
+					],
+					[
+						"overtime",
+						"overtimeButton〔variable〕"
+					],
+					[
+						"comment",
+						"commentScript〔variable〕"
+					],
+					[
+						"over",
+						"overtimeButton〔variable〕"
+					],
+					[
+						"down",
+						"download_form"
+					],
+					[
+						"do",
+						"download"
+					],
+					[
+						"downloa",
+						"download_btn"
+					],
+					[
+						"replay",
+						"replayText"
+					],
+					[
+						"rep",
+						"replay_btn〔variable〕"
+					],
+					[
+						"repa",
+						"replay_btn"
+					],
+					[
+						"ads",
+						"adsImage〔variable〕"
+					],
+					[
+						"que",
+						"querySelector"
+					],
+					[
+						"current",
+						"currentTime"
+					],
+					[
+						"hls",
+						"videojs5-hlsjs-source-handler.js"
+					],
+					[
+						"text-de",
+						"text-decoration-line"
+					],
+					[
+						"padding",
+						"padding-right"
+					],
+					[
+						"ob",
+						"object-fit"
+					],
+					[
+						"class",
+						"className〔variable〕"
+					],
+					[
+						"直播",
+						"直播技术支持："
+					],
+					[
+						"inlin",
+						"inline-block"
+					],
+					[
+						"su",
+						"videojs.suggestedVideoEndcap.js"
+					],
+					[
+						"ad",
+						"videojs.ads.js"
+					],
+					[
+						"a",
+						"amazeui.min.css"
+					],
+					[
+						"136",
+						"136.css"
+					],
+					[
+						"style",
+						"stylesheet"
+					],
+					[
+						"lib",
+						"libs/"
+					],
+					[
+						"s",
+						"videojs-resolution-switcher.css"
+					],
+					[
+						"135",
+						"135.css"
+					],
+					[
+						"img",
+						"img/"
+					],
+					[
+						"132",
+						"132.js"
+					],
+					[
+						"131",
+						"131.js"
+					],
+					[
+						"unlink",
+						"fs.unlink(path, callback);"
+					],
+					[
+						"readFile",
+						"fs.readFile(path, options, callback_);"
+					],
+					[
+						"requ",
+						"require〔function〕"
+					],
+					[
+						"index",
+						"index.js"
+					],
+					[
+						"Nav",
+						"Navreq"
+					],
+					[
+						"obj",
+						"objSub〔variable〕"
+					],
+					[
+						"show",
+						"showName"
+					],
+					[
+						"123",
+						"123.js"
+					],
+					[
+						"_",
+						"_theme.scss"
+					],
+					[
+						"eve",
+						"eventEmitter〔variable〕"
+					],
+					[
+						"cla",
+						"classString〔variable〕"
+					],
+					[
+						"handleP",
+						"handlePasswordFocus"
+					],
+					[
+						"child",
+						"children"
+					],
+					[
+						"submit",
+						"submitting"
+					],
+					[
+						"res",
+						"resetForm〔variable〕"
+					],
+					[
+						"Pro",
+						"PropTypes"
+					],
+					[
+						"us",
+						"username"
+					],
+					[
+						"ph",
+						"phoneNumber"
+					],
+					[
+						"handle",
+						"handleSubmit〔variable〕"
+					],
+					[
+						"App",
+						"App.jsx"
+					],
+					[
+						"co",
+						"components/"
+					],
+					[
+						"imp",
+						"import〔keyword〕"
+					],
+					[
+						"corn",
+						"cornsilk"
+					],
+					[
+						"te",
+						"test1.js"
+					],
+					[
+						"test",
+						"test2.jsx"
+					],
+					[
+						"getD",
+						"getDay〔function〕"
+					],
+					[
+						"create",
+						"createTextNode"
+					],
+					[
+						"fa",
+						"factorial2"
+					],
+					[
+						"92",
+						"92-1000.css"
+					],
+					[
+						"fs",
+						"font-style"
+					],
+					[
+						"fos",
+						"font-style"
+					],
+					[
+						"ff",
+						"font-family"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/_Projects/test/139.html",
+					"settings":
+					{
+						"buffer_size": 324,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/griver-mobile/client/videos/components/bestmatch/index.js",
+					"settings":
+					{
+						"buffer_size": 19116,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/_Projects/test/135.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/griver-mobile/client/videos/components/bestmatch/style.scss",
+					"settings":
+					{
+						"buffer_size": 13148,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "[\n	{ \"keys\": [\"ctrl+shift+n\"], \"command\": \"new_window\" },\n	{ \"keys\": [\"ctrl+shift+w\"], \"command\": \"close_window\" },\n	{ \"keys\": [\"ctrl+o\"], \"command\": \"prompt_open_file\" },\n	{ \"keys\": [\"ctrl+shift+t\"], \"command\": \"reopen_last_file\" },\n	{ \"keys\": [\"alt+o\"], \"command\": \"switch_file\", \"args\": {\"extensions\": [\"cpp\", \"cxx\", \"cc\", \"c\", \"hpp\", \"hxx\", \"hh\", \"h\", \"ipp\", \"inl\", \"m\", \"mm\"]} },\n	{ \"keys\": [\"ctrl+n\"], \"command\": \"new_file\" },\n	{ \"keys\": [\"ctrl+s\"], \"command\": \"save\" },\n	{ \"keys\": [\"ctrl+shift+s\"], \"command\": \"prompt_save_as\" },\n	{ \"keys\": [\"ctrl+f4\"], \"command\": \"close_file\" },\n	{ \"keys\": [\"ctrl+w\"], \"command\": \"close\" },\n\n	{ \"keys\": [\"ctrl+k\", \"ctrl+b\"], \"command\": \"toggle_side_bar\" },\n	{ \"keys\": [\"f11\"], \"command\": \"toggle_full_screen\" },\n	{ \"keys\": [\"shift+f11\"], \"command\": \"toggle_distraction_free\" },\n\n	{ \"keys\": [\"backspace\"], \"command\": \"left_delete\" },\n	{ \"keys\": [\"shift+backspace\"], \"command\": \"left_delete\" },\n	{ \"keys\": [\"ctrl+shift+backspace\"], \"command\": \"left_delete\" },\n	{ \"keys\": [\"delete\"], \"command\": \"right_delete\" },\n	{ \"keys\": [\"enter\"], \"command\": \"insert\", \"args\": {\"characters\": \"\\n\"} },\n	{ \"keys\": [\"shift+enter\"], \"command\": \"insert\", \"args\": {\"characters\": \"\\n\"} },\n\n	{ \"keys\": [\"ctrl+z\"], \"command\": \"undo\" },\n	{ \"keys\": [\"ctrl+shift+z\"], \"command\": \"redo\" },\n	{ \"keys\": [\"ctrl+y\"], \"command\": \"redo_or_repeat\" },\n	{ \"keys\": [\"ctrl+u\"], \"command\": \"soft_undo\" },\n	{ \"keys\": [\"ctrl+shift+u\"], \"command\": \"soft_redo\" },\n\n	{ \"keys\": [\"shift+delete\"], \"command\": \"cut\" },\n	{ \"keys\": [\"ctrl+insert\"], \"command\": \"copy\" },\n	{ \"keys\": [\"shift+insert\"], \"command\": \"paste\" },\n	{ \"keys\": [\"ctrl+x\"], \"command\": \"cut\" },\n	{ \"keys\": [\"ctrl+c\"], \"command\": \"copy\" },\n	{ \"keys\": [\"ctrl+v\"], \"command\": \"paste\" },\n	{ \"keys\": [\"ctrl+shift+v\"], \"command\": \"paste_and_indent\" },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+v\"], \"command\": \"paste_from_history\" },\n\n	{ \"keys\": [\"left\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": false} },\n	{ \"keys\": [\"right\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true} },\n	{ \"keys\": [\"up\"], \"command\": \"move\", \"args\": {\"by\": \"lines\", \"forward\": false} },\n	{ \"keys\": [\"down\"], \"command\": \"move\", \"args\": {\"by\": \"lines\", \"forward\": true} },\n	{ \"keys\": [\"shift+left\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": false, \"extend\": true} },\n	{ \"keys\": [\"shift+right\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true, \"extend\": true} },\n	{ \"keys\": [\"shift+up\"], \"command\": \"move\", \"args\": {\"by\": \"lines\", \"forward\": false, \"extend\": true} },\n	{ \"keys\": [\"shift+down\"], \"command\": \"move\", \"args\": {\"by\": \"lines\", \"forward\": true, \"extend\": true} },\n\n	{ \"keys\": [\"ctrl+left\"], \"command\": \"move\", \"args\": {\"by\": \"words\", \"forward\": false} },\n	{ \"keys\": [\"ctrl+right\"], \"command\": \"move\", \"args\": {\"by\": \"word_ends\", \"forward\": true} },\n	{ \"keys\": [\"ctrl+shift+left\"], \"command\": \"move\", \"args\": {\"by\": \"words\", \"forward\": false, \"extend\": true} },\n	{ \"keys\": [\"ctrl+shift+right\"], \"command\": \"move\", \"args\": {\"by\": \"word_ends\", \"forward\": true, \"extend\": true} },\n\n	{ \"keys\": [\"alt+left\"], \"command\": \"move\", \"args\": {\"by\": \"subwords\", \"forward\": false} },\n	{ \"keys\": [\"alt+right\"], \"command\": \"move\", \"args\": {\"by\": \"subword_ends\", \"forward\": true} },\n	{ \"keys\": [\"alt+shift+left\"], \"command\": \"move\", \"args\": {\"by\": \"subwords\", \"forward\": false, \"extend\": true} },\n	{ \"keys\": [\"alt+shift+right\"], \"command\": \"move\", \"args\": {\"by\": \"subword_ends\", \"forward\": true, \"extend\": true} },\n\n	{ \"keys\": [\"ctrl+alt+up\"], \"command\": \"select_lines\", \"args\": {\"forward\": false} },\n	{ \"keys\": [\"ctrl+alt+down\"], \"command\": \"select_lines\", \"args\": {\"forward\": true} },\n\n	{ \"keys\": [\"pageup\"], \"command\": \"move\", \"args\": {\"by\": \"pages\", \"forward\": false} },\n	{ \"keys\": [\"pagedown\"], \"command\": \"move\", \"args\": {\"by\": \"pages\", \"forward\": true} },\n	{ \"keys\": [\"shift+pageup\"], \"command\": \"move\", \"args\": {\"by\": \"pages\", \"forward\": false, \"extend\": true} },\n	{ \"keys\": [\"shift+pagedown\"], \"command\": \"move\", \"args\": {\"by\": \"pages\", \"forward\": true, \"extend\": true} },\n\n	{ \"keys\": [\"home\"], \"command\": \"move_to\", \"args\": {\"to\": \"bol\", \"extend\": false} },\n	{ \"keys\": [\"end\"], \"command\": \"move_to\", \"args\": {\"to\": \"eol\", \"extend\": false} },\n	{ \"keys\": [\"shift+home\"], \"command\": \"move_to\", \"args\": {\"to\": \"bol\", \"extend\": true} },\n	{ \"keys\": [\"shift+end\"], \"command\": \"move_to\", \"args\": {\"to\": \"eol\", \"extend\": true} },\n	{ \"keys\": [\"ctrl+home\"], \"command\": \"move_to\", \"args\": {\"to\": \"bof\", \"extend\": false} },\n	{ \"keys\": [\"ctrl+end\"], \"command\": \"move_to\", \"args\": {\"to\": \"eof\", \"extend\": false} },\n	{ \"keys\": [\"ctrl+shift+home\"], \"command\": \"move_to\", \"args\": {\"to\": \"bof\", \"extend\": true} },\n	{ \"keys\": [\"ctrl+shift+end\"], \"command\": \"move_to\", \"args\": {\"to\": \"eof\", \"extend\": true} },\n\n\n	{ \"keys\": [\"ctrl+up\"], \"command\": \"scroll_lines\", \"args\": {\"amount\": 1.0 } },\n	{ \"keys\": [\"ctrl+down\"], \"command\": \"scroll_lines\", \"args\": {\"amount\": -1.0 } },\n\n	{ \"keys\": [\"ctrl+pagedown\"], \"command\": \"next_view\" },\n	{ \"keys\": [\"ctrl+pageup\"], \"command\": \"prev_view\" },\n\n	{ \"keys\": [\"ctrl+tab\"], \"command\": \"next_view_in_stack\" },\n	{ \"keys\": [\"ctrl+shift+tab\"], \"command\": \"prev_view_in_stack\" },\n\n	{ \"keys\": [\"ctrl+a\"], \"command\": \"select_all\" },\n	{ \"keys\": [\"ctrl+shift+l\"], \"command\": \"split_selection_into_lines\" },\n	{ \"keys\": [\"escape\"], \"command\": \"single_selection\", \"context\":\n		[\n			{ \"key\": \"num_selections\", \"operator\": \"not_equal\", \"operand\": 1 }\n		]\n	},\n	{ \"keys\": [\"escape\"], \"command\": \"clear_fields\", \"context\":\n		[\n			{ \"key\": \"has_next_field\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n	{ \"keys\": [\"escape\"], \"command\": \"clear_fields\", \"context\":\n		[\n			{ \"key\": \"has_prev_field\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n	{ \"keys\": [\"escape\"], \"command\": \"hide_panel\", \"args\": {\"cancel\": true},\n		\"context\":\n		[\n			{ \"key\": \"panel_visible\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n	{ \"keys\": [\"escape\"], \"command\": \"hide_overlay\", \"context\":\n		[\n			{ \"key\": \"overlay_visible\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n	{ \"keys\": [\"escape\"], \"command\": \"hide_popup\", \"context\":\n		[\n			{ \"key\": \"popup_visible\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n	{ \"keys\": [\"escape\"], \"command\": \"hide_auto_complete\", \"context\":\n		[\n			{ \"key\": \"auto_complete_visible\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n\n	{ \"keys\": [\"tab\"], \"command\": \"insert_best_completion\", \"args\": {\"default\": \"\\t\", \"exact\": true} },\n	{ \"keys\": [\"tab\"], \"command\": \"insert_best_completion\", \"args\": {\"default\": \"\\t\", \"exact\": false},\n		\"context\":\n		[\n			{ \"key\": \"setting.tab_completion\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"preceding_text\", \"operator\": \"not_regex_match\", \"operand\": \".*\\\\b[0-9]+$\", \"match_all\": true },\n		]\n	},\n	{ \"keys\": [\"tab\"], \"command\": \"replace_completion_with_next_completion\", \"context\":\n		[\n			{ \"key\": \"last_command\", \"operator\": \"equal\", \"operand\": \"insert_best_completion\" },\n			{ \"key\": \"setting.tab_completion\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n	{ \"keys\": [\"tab\"], \"command\": \"reindent\", \"context\":\n		[\n			{ \"key\": \"setting.auto_indent\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"preceding_text\", \"operator\": \"regex_match\", \"operand\": \"^$\", \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_match\", \"operand\": \"^$\", \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"tab\"], \"command\": \"indent\", \"context\":\n		[\n			{ \"key\": \"text\", \"operator\": \"regex_contains\", \"operand\": \"\\n\" }\n		]\n	},\n	{ \"keys\": [\"tab\"], \"command\": \"next_field\", \"context\":\n		[\n			{ \"key\": \"has_next_field\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n	{ \"keys\": [\"tab\"], \"command\": \"commit_completion\", \"context\":\n		[\n			{ \"key\": \"auto_complete_visible\" },\n			{ \"key\": \"setting.auto_complete_commit_on_tab\" }\n		]\n	},\n\n	{ \"keys\": [\"shift+tab\"], \"command\": \"insert\", \"args\": {\"characters\": \"\\t\"} },\n	{ \"keys\": [\"shift+tab\"], \"command\": \"unindent\", \"context\":\n		[\n			{ \"key\": \"setting.shift_tab_unindent\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n	{ \"keys\": [\"shift+tab\"], \"command\": \"unindent\", \"context\":\n		[\n			{ \"key\": \"preceding_text\", \"operator\": \"regex_match\", \"operand\": \"^[\\t ]*\" }\n		]\n	},\n	{ \"keys\": [\"shift+tab\"], \"command\": \"unindent\", \"context\":\n		[\n			{ \"key\": \"text\", \"operator\": \"regex_contains\", \"operand\": \"\\n\" }\n		]\n	},\n	{ \"keys\": [\"shift+tab\"], \"command\": \"prev_field\", \"context\":\n		[\n			{ \"key\": \"has_prev_field\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n\n	{ \"keys\": [\"ctrl+]\"], \"command\": \"indent\" },\n	{ \"keys\": [\"ctrl+[\"], \"command\": \"unindent\" },\n\n	{ \"keys\": [\"insert\"], \"command\": \"toggle_overwrite\" },\n\n	{ \"keys\": [\"ctrl+l\"], \"command\": \"expand_selection\", \"args\": {\"to\": \"line\"} },\n	{ \"keys\": [\"ctrl+d\"], \"command\": \"find_under_expand\" },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+d\"], \"command\": \"find_under_expand_skip\" },\n	{ \"keys\": [\"ctrl+shift+space\"], \"command\": \"expand_selection\", \"args\": {\"to\": \"scope\"} },\n	{ \"keys\": [\"ctrl+shift+m\"], \"command\": \"expand_selection\", \"args\": {\"to\": \"brackets\"} },\n	{ \"keys\": [\"ctrl+m\"], \"command\": \"move_to\", \"args\": {\"to\": \"brackets\"} },\n	{ \"keys\": [\"ctrl+shift+j\"], \"command\": \"expand_selection\", \"args\": {\"to\": \"indentation\"} },\n	{ \"keys\": [\"ctrl+shift+a\"], \"command\": \"expand_selection\", \"args\": {\"to\": \"tag\"} },\n\n	{ \"keys\": [\"alt+.\"], \"command\": \"close_tag\" },\n\n	{ \"keys\": [\"ctrl+q\"], \"command\": \"toggle_record_macro\" },\n	{ \"keys\": [\"ctrl+shift+q\"], \"command\": \"run_macro\" },\n\n	{ \"keys\": [\"ctrl+enter\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Add Line.sublime-macro\"} },\n	{ \"keys\": [\"ctrl+shift+enter\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Add Line Before.sublime-macro\"} },\n	{ \"keys\": [\"enter\"], \"command\": \"commit_completion\", \"context\":\n		[\n			{ \"key\": \"auto_complete_visible\" },\n			{ \"key\": \"setting.auto_complete_commit_on_tab\", \"operand\": false }\n		]\n	},\n\n	{ \"keys\": [\"ctrl+p\"], \"command\": \"show_overlay\", \"args\": {\"overlay\": \"goto\", \"show_files\": true} },\n	{ \"keys\": [\"ctrl+shift+p\"], \"command\": \"show_overlay\", \"args\": {\"overlay\": \"command_palette\"} },\n	{ \"keys\": [\"ctrl+r\"], \"command\": \"show_overlay\", \"args\": {\"overlay\": \"goto\", \"text\": \"@\"} },\n	{ \"keys\": [\"ctrl+g\"], \"command\": \"show_overlay\", \"args\": {\"overlay\": \"goto\", \"text\": \":\"} },\n	{ \"keys\": [\"ctrl+;\"], \"command\": \"show_overlay\", \"args\": {\"overlay\": \"goto\", \"text\": \"#\"} },\n	{ \"keys\": [\"f12\"], \"command\": \"goto_definition\" },\n	{ \"keys\": [\"ctrl+shift+r\"], \"command\": \"goto_symbol_in_project\" },\n	{ \"keys\": [\"alt+keypad_minus\"], \"command\": \"jump_back\" },\n	{ \"keys\": [\"alt+shift+keypad_minus\"], \"command\": \"jump_forward\" },\n	{ \"keys\": [\"alt+-\"], \"command\": \"jump_back\" },\n	{ \"keys\": [\"alt+shift+-\"], \"command\": \"jump_forward\" },\n\n	{ \"keys\": [\"ctrl+i\"], \"command\": \"show_panel\", \"args\": {\"panel\": \"incremental_find\", \"reverse\": false} },\n	{ \"keys\": [\"ctrl+shift+i\"], \"command\": \"show_panel\", \"args\": {\"panel\": \"incremental_find\", \"reverse\": true} },\n	{ \"keys\": [\"ctrl+f\"], \"command\": \"show_panel\", \"args\": {\"panel\": \"find\", \"reverse\": false} },\n	{ \"keys\": [\"ctrl+h\"], \"command\": \"show_panel\", \"args\": {\"panel\": \"replace\", \"reverse\": false} },\n	{ \"keys\": [\"ctrl+shift+h\"], \"command\": \"replace_next\" },\n	{ \"keys\": [\"f3\"], \"command\": \"find_next\" },\n	{ \"keys\": [\"shift+f3\"], \"command\": \"find_prev\" },\n	{ \"keys\": [\"ctrl+f3\"], \"command\": \"find_under\" },\n	{ \"keys\": [\"ctrl+shift+f3\"], \"command\": \"find_under_prev\" },\n	{ \"keys\": [\"alt+f3\"], \"command\": \"find_all_under\" },\n	{ \"keys\": [\"ctrl+e\"], \"command\": \"slurp_find_string\" },\n	{ \"keys\": [\"ctrl+shift+e\"], \"command\": \"slurp_replace_string\" },\n	{ \"keys\": [\"ctrl+shift+f\"], \"command\": \"show_panel\", \"args\": {\"panel\": \"find_in_files\"} },\n	{ \"keys\": [\"f4\"], \"command\": \"next_result\" },\n	{ \"keys\": [\"shift+f4\"], \"command\": \"prev_result\" },\n\n	{ \"keys\": [\"f6\"], \"command\": \"toggle_setting\", \"args\": {\"setting\": \"spell_check\"} },\n	{ \"keys\": [\"ctrl+f6\"], \"command\": \"next_misspelling\" },\n	{ \"keys\": [\"ctrl+shift+f6\"], \"command\": \"prev_misspelling\" },\n\n	{ \"keys\": [\"ctrl+shift+up\"], \"command\": \"swap_line_up\" },\n	{ \"keys\": [\"ctrl+shift+down\"], \"command\": \"swap_line_down\" },\n\n	{ \"keys\": [\"ctrl+backspace\"], \"command\": \"delete_word\", \"args\": { \"forward\": false } },\n	{ \"keys\": [\"ctrl+shift+backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete to Hard BOL.sublime-macro\"} },\n\n	{ \"keys\": [\"ctrl+delete\"], \"command\": \"delete_word\", \"args\": { \"forward\": true } },\n	{ \"keys\": [\"ctrl+shift+delete\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete to Hard EOL.sublime-macro\"} },\n\n	{ \"keys\": [\"ctrl+/\"], \"command\": \"toggle_comment\", \"args\": { \"block\": false } },\n	{ \"keys\": [\"ctrl+shift+/\"], \"command\": \"toggle_comment\", \"args\": { \"block\": true } },\n\n	{ \"keys\": [\"ctrl+j\"], \"command\": \"join_lines\" },\n	{ \"keys\": [\"ctrl+shift+d\"], \"command\": \"duplicate_line\" },\n\n	{ \"keys\": [\"ctrl+`\"], \"command\": \"show_panel\", \"args\": {\"panel\": \"console\", \"toggle\": true} },\n\n	{ \"keys\": [\"ctrl+space\"], \"command\": \"auto_complete\" },\n	{ \"keys\": [\"ctrl+space\"], \"command\": \"replace_completion_with_auto_complete\", \"context\":\n		[\n			{ \"key\": \"last_command\", \"operator\": \"equal\", \"operand\": \"insert_best_completion\" },\n			{ \"key\": \"auto_complete_visible\", \"operator\": \"equal\", \"operand\": false },\n			{ \"key\": \"setting.tab_completion\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n\n	{ \"keys\": [\"ctrl+alt+shift+p\"], \"command\": \"show_scope_name\" },\n\n	{ \"keys\": [\"f7\"], \"command\": \"build\" },\n	{ \"keys\": [\"ctrl+b\"], \"command\": \"build\" },\n	{ \"keys\": [\"ctrl+shift+b\"], \"command\": \"build\", \"args\": {\"select\": true} },\n	{ \"keys\": [\"ctrl+break\"], \"command\": \"exec\", \"args\": {\"kill\": true} },\n\n	{ \"keys\": [\"ctrl+t\"], \"command\": \"transpose\" },\n\n	{ \"keys\": [\"f9\"], \"command\": \"sort_lines\", \"args\": {\"case_sensitive\": false} },\n	{ \"keys\": [\"ctrl+f9\"], \"command\": \"sort_lines\", \"args\": {\"case_sensitive\": true} },\n\n	// Auto-pair quotes\n	{ \"keys\": [\"\\\"\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"\\\"$0\\\"\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^(?:\\t| |\\\\)|]|\\\\}|>|$)\", \"match_all\": true },\n			{ \"key\": \"preceding_text\", \"operator\": \"not_regex_contains\", \"operand\": \"[\\\"a-zA-Z0-9_]$\", \"match_all\": true },\n			{ \"key\": \"eol_selector\", \"operator\": \"not_equal\", \"operand\": \"string.quoted.double - punctuation.definition.string.end\", \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"\\\"\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"\\\"${0:$SELECTION}\\\"\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": false, \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"\\\"\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\"\", \"match_all\": true },\n			{ \"key\": \"selector\", \"operator\": \"not_equal\", \"operand\": \"punctuation.definition.string.begin\", \"match_all\": true },\n			{ \"key\": \"eol_selector\", \"operator\": \"not_equal\", \"operand\": \"string.quoted.double - punctuation.definition.string.end\", \"match_all\": true },\n		]\n	},\n	{ \"keys\": [\"backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Left Right.sublime-macro\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"\\\"$\", \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\"\", \"match_all\": true },\n			{ \"key\": \"selector\", \"operator\": \"not_equal\", \"operand\": \"punctuation.definition.string.begin\", \"match_all\": true },\n			{ \"key\": \"eol_selector\", \"operator\": \"not_equal\", \"operand\": \"string.quoted.double - punctuation.definition.string.end\", \"match_all\": true },\n		]\n	},\n\n	// Auto-pair single quotes\n	{ \"keys\": [\"'\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"'$0'\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^(?:\\t| |\\\\)|]|\\\\}|>|$)\", \"match_all\": true },\n			{ \"key\": \"preceding_text\", \"operator\": \"not_regex_contains\", \"operand\": \"['a-zA-Z0-9_]$\", \"match_all\": true },\n			{ \"key\": \"eol_selector\", \"operator\": \"not_equal\", \"operand\": \"string.quoted.single - punctuation.definition.string.end\", \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"'\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"'${0:$SELECTION}'\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": false, \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"'\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^'\", \"match_all\": true },\n			{ \"key\": \"selector\", \"operator\": \"not_equal\", \"operand\": \"punctuation.definition.string.begin\", \"match_all\": true },\n			{ \"key\": \"eol_selector\", \"operator\": \"not_equal\", \"operand\": \"string.quoted.single - punctuation.definition.string.end\", \"match_all\": true },\n		]\n	},\n	{ \"keys\": [\"backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Left Right.sublime-macro\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"'$\", \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^'\", \"match_all\": true },\n			{ \"key\": \"selector\", \"operator\": \"not_equal\", \"operand\": \"punctuation.definition.string.begin\", \"match_all\": true },\n			{ \"key\": \"eol_selector\", \"operator\": \"not_equal\", \"operand\": \"string.quoted.single - punctuation.definition.string.end\", \"match_all\": true },\n		]\n	},\n\n	// Auto-pair brackets\n	{ \"keys\": [\"(\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"($0)\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^(?:\\t| |\\\\)|]|;|\\\\}|$)\", \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"(\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"(${0:$SELECTION})\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": false, \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\")\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\)\", \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Left Right.sublime-macro\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"\\\\($\", \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\)\", \"match_all\": true }\n		]\n	},\n\n	// Auto-pair square brackets\n	{ \"keys\": [\"[\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"[$0]\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^(?:\\t| |\\\\)|]|;|\\\\}|$)\", \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"[\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"[${0:$SELECTION}]\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": false, \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"]\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\]\", \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Left Right.sublime-macro\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"\\\\[$\", \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\]\", \"match_all\": true }\n		]\n	},\n\n	// Auto-pair curly brackets\n	{ \"keys\": [\"{\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"{$0}\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^(?:\\t| |\\\\)|]|\\\\}|$)\", \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"{\"], \"command\": \"wrap_block\", \"args\": {\"begin\": \"{\", \"end\": \"}\"}, \"context\":\n		[\n			{ \"key\": \"indented_block\", \"match_all\": true },\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_match\", \"operand\": \"^$\", \"match_all\": true },\n		]\n	},\n	{ \"keys\": [\"{\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"{${0:$SELECTION}}\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": false, \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"}\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\}\", \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Left Right.sublime-macro\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"\\\\{$\", \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\}\", \"match_all\": true }\n		]\n	},\n\n	{ \"keys\": [\"enter\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Add Line in Braces.sublime-macro\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_indent\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"\\\\{$\", \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\}\", \"match_all\": true }\n		]\n	},\n	{ \"keys\": [\"shift+enter\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Add Line in Braces.sublime-macro\"}, \"context\":\n		[\n			{ \"key\": \"setting.auto_indent\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"\\\\{$\", \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\}\", \"match_all\": true }\n		]\n	},\n\n	{ \"keys\": [\"enter\"], \"command\": \"auto_indent_tag\", \"context\":\n		[\n			{ \"key\": \"setting.auto_indent\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"selector\", \"operator\": \"equal\", \"operand\": \"punctuation.definition.tag.begin\", \"match_all\": true },\n			{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \">$\", \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^</\", \"match_all\": true },\n		]\n	},\n	{ \"keys\": [\"shift+enter\"], \"command\": \"auto_indent_tag\", \"context\":\n		[\n			{ \"key\": \"setting.auto_indent\", \"operator\": \"equal\", \"operand\": true },\n			{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n			{ \"key\": \"selector\", \"operator\": \"equal\", \"operand\": \"punctuation.definition.tag.begin\", \"match_all\": true },\n			{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \">$\", \"match_all\": true },\n			{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^</\", \"match_all\": true },\n		]\n	},\n\n	{\n		\"keys\": [\"alt+shift+1\"],\n		\"command\": \"set_layout\",\n		\"args\":\n		{\n			\"cols\": [0.0, 1.0],\n			\"rows\": [0.0, 1.0],\n			\"cells\": [[0, 0, 1, 1]]\n		}\n	},\n	{\n		\"keys\": [\"alt+shift+2\"],\n		\"command\": \"set_layout\",\n		\"args\":\n		{\n			\"cols\": [0.0, 0.5, 1.0],\n			\"rows\": [0.0, 1.0],\n			\"cells\": [[0, 0, 1, 1], [1, 0, 2, 1]]\n		}\n	},\n	{\n		\"keys\": [\"alt+shift+3\"],\n		\"command\": \"set_layout\",\n		\"args\":\n		{\n			\"cols\": [0.0, 0.33, 0.66, 1.0],\n			\"rows\": [0.0, 1.0],\n			\"cells\": [[0, 0, 1, 1], [1, 0, 2, 1], [2, 0, 3, 1]]\n		}\n	},\n	{\n		\"keys\": [\"alt+shift+4\"],\n		\"command\": \"set_layout\",\n		\"args\":\n		{\n			\"cols\": [0.0, 0.25, 0.5, 0.75, 1.0],\n			\"rows\": [0.0, 1.0],\n			\"cells\": [[0, 0, 1, 1], [1, 0, 2, 1], [2, 0, 3, 1], [3, 0, 4, 1]]\n		}\n	},\n	{\n		\"keys\": [\"alt+shift+8\"],\n		\"command\": \"set_layout\",\n		\"args\":\n		{\n			\"cols\": [0.0, 1.0],\n			\"rows\": [0.0, 0.5, 1.0],\n			\"cells\": [[0, 0, 1, 1], [0, 1, 1, 2]]\n		}\n	},\n	{\n		\"keys\": [\"alt+shift+9\"],\n		\"command\": \"set_layout\",\n		\"args\":\n		{\n			\"cols\": [0.0, 1.0],\n			\"rows\": [0.0, 0.33, 0.66, 1.0],\n			\"cells\": [[0, 0, 1, 1], [0, 1, 1, 2], [0, 2, 1, 3]]\n		}\n	},\n	{\n		\"keys\": [\"alt+shift+5\"],\n		\"command\": \"set_layout\",\n		\"args\":\n		{\n			\"cols\": [0.0, 0.5, 1.0],\n			\"rows\": [0.0, 0.5, 1.0],\n			\"cells\":\n			[\n				[0, 0, 1, 1], [1, 0, 2, 1],\n				[0, 1, 1, 2], [1, 1, 2, 2]\n			]\n		}\n	},\n	{ \"keys\": [\"ctrl+1\"], \"command\": \"focus_group\", \"args\": { \"group\": 0 } },\n	{ \"keys\": [\"ctrl+2\"], \"command\": \"focus_group\", \"args\": { \"group\": 1 } },\n	{ \"keys\": [\"ctrl+3\"], \"command\": \"focus_group\", \"args\": { \"group\": 2 } },\n	{ \"keys\": [\"ctrl+4\"], \"command\": \"focus_group\", \"args\": { \"group\": 3 } },\n	{ \"keys\": [\"ctrl+5\"], \"command\": \"focus_group\", \"args\": { \"group\": 4 } },\n	{ \"keys\": [\"ctrl+6\"], \"command\": \"focus_group\", \"args\": { \"group\": 5 } },\n	{ \"keys\": [\"ctrl+7\"], \"command\": \"focus_group\", \"args\": { \"group\": 6 } },\n	{ \"keys\": [\"ctrl+8\"], \"command\": \"focus_group\", \"args\": { \"group\": 7 } },\n	{ \"keys\": [\"ctrl+9\"], \"command\": \"focus_group\", \"args\": { \"group\": 8 } },\n	{ \"keys\": [\"ctrl+shift+1\"], \"command\": \"move_to_group\", \"args\": { \"group\": 0 } },\n	{ \"keys\": [\"ctrl+shift+2\"], \"command\": \"move_to_group\", \"args\": { \"group\": 1 } },\n	{ \"keys\": [\"ctrl+shift+3\"], \"command\": \"move_to_group\", \"args\": { \"group\": 2 } },\n	{ \"keys\": [\"ctrl+shift+4\"], \"command\": \"move_to_group\", \"args\": { \"group\": 3 } },\n	{ \"keys\": [\"ctrl+shift+5\"], \"command\": \"move_to_group\", \"args\": { \"group\": 4 } },\n	{ \"keys\": [\"ctrl+shift+6\"], \"command\": \"move_to_group\", \"args\": { \"group\": 5 } },\n	{ \"keys\": [\"ctrl+shift+7\"], \"command\": \"move_to_group\", \"args\": { \"group\": 6 } },\n	{ \"keys\": [\"ctrl+shift+8\"], \"command\": \"move_to_group\", \"args\": { \"group\": 7 } },\n	{ \"keys\": [\"ctrl+shift+9\"], \"command\": \"move_to_group\", \"args\": { \"group\": 8 } },\n	{ \"keys\": [\"ctrl+0\"], \"command\": \"focus_side_bar\" },\n\n	{ \"keys\": [\"ctrl+k\", \"ctrl+up\"], \"command\": \"new_pane\" },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+shift+up\"], \"command\": \"new_pane\", \"args\": {\"move\": false} },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+down\"], \"command\": \"close_pane\" },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+left\"], \"command\": \"focus_neighboring_group\", \"args\": {\"forward\": false} },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+right\"], \"command\": \"focus_neighboring_group\" },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+shift+left\"], \"command\": \"move_to_neighboring_group\", \"args\": {\"forward\": false} },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+shift+right\"], \"command\": \"move_to_neighboring_group\" },\n\n	{ \"keys\": [\"alt+1\"], \"command\": \"select_by_index\", \"args\": { \"index\": 0 } },\n	{ \"keys\": [\"alt+2\"], \"command\": \"select_by_index\", \"args\": { \"index\": 1 } },\n	{ \"keys\": [\"alt+3\"], \"command\": \"select_by_index\", \"args\": { \"index\": 2 } },\n	{ \"keys\": [\"alt+4\"], \"command\": \"select_by_index\", \"args\": { \"index\": 3 } },\n	{ \"keys\": [\"alt+5\"], \"command\": \"select_by_index\", \"args\": { \"index\": 4 } },\n	{ \"keys\": [\"alt+6\"], \"command\": \"select_by_index\", \"args\": { \"index\": 5 } },\n	{ \"keys\": [\"alt+7\"], \"command\": \"select_by_index\", \"args\": { \"index\": 6 } },\n	{ \"keys\": [\"alt+8\"], \"command\": \"select_by_index\", \"args\": { \"index\": 7 } },\n	{ \"keys\": [\"alt+9\"], \"command\": \"select_by_index\", \"args\": { \"index\": 8 } },\n	{ \"keys\": [\"alt+0\"], \"command\": \"select_by_index\", \"args\": { \"index\": 9 } },\n\n	{ \"keys\": [\"f2\"], \"command\": \"next_bookmark\" },\n	{ \"keys\": [\"shift+f2\"], \"command\": \"prev_bookmark\" },\n	{ \"keys\": [\"ctrl+f2\"], \"command\": \"toggle_bookmark\" },\n	{ \"keys\": [\"ctrl+shift+f2\"], \"command\": \"clear_bookmarks\" },\n	{ \"keys\": [\"alt+f2\"], \"command\": \"select_all_bookmarks\" },\n\n	{ \"keys\": [\"ctrl+shift+k\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Line.sublime-macro\"} },\n\n	{ \"keys\": [\"alt+q\"], \"command\": \"wrap_lines\" },\n\n	{ \"keys\": [\"ctrl+k\", \"ctrl+u\"], \"command\": \"upper_case\" },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+l\"], \"command\": \"lower_case\" },\n\n	{ \"keys\": [\"ctrl+k\", \"ctrl+space\"], \"command\": \"set_mark\" },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+a\"], \"command\": \"select_to_mark\" },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+w\"], \"command\": \"delete_to_mark\" },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+x\"], \"command\": \"swap_with_mark\" },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+y\"], \"command\": \"yank\" },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+k\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete to Hard EOL.sublime-macro\"} },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete to Hard BOL.sublime-macro\"} },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+g\"], \"command\": \"clear_bookmarks\", \"args\": {\"name\": \"mark\"} },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+c\"], \"command\": \"show_at_center\" },\n\n	{ \"keys\": [\"ctrl++\"], \"command\": \"increase_font_size\" },\n	{ \"keys\": [\"ctrl+=\"], \"command\": \"increase_font_size\" },\n	{ \"keys\": [\"ctrl+keypad_plus\"], \"command\": \"increase_font_size\" },\n	{ \"keys\": [\"ctrl+-\"], \"command\": \"decrease_font_size\" },\n	{ \"keys\": [\"ctrl+keypad_minus\"], \"command\": \"decrease_font_size\" },\n\n	{ \"keys\": [\"ctrl+equals\"], \"command\": \"increase_font_size\" },\n	{ \"keys\": [\"ctrl+shift+equals\"], \"command\": \"decrease_font_size\" },\n	{ \"keys\": [\"ctrl+shift+keypad_plus\"], \"command\": \"decrease_font_size\" },\n\n	{ \"keys\": [\"alt+shift+w\"], \"command\": \"insert_snippet\", \"args\": { \"name\": \"Packages/XML/Snippets/long-tag.sublime-snippet\" } },\n\n	{ \"keys\": [\"ctrl+shift+[\"], \"command\": \"fold\" },\n	{ \"keys\": [\"ctrl+shift+]\"], \"command\": \"unfold\" },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+1\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 1} },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+2\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 2} },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+3\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 3} },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+4\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 4} },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+5\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 5} },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+6\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 6} },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+7\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 7} },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+8\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 8} },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+9\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 9} },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+0\"], \"command\": \"unfold_all\" },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+j\"], \"command\": \"unfold_all\" },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+t\"], \"command\": \"fold_tag_attributes\" },\n\n	{ \"keys\": [\"context_menu\"], \"command\": \"context_menu\" },\n\n	{ \"keys\": [\"alt+c\"], \"command\": \"toggle_case_sensitive\", \"context\":\n		[\n			{ \"key\": \"setting.is_widget\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n	{ \"keys\": [\"alt+r\"], \"command\": \"toggle_regex\", \"context\":\n		[\n			{ \"key\": \"setting.is_widget\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n	{ \"keys\": [\"alt+w\"], \"command\": \"toggle_whole_word\", \"context\":\n		[\n			{ \"key\": \"setting.is_widget\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n	{ \"keys\": [\"alt+a\"], \"command\": \"toggle_preserve_case\", \"context\":\n		[\n			{ \"key\": \"setting.is_widget\", \"operator\": \"equal\", \"operand\": true }\n		]\n	},\n\n	// Find panel key bindings\n	{ \"keys\": [\"enter\"], \"command\": \"find_next\", \"context\":\n		[{\"key\": \"panel\", \"operand\": \"find\"}, {\"key\": \"panel_has_focus\"}]\n	},\n	{ \"keys\": [\"shift+enter\"], \"command\": \"find_prev\", \"context\":\n		[{\"key\": \"panel\", \"operand\": \"find\"}, {\"key\": \"panel_has_focus\"}]\n	},\n	{ \"keys\": [\"alt+enter\"], \"command\": \"find_all\", \"args\": {\"close_panel\": true},\n		 \"context\": [{\"key\": \"panel\", \"operand\": \"find\"}, {\"key\": \"panel_has_focus\"}]\n	},\n\n	// Replace panel key bindings\n	{ \"keys\": [\"enter\"], \"command\": \"find_next\", \"context\":\n		[{\"key\": \"panel\", \"operand\": \"replace\"}, {\"key\": \"panel_has_focus\"}]\n	},\n	{ \"keys\": [\"shift+enter\"], \"command\": \"find_prev\", \"context\":\n		[{\"key\": \"panel\", \"operand\": \"replace\"}, {\"key\": \"panel_has_focus\"}]\n	},\n	{ \"keys\": [\"alt+enter\"], \"command\": \"find_all\", \"args\": {\"close_panel\": true},\n		\"context\": [{\"key\": \"panel\", \"operand\": \"replace\"}, {\"key\": \"panel_has_focus\"}]\n	},\n	{ \"keys\": [\"ctrl+alt+enter\"], \"command\": \"replace_all\", \"args\": {\"close_panel\": true},\n		 \"context\": [{\"key\": \"panel\", \"operand\": \"replace\"}, {\"key\": \"panel_has_focus\"}]\n	},\n\n	// Incremental find panel key bindings\n	{ \"keys\": [\"enter\"], \"command\": \"hide_panel\", \"context\":\n		[{\"key\": \"panel\", \"operand\": \"incremental_find\"}, {\"key\": \"panel_has_focus\"}]\n	},\n	{ \"keys\": [\"shift+enter\"], \"command\": \"find_prev\", \"context\":\n		[{\"key\": \"panel\", \"operand\": \"incremental_find\"}, {\"key\": \"panel_has_focus\"}]\n	},\n	{ \"keys\": [\"alt+enter\"], \"command\": \"find_all\", \"args\": {\"close_panel\": true},\n		\"context\": [{\"key\": \"panel\", \"operand\": \"incremental_find\"}, {\"key\": \"panel_has_focus\"}]\n	},\n\n	// HTML, XML close tag\n	{ \"keys\": [\"/\"], \"command\": \"close_tag\", \"args\": { \"insert_slash\": true }, \"context\":\n		[\n			{ \"key\": \"selector\", \"operator\": \"equal\", \"operand\": \"(text.html, text.xml) - string - comment\", \"match_all\": true },\n			{ \"key\": \"preceding_text\", \"operator\": \"regex_match\", \"operand\": \".*<$\", \"match_all\": true },\n			{ \"key\": \"setting.auto_close_tags\" }\n		]\n	}\n]\n",
+					"file": "/C/Users/stephen/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+					"file_size": -1,
+					"file_write_time": -1,
+					"settings":
+					{
+						"buffer_size": 35936,
+						"line_ending": "Windows",
+						"read_only": true,
+						"scratch": true
+					}
+				},
+				{
+					"file": "/C/Users/stephen/AppData/Roaming/Sublime Text 3/Packages/CSScomb/Default.sublime-keymap",
+					"settings":
+					{
+						"buffer_size": 60,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/OneDrive/_Notes/GStarCloud.txt",
+					"settings":
+					{
+						"buffer_size": 2235,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/griver-mobile/client/videos/components/jz/index.js",
+					"settings":
+					{
+						"buffer_size": 12331,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/griver-mobile/client/videos/components/authentication/index.js",
+					"settings":
+					{
+						"buffer_size": 15897,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/griver-mobile/client/index.html",
+					"settings":
+					{
+						"buffer_size": 3021,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/c.sublime-build",
+							""
+						],
+						[
+							"Packages/User/c.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/c.sublime-build",
+							"RunInCommand"
+						]
+					],
+					[
+						"Packages/User/c.sublime-build",
+						"Run"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 292.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pis",
+						"Package Control: Install Package"
+					],
+					[
+						"prp",
+						"Package Control: Remove Package"
+					],
+					[
+						"sass",
+						"SassBeautify"
+					],
+					[
+						"aut",
+						"Autoprefix CSS"
+					],
+					[
+						"html",
+						"HTMLBeautify"
+					],
+					[
+						"auto",
+						"Autoprefix CSS"
+					],
+					[
+						"format",
+						"Format: Javascript"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"termi",
+						"Terminal: Open"
+					],
+					[
+						"preview",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"mar",
+						"Markdown HTML Preview"
+					],
+					[
+						"mar pre",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"syntax c",
+						"Set Syntax: C"
+					],
+					[
+						"pr",
+						"Package Control: Remove Package"
+					],
+					[
+						"",
+						"ANF: Copy Current File"
+					],
+					[
+						"emmet",
+						"Toggle Comment"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 174.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/griver-mobile",
+				"/D/griver-mobile/client",
+				"/D/griver-mobile/client/videos/components",
+				"/D/griver-mobile/client/videos/components/bestmatch",
+				"/D/griver-mobile/client/videos/components/universal",
+				"/D/griver-mobile/client/videos/components/wedding",
+				"/D/_Projects/test"
+			],
+			"file_history":
+			[
+				"/D/_Projects/isso/isso/js/app/lib/identicons.js",
+				"/C/Users/stephen/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/stephen/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
+				"/D/OneDrive/_Notes/前端学习笔记.txt",
+				"/C/Users/stephen/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/D/_Projects/isso/isso/js/app/isso.js",
+				"/D/griver-mobile/client/www/scripts/js/myslider.css",
+				"/D/_Projects/isso/isso/js/app/text/comment.jade",
+				"/D/_Projects/isso/isso/js/app/text/postbox.jade",
+				"/D/_绿星云/embed.min.js",
+				"/D/griver-mobile/client/containers/App/index.js",
+				"/D/griver-mobile/client/videos/components/play/index.js",
+				"/D/griver-mobile/client/videos/components/bestmatch/style.scss",
+				"/D/griver-mobile/client/videos/components/bestmatch/index.js",
+				"/D/_Projects/react-native-duoshuo/example/html.js",
+				"/D/_Projects/react-native-duoshuo/libs/duoshuo.js",
+				"/D/_Projects/react-native-duoshuo/README.md",
+				"/D/griver-mobile/client/videos/components/index.js",
+				"/D/griver-mobile/client/videos/components/gsc/index.js",
+				"/D/griver-mobile/client/www/scripts/tag/tag.css",
+				"/D/griver-mobile/client/www/scripts/tag/tag.js",
+				"/D/OneDrive/hbn/test.html",
+				"/D/griver-mobile/webpack.config.js",
+				"/C/Users/stephen/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/C/Users/stephen/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/D/OneDrive/hbn/js/main.js",
+				"/D/OneDrive/hbn/css/main.css",
+				"/D/griver-mobile/client/index.js",
+				"/D/isso/db/comments.py",
+				"/D/isso/js/embed.js",
+				"/D/isso/js/app/text/postbox.jade",
+				"/D/isso/js/app/text/comment.jade",
+				"/D/isso/js/app/isso.js",
+				"/D/griver-mobile/client/videos/components/test/index.js",
+				"/D/griver-mobile/client/videos/components/wedding/index.js",
+				"/D/griver-mobile/m/hbn/test.html",
+				"/D/griver-mobile/client/videos/components/vnormal/index.js",
+				"/D/griver-mobile/client/videos/components/test/style.scss",
+				"/D/griver-mobile/client/videos/components/universal/index.js",
+				"/D/hbn/test.html",
+				"/D/test.html",
+				"/D/griver-mobile/test.html",
+				"/D/griver-mobile/client/videos/components/vhigh/index.js",
+				"/D/griver-mobile/client/videos/components/rosemega/index.js",
+				"/D/griver-mobile/client/videos/components/live/index.js",
+				"/D/griver-mobile/client/videos/components/hbn/index.js",
+				"/D/griver-mobile/client/videos/components/authentication/index.js",
+				"/D/griver-mobile/client/index.html",
+				"/D/OneDrive/_Notes/front-end.txt",
+				"/D/embed-hidden.min.js",
+				"/D/OneDrive/_Notes/GStarCloud.txt",
+				"/D/_Projects/test/139.html",
+				"/D/_Projects/ctps_376_ol/index.html",
+				"/D/_Projects/avian-wp-v1.2/readme.txt",
+				"/D/griver-mobile/client/www/scripts/isso/embed-hidden.min.js",
+				"/D/embed.min.js",
+				"/D/griver-mobile/client/www/scripts/isso/embed.min.js",
+				"/D/OneDrive/_Notes/notes1.txt",
+				"/D/直播播放鉴权API说明1.0.txt",
+				"/D/griver-mobile/client/videos/components/authentication/style.scss",
+				"/D/griver-mobile/client/videos/components/vnormal/style.scss",
+				"/D/griver-mobile/client/videos/components/wedding/style.scss",
+				"/D/griver-mobile/client/videos/components/universal/style.scss",
+				"/D/griver-mobile/client/videos/components/tibohui/style.scss",
+				"/D/griver-mobile/client/videos/components/rosemega/style.scss",
+				"/D/griver-mobile/client/videos/components/live/style.scss",
+				"/D/griver-mobile/client/videos/components/hbn/style.scss",
+				"/D/_Projects/test/137.html",
+				"/D/OneDrive/_Notes/英语笔记.txt",
+				"/D/_Projects/test/140.js",
+				"/D/_Projects/test/140.html",
+				"/D/_Projects/test/141.js",
+				"/D/直播播放鉴权API说明.txt",
+				"/D/_Projects/test/libs/iscroll.js",
+				"/D/_Projects/test/141.css",
+				"/D/_Projects/test/141.html",
+				"/D/_Projects/iscroll-refresh/demo/index.html",
+				"/C/Users/stephen/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/D/_Projects/test/140.css",
+				"/D/griver-mobile/client/www/scripts/js/videojs-preroll.js",
+				"/D/_Projects/ads-test/example-integration.js",
+				"/D/griver-mobile/client/videos/components/tibohui/index.js",
+				"/D/_Projects/test/libs/video.js",
+				"/D/griver-mobile/node_modules/videojs-font/fonts/VideoJS.svg",
+				"/D/griver-mobile/client/www/scripts/js/video.js",
+				"/D/OneDrive/How-To-Center-Anything-With-CSS.md",
+				"/D/OneDrive/Center-Anything-With-CSS.md",
+				"/D/griver-mobile/client/www/scripts/js/myslider.js",
+				"/D/_Projects/videojs-preroll/README.md",
+				"/D/_Projects/ads-test/index.html",
+				"/D/griver-mobile/client/www/scripts/js/jquery.share.js",
+				"/D/griver-mobile/client/www/scripts/js/jquery.share.min.js",
+				"/D/griver-mobile/client/containers/App/style.scss",
+				"/D/griver-mobile/client/videos/components/vod/index.js",
+				"/D/_Projects/isso/isso/js/app/api.js",
+				"/D/griver-mobile/client/videos/components/vod/style.scss",
+				"/D/_Projects/isso/isso/js/app/dom.js",
+				"/D/griver-mobile/client/www/isso/js/app/isso.js",
+				"/D/_Projects/isso/isso/js/app/globals.js",
+				"/D/_Projects/isso/isso/js/app/count.js",
+				"/D/_Projects/isso/isso/js/app/config.js",
+				"/D/griver-mobile/client/www/scripts/js/videojs.ads.js",
+				"/D/griver-mobile/client/www/isso/js/app/api.js",
+				"/D/griver-mobile/client/www/isso/css/isso.css",
+				"/D/griver-mobile/client/videos/components/navr/index.js",
+				"/D/griver-mobile/client/www/scripts/js/video-js.css",
+				"/C/xampp/htdocs/test-hls/140.html",
+				"/D/griver-mobile/static/www/isso/js/embed.min.js",
+				"/D/Iconsmind-Outline-Smile.ico",
+				"/D/emoticon-34-512.gif",
+				"/D/08nq.jpg",
+				"/D/21-512.png",
+				"/D/_Learning/embed.min.js",
+				"/D/_Projects/isso/isso/js/app/jade.js",
+				"/D/_Projects/isso/isso/js/app/lib.js",
+				"/D/_Projects/isso/isso/js/app/utils.js",
+				"/D/griver-mobile/client/www/isso/js/embed.min.js",
+				"/D/_Projects/isso/isso/js/embed.js",
+				"/D/_Projects/isso/isso/js/count.js",
+				"/D/_Projects/isso/isso/js/config.js",
+				"/D/griver-mobile/.gitignore",
+				"/C/xampp/htdocs/test-hls/111.html",
+				"/D/griver-mobile/client/videos/components/nav/index.js",
+				"/D/griver-mobile/client/videos/components/tibohui",
+				"/C/Users/stephen/Desktop/hosts",
+				"/D/test/index.html",
+				"/D/griver-mobile/node_modules/owl.carousel/dist/owl.carousel.js",
+				"/D/griver-mobile/client/www/scripts/slick/responsive.js"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 102.0,
+				"where_history":
+				[
+					"<project>",
+					"D:\\griver-mobile\\client\\www\\isso\\js",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"ctrl+shift+c",
+					"ctrl+shift+t",
+					"button",
+					"about",
+					"hidden_replies",
+					"lastcreated",
+					"replyObject",
+					"hidden_replies",
+					"append",
+					"gitlab",
+					"display",
+					"avatar",
+					"'",
+					"stream_status",
+					"generateIdenticon",
+					"generate",
+					"'",
+					"deleteHtml",
+					"deleteBody",
+					"\"",
+					"'",
+					"author",
+					"email",
+					"local",
+					"comments",
+					"`",
+					"Wedding",
+					"Rosemega",
+					"act",
+					"var",
+					"write",
+					"indent_size",
+					"class=",
+					"Vnormal",
+					"Str",
+					"str",
+					"Str",
+					"str",
+					"post",
+					"play.png",
+					"play",
+					"home",
+					"jsApiList",
+					"signature",
+					"timestamp",
+					"appId",
+					"nonceStr",
+					"post",
+					"post(",
+					"Post",
+					"Str",
+					"str",
+					"没有更多",
+					"lastId",
+					"wx",
+					"Wx",
+					"wx",
+					"tmpLi",
+					"http://live.zmtmt.com/lss-gfxjhavitcr01jjp/16070302.m3u8",
+					"map",
+					"map2",
+					"map3",
+					"r3",
+					"btnHZ",
+					"DAB96B",
+					"dab96b",
+					"1F222D",
+					"微软雅黑",
+					"333",
+					"comments",
+					"comment",
+					"`",
+					"{id}",
+					"console",
+					"wrapper",
+					"display",
+					"author",
+					"var z",
+					"var y",
+					"var x",
+					"var w",
+					"var v",
+					"var u",
+					"var s",
+					"var r",
+					"var o",
+					"var l",
+					"var k",
+					"var g",
+					"var f",
+					"var c",
+					"var a",
+					"var p",
+					"var m",
+					"var t",
+					"var s",
+					"h",
+					"headimgurl",
+					"var v",
+					"var h",
+					"h",
+					"vmng",
+					"var q",
+					"v",
+					"vmng",
+					"footer",
+					"h",
+					"vmng",
+					"h",
+					"vmng",
+					"h",
+					"H",
+					"h",
+					"H",
+					"h",
+					"H",
+					"h",
+					"H",
+					"h",
+					"entrypoint",
+					"h",
+					"vmng",
+					"http://vmng.gstarcloud.com/m/api/userinfo?app=jz",
+					"display: none",
+					"display",
+					"author",
+					"true",
+					"author"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\griver-mobile"
+				},
+				{
+					"path": "D:\\_Projects\\test"
+				},
+				{
+					"path": "D:\\OneDrive\\_Notes"
+				},
+				{
+					"path": "D:\\_Projects\\isso"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/_Projects/test/139.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 324,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										114,
+										114
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												301,
+												307
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/tag.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												107,
+												113
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended Bright (SL).tmTheme",
+									"incomplete_sync": null,
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 66.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/griver-mobile/client/videos/components/bestmatch/index.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 19116,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										9792,
+										9792
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												9797,
+												9798
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												9787,
+												9788
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended Bright (SL).tmTheme",
+									"incomplete_sync": null,
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 7170.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/_Projects/test/135.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended Bright (SL).tmTheme",
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 3,
+							"file": "/D/griver-mobile/client/videos/components/bestmatch/style.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 13148,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										169,
+										169
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												189,
+												190
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												164,
+												165
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended Bright (SL).tmTheme",
+									"incomplete_sync": null,
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/C/Users/stephen/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 35936,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										490,
+										501
+									]
+								],
+								"settings":
+								{
+									"auto_complete": true,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												502,
+												503
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/double_quote.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												489,
+												490
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended Bright (SL).tmTheme",
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/JavaScriptNext - ES6 Syntax/JSON (JavaScriptNext).tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/C/Users/stephen/AppData/Roaming/Sublime Text 3/Packages/CSScomb/Default.sublime-keymap",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 60,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										24,
+										24
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												30,
+												31
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/double_quote.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												17,
+												18
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended Bright (SL).tmTheme",
+									"incomplete_sync": null,
+									"origin_encoding": "ASCII",
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/JavaScriptNext - ES6 Syntax/JSON (JavaScriptNext).tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/D/OneDrive/_Notes/GStarCloud.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2235,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended Bright (SL).tmTheme",
+									"history_list_is_closing": true,
+									"incomplete_sync": null,
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 395.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/D/griver-mobile/client/videos/components/jz/index.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12331,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										874,
+										874
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												899,
+												900
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												842,
+												843
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended Bright (SL).tmTheme",
+									"incomplete_sync": null,
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 634.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/D/griver-mobile/client/videos/components/authentication/index.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 15897,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										13901,
+										13901
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												13912,
+												13913
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												13901,
+												13902
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended Bright (SL).tmTheme",
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 9134.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/D/griver-mobile/client/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3021,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2409,
+										2409
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												2428,
+												2429
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/double_quote.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												2398,
+												2399
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended Bright (SL).tmTheme",
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 704.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 38.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.460061275316,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 142.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,1,-32000,-32000,-1,-1,1016,-4,561,1920",
+			"project": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"前端",
+						"_Notes\\前端学习笔记.txt"
+					],
+					[
+						"139",
+						"test\\139.html"
+					],
+					[
+						"isso",
+						"isso\\js\\app\\isso.js"
+					],
+					[
+						"front",
+						"_Notes\\front-end.txt"
+					],
+					[
+						"gsta",
+						"_Notes\\GStarCloud.txt"
+					],
+					[
+						"note",
+						"_Notes\\notes1.txt"
+					],
+					[
+						"gstar",
+						"_Notes\\GStarCloud.txt"
+					],
+					[
+						"137",
+						"test\\137.html"
+					],
+					[
+						"英语",
+						"_Notes\\英语笔记.txt"
+					],
+					[
+						"140",
+						"test\\140.js"
+					],
+					[
+						"141",
+						"test\\141.js"
+					],
+					[
+						"iscroll",
+						"test\\libs\\iscroll.js"
+					],
+					[
+						"141.js",
+						"test\\141.js"
+					],
+					[
+						"video",
+						"test\\libs\\video.js"
+					],
+					[
+						"videojs",
+						"griver-mobile\\node_modules\\videojs-font\\fonts\\VideoJS.svg"
+					],
+					[
+						"vdie",
+						"test\\libs\\video.js"
+					],
+					[
+						"140.cs",
+						"test\\140.css"
+					],
+					[
+						"141.h",
+						"test\\141.html"
+					],
+					[
+						"mysl",
+						"griver-mobile\\client\\www\\scripts\\js\\myslider.css"
+					],
+					[
+						"141.c",
+						"test\\141.css"
+					],
+					[
+						"embe",
+						"D:\\_Learning\\embed.min.js"
+					],
+					[
+						"embed",
+						"griver-mobile\\client\\www\\isso\\js\\embed.js"
+					],
+					[
+						"isso.css",
+						"griver-mobile\\client\\www\\isso\\css\\isso.css"
+					],
+					[
+						"140.html",
+						"test\\140.html"
+					],
+					[
+						"138",
+						"test\\138.html"
+					],
+					[
+						"65",
+						"test\\65.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
 			"settings":
 			{
 			},
