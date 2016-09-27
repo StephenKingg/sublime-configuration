@@ -5,6 +5,7 @@
 	"font_size": 12,
 	"ignored_packages":
 	[
+		"JavaScript Completions",
 		"Vintage"
 	],
 	"tab_size": 2,

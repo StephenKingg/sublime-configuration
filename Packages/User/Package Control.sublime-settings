@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"JavaScript Completions"
 	],
 	"installed_packages":
 	[
@@ -27,7 +28,6 @@
 		"Http Requester",
 		"Jade",
 		"JavaScript & NodeJS Snippets",
-		"JavaScript Completions",
 		"JavaScriptNext - ES6 Syntax",
 		"jQuery",
 		"JsFormat",
