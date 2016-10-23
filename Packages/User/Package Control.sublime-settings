@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Autoprefixer",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ConvertChineseCharacters",
+		"CSS3",
+		"CSScomb",
+		"DocBlockr",
+		"Emmet",
+		"jQuery",
+		"Markdown Extended",
+		"Package Control",
+		"Sass",
+		"Terminal",
+		"TrailingSpaces"
+	]
+}
