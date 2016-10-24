@@ -3,6 +3,14 @@
 	"auto_complete_with_fields": true,
 	"color_scheme": "Packages/User/SublimeLinter/Monokai Extended Origin (SL).tmTheme",
 	"draw_white_space": "all",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules"
+	],
 	"font_face": "Source Code Pro Medium",
 	"font_size": 12,
 	"ignored_packages":
@@ -12,6 +20,5 @@
 	],
 	"show_encoding": true,
 	"tab_size": 2,
-	"translate_tabs_to_spaces": true,
-	"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "node_modules"],
+	"translate_tabs_to_spaces": true
 }
