@@ -6,17 +6,27 @@
 	"installed_packages":
 	[
 		"Autoprefixer",
+		"Babel",
 		"BracketHighlighter",
 		"Color Highlighter",
 		"ConvertChineseCharacters",
+		"ConvertToUTF8",
 		"CSS3",
 		"CSScomb",
 		"DocBlockr",
 		"Emmet",
+		"ESLint",
+		"FileDiffs",
+		"GitGutter",
+		"HTMLBeautify",
 		"jQuery",
+		"JsFormat",
 		"Markdown Extended",
+		"Markdown Preview",
+		"Monokai Extended",
 		"Package Control",
 		"Sass",
+		"Sublimerge 3",
 		"Terminal",
 		"TrailingSpaces"
 	]
