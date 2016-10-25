@@ -1,7 +1,7 @@
 {
 	"auto_complete_commit_on_tab": true,
 	"auto_complete_with_fields": true,
-	"color_scheme": "Packages/User/SublimeLinter/Monokai Extended Origin (SL).tmTheme",
+	"color_scheme": "Packages/Monokai Extended/Monokai Extended Origin.tmTheme",
 	"draw_white_space": "all",
 	"folder_exclude_patterns":
 	[
@@ -20,5 +20,6 @@
 	],
 	"show_encoding": true,
 	"tab_size": 2,
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"match_brackets": false,
 }
