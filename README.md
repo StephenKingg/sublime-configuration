@@ -1,2 +1,3 @@
 # sublime-configuration
-plug-in components
+
+sublime text 3 configuration
