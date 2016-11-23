@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Agila Theme",
 		"Autoprefixer",
 		"Babel",
 		"BracketHighlighter",
@@ -24,7 +25,6 @@
 		"JsFormat",
 		"Markdown Extended",
 		"Markdown Preview",
-		"Monokai Extended",
 		"Package Control",
 		"Sass",
 		"SideBarEnhancements",
