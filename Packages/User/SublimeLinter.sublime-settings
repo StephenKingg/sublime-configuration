@@ -1,0 +1,7 @@
+{
+    "user": {
+        "lint_mode": "manual",
+        "linters": {},
+        "mark_style": "squiggly underline"
+    }
+}

@@ -6,5 +6,5 @@
   { "keys": ["alt+shift+j"], "command": "js_format", "context": [{"key": "selector", "operator": "equal", "operand": "source.js,source.json"}] },
   { "keys": ["alt+shift+h"], "command": "html_beautify", "context": [{ "key": "selector", "operator": "equal", "operand": "text.html,text.html.twig,text.twig,source.html,source.html.twig,source.twig" }]},
   { "keys": ["alt+/"], "command": "auto_complete" },
-  { "keys": ["alt+shift+e"], "command": "eslint" },
+  { "keys": ["alt+shift+e"], "command": "sublimelinter_lint" },
 ]
