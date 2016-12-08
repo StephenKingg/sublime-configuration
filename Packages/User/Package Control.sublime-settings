@@ -13,7 +13,6 @@
 		"ConvertChineseCharacters",
 		"ConvertToUTF8",
 		"CSS3",
-		"CSScomb",
 		"DocBlockr",
 		"Emmet",
 		"FileDiffs",
@@ -28,6 +27,7 @@
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-scss-lint",
 		"Sublimerge 3",
 		"Terminal",
 		"TrailingSpaces"

@@ -1,7 +1,6 @@
 [
   { "keys": ["alt+shift+t"], "command": "delete_trailing_spaces" },
   { "keys": ["alt+shift+p"], "command": "autoprefixer" },
-  { "keys": ["alt+shift+c"], "command": "css_comb" },
   { "keys": ["alt+shift+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} },
   { "keys": ["alt+shift+j"], "command": "js_format", "context": [{"key": "selector", "operator": "equal", "operand": "source.js,source.json"}] },
   { "keys": ["alt+shift+h"], "command": "html_beautify", "context": [{ "key": "selector", "operator": "equal", "operand": "text.html,text.html.twig,text.twig,source.html,source.html.twig,source.twig" }]},
