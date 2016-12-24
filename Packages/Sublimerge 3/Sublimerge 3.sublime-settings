@@ -24,6 +24,12 @@
     //visit http://docs.python.org/2/library/codecs.html#standard-encodings
     "shell_fallback_encoding": "ascii",
 
+    //Define the strategy for detecting files encoding, like files from VCS revisions, etc.
+    // "auto" - try to autodetect
+    // ["cp1252", "utf-8"] - detect by trying one-by-one
+    // null - disable
+    "file_encoding_detection_strategy": "auto",
+
     //This will limit the list of comparable files to the files with the same syntax
     "same_syntax_only": true,
 
