@@ -5,7 +5,7 @@
     "html": {
       "abbreviations": {
         "example": "<div class='example' title='Custom element example'>",
-        "!": "{<!DOCTYPE html>}+html[lang=\"en\"]>(head>meta[charset=\"UTF-8\"]+meta[name=\"author\" content=\"Stephen Jin\"]+meta[name=\"description\" content=\"\"]+meta[name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"]+meta[name=\"format-detection\" content=\"telephone=no\"]+meta[name=\"renderer\" content=\"webkit\"]+meta[http-equiv=\"X-UA-Compatile\" content=\"ie=edge, chrome=1\"]+title{Welcome})+(body)",
+        "!": "{<!DOCTYPE html>}+html[lang=\"en\"]>(head>meta[charset=\"UTF-8\"]+meta[name=\"author\" content=\"Stephen King\"]+meta[name=\"description\" content=\"\"]+meta[name=\"keywords\" content=\"\"]+meta[name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"]+meta[name=\"renderer\" content=\"webkit\"]+meta[http-equiv=\"X-UA-Compatile\" content=\"ie=edge, chrome=1\"]+meta[name=\"format-detection\" content=\"telephone=no\"]+title{Welcome})+(body)",
         "favicon": "link[rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/path/favicon.ico\"]+link[rel=\"icon\" type=\"image/png\" href=\"/path/favicon-192x192.png\" size=\"192x192\"]+link[rel=\"apple-touch-icon\" type=\"image/png\" href=\"/path/apple-touch-icon.png\" size=\"180x180\"]",
      }
     }
