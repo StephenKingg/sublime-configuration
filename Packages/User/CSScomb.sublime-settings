@@ -71,7 +71,7 @@
         "unitless-zero": true,
 
         // Whether to align prefixes in properties and values.
-        "vendor-prefix-align": true,
+        "vendor-prefix-align": false,
 
         // Sort properties in particular order.
         "sort-order": [
