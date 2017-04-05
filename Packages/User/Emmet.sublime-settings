@@ -6,7 +6,7 @@
       "abbreviations": {
         "example": "<div class='example' title='Custom element example'>",
         "!": "{<!DOCTYPE html>}+html[lang=\"en\"]+>(head>meta[charset=\"utf-8\"]+meta[name=\"author\" content=\"Stephen King\"]+meta[name=\"description\" content=\"\"]+meta[name=\"keywords\" content=\"\"]+meta[name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"]+meta[name=\"renderer\" content=\"webkit\"]+meta[http-equiv=\"X-UA-Compatile\" content=\"ie=edge, chrome=1\"]+meta[name=\"format-detection\" content=\"telephone=no\"]+title{Welcome})+(body)",
-        "favicon": "link[rel=\"apple-touch-icon-precomposed\" sizes=\"144x144\" href=\"\"]+link[rel=\"apple-touch-icon-precomposed\" sizes=\"114x114\" href=\"\"]+link[rel=\"apple-touch-icon-precomposed\" sizes=\"72x72\" href=\"\"]+link[rel=\"apple-touch-icon-precomposed\" href=\"\"]+link[rel=\"shortcut icon\" href=\"\"]+link[rel=\"icon\" sizes=\"16x16 32x32\" href=\"\"]"
+        "favicon": "link[rel=\"apple-touch-icon-precomposed\" href=\"\" type=\"image/x-icon\" sizes=\"144x144\"]+link[rel=\"apple-touch-icon-precomposed\" href=\"\" type=\"image/x-icon\" sizes=\"114x114\"]+link[rel=\"apple-touch-icon-precomposed\" href=\"\" type=\"image/x-icon\" sizes=\"72x72\"]+link[rel=\"apple-touch-icon-precomposed\" href=\"\" type=\"image/x-icon\"]+link[rel=\"shortcut icon\" href=\"\" type=\"image/x-icon\"]+link[rel=\"icon\" href=\"\" type=\"image/x-icon\" sizes=\"16x16 32x32\"]"
      }
     }
   },
