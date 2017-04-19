@@ -25,11 +25,11 @@
 	// - The user's home directory, e.g.: `$HOME/node_modules/.bin/prettier`.
 	// - Look in the JsPrettier Sublime Text plug-in directory for
 	//   `node_modules/.bin/prettier`.
-	// - Finally, check if prettier is installed globbaly,
+	// - Finally, check if prettier is installed globally,
 	//   e.g.: `npm install -g prettier`.
 	//
-	// nvm users are required to set an appropriate `prettier_cli_path` (and
-	// `node_path`), according to the target runtime environment.
+	// nvm users are required to set an appropriate absolute `prettier_cli_path`
+	// (and absolute `node_path`), according to the target runtime environment.
 	//
 	// Examples:
 	//
@@ -46,8 +46,9 @@
 	// However, if Sublime Text has problems resolving the "absolute" path to
 	// `node`, you can explicitly specify the path here.
 	//
-	// nvm users will be required to set an appropriate "absolute" `node_path`
-	// (and `prettier_cli_path`), according to the target runtime environment.
+	// nvm users will be required to set an appropriate absolute `node_path`
+	// (and absolute `prettier_cli_path`), according to the target runtime
+	// environment.
 	//
 	// Examples:
 	//
@@ -79,7 +80,6 @@
 	// please reference the `prettier` documentation at https://github.com/jlongster/prettier
 
 	"prettier_options": {
-
 		// Fit code within this line limit
 		"printWidth": 80,
 
@@ -103,7 +103,10 @@
 		"jsxBracketSameLine": false,
 
 		// Which parser to use. Valid options are "flow" and "babylon"
-		"parser": "babylon"
+		"parser": "babylon",
 
+		// Whether to add a semicolon at the end of every line (semi: true),
+		// or only at the beginning of lines that may introduce ASI failures (semi: false)
+		"semi": true
 	}
 }

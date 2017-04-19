@@ -52,6 +52,11 @@ PRETTIER_OPTION_CLI_MAP = [
         'option': 'parser',
         'cli': '--parser',
         'default': 'babylon'
+    },
+    {
+        'option': 'semi',
+        'cli': '--semi',
+        'default': 'true'
     }
 ]
 
@@ -118,10 +123,11 @@ class JsPrettierCommand(sublime_plugin.TextCommand):
 
             if os.path.exists(project_prettier_path):
                 return project_prettier_path
-            elif os.path.exists(plugin_prettier_path):
+
+            if os.path.exists(plugin_prettier_path):
                 return plugin_prettier_path
-            else:
-                return global_prettier_path
+
+            return global_prettier_path
 
         # handle cases when the user specifies a prettier cli path that is
         # relative to the working file or project:
@@ -137,6 +143,14 @@ class JsPrettierCommand(sublime_plugin.TextCommand):
     @property
     def tab_size(self):
         return int(self.view.settings().get('tab_size', 2))
+
+    @property
+    def use_tabs(self):
+        translate_tabs_to_spaces = self.view.settings().get(
+            'translate_tabs_to_spaces', True)
+        if not translate_tabs_to_spaces:
+            return True
+        return False
 
     @property
     def allow_inline_formatting(self):
@@ -259,8 +273,7 @@ class JsPrettierCommand(sublime_plugin.TextCommand):
                 self.format_error_message(
                     stderr.decode('utf-8'), str(proc.returncode))
                 return None
-            else:
-                return stdout.decode('utf-8')
+            return stdout.decode('utf-8')
         except OSError as ex:
             sublime.error_message('{0} - {1}'.format(PLUGIN_NAME, ex))
             raise
@@ -321,9 +334,13 @@ class JsPrettierCommand(sublime_plugin.TextCommand):
                 prettier_cli_args.append(cli_option_name)
                 prettier_cli_args.append(option_value)
 
-        # get/set the `tabWidth` based on the current view:
+        # set the `tabWidth` option based on the current view:
         prettier_cli_args.append('--tab-width')
         prettier_cli_args.append(str(self.tab_size))
+
+        # set the `useTabs` option based on the current view:
+        prettier_cli_args.append('{0}={1}'.format(
+            '--use-tabs', str(self.use_tabs).lower()))
 
         return prettier_cli_args
 
@@ -347,8 +364,7 @@ class JsPrettierCommand(sublime_plugin.TextCommand):
                 if os.path.isfile(exec_path):
                     return exec_path
             return None
-        else:
-            return executable
+        return executable
 
     def show_debug_message(self, label, message):
         if not self.debug:
@@ -382,9 +398,12 @@ class JsPrettierCommand(sublime_plugin.TextCommand):
             return folders[0]
         else:
             active_view = window.active_view()
-            active_file_name = active_view.file_name() if active_view else None
+            if active_view:
+                active_file_name = active_view.file_name()
+            else:
+                active_file_name = None
             if not active_file_name:
-                return folders[0] if len(folders) else os.path.expanduser("~")
+                return folders[0] if len(folders) else os.path.expanduser('~')
             for folder in folders:
                 if active_file_name.startswith(folder):
                     return folder
@@ -508,7 +527,7 @@ class JsPrettierCommand(sublime_plugin.TextCommand):
         new_line_inserted = False
         if view.size() > 0 and view.substr(view.size() - 1) != '\n':
             new_line_inserted = True
-            view.insert(edit, view.size(), "\n")
+            view.insert(edit, view.size(), '\n')
         return new_line_inserted
 
     @staticmethod
