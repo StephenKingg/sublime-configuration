@@ -1,27 +1,43 @@
 ## Reporting an Issue
 
-When [reporting an issue](https://github.com/jonlabelle/SublimeJsPrettier/issues),
-please include the following information in your post:
+When [reporting an issue](https://github.com/jonlabelle/SublimeJsPrettier/issues), please include the following information in your post:
 
-- [ ] Your installed **Prettier** version
-- [ ] Your installed **JsPrettier** version
-- [ ] The generated **command line arguments** passed to Prettier
-- [ ] **Steps to reproduce** the behavior
-- [ ] Is the same behavior observed when **run against Prettier directly** from the command line?
+- [ ] **Explain the issue**
+- [ ] **Prettier version**
+- [ ] **JsPrettier version**
+- [ ] **Platform details**
+- [ ] **The generated Prettier command line arguments**
+- [ ] **Steps to reproduce the behavior**
+- [ ] **Is the same behavior observed when run against Prettier directly?**
 
 ### Example
 
-**Prettier version**
+**Explain the issue**
+
+*Explain the issue with as much detail as possible...*
+
+**Prettier version** (command line)
 
     $ prettier --version
-    1.1.0
+    <PRETTIER_VERSION>
 
 **JsPrettier version** (package.json)
 
+    ...
     "name": "sublime-js-prettier",
-    "version": "1.7.2",
+    "version": "<JS_PRETTIER_PLUGIN_VERSION>",
+    ...
 
-**Prettier command line arguments** (enable the `debug` setting and open the ST console)
+**Platform details**
+
+    - Sublime Text Version: <SUBLIME_TEXT_VERSION>
+    - Sublime Text Build: <SUBLIME_TEXT_BUILD>
+    - Sublime Text Architecture: <SUBLIME_TEXT_ARCHITECTURE>
+    - Operating System Name: <OS_NAME>
+    - Operating System Version: <OS_VERSION>
+    - Operating System Architecture: <OS_ARCHITECTURE>
+
+**Prettier command line arguments** (enable the [debug setting] and open the Sublime Text console to view the cli args passed to Prettier)
 
     /usr/local/bin/prettier           \
         --stdin                       \
@@ -36,9 +52,7 @@ please include the following information in your post:
         --tab-width 4                 \
         --use-tabs=true
 
-Is the same behavior observed when **run against Prettier directly** from the
-command line? For example, to pass the contents of file `path_to_js_file.js` to
-Prettier from the command line.
+**Is the same behavior observed when run against Prettier directly?** For example, to pass the contents of file `path_to_js_file.js` to Prettier from the command line.
 
     /usr/local/bin/prettier           \
         --stdin                       \
@@ -54,8 +68,10 @@ Prettier from the command line.
         --use-tabs=true               \
         < path_to_js_file.js
 
-**Steps to reproduce** the behavior
+**Steps to reproduce the behavior**
 
     1. ...
     2. ...
     3. ...
+
+[debug setting]: https://github.com/jonlabelle/SublimeJsPrettier/blob/master/JsPrettier.sublime-settings#L9
